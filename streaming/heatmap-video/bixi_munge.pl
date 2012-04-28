@@ -32,4 +32,4 @@ foreach my $station (@{$parsed_stations}) {
        $csv->combine(@values);
        print $fh $csv->string(), "\n";
 }
-
+print $timestamp, "\n";
