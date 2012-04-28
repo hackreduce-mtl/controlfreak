@@ -14,20 +14,22 @@ my $ob = new XML::Bare( text => $station_xml) or die "Error creating XML::Bare o
 my $root = $ob->parse() or die "Error parsing file $file_name";;
 my $parsed_stations = $root->{stations}->{station}; 
 my $timestamp = $root->{stations}->{lastUpdate}->{value};
+$file_name=~s/..ml//g;
+$timestamp = `basename $file_name` unless $timestamp;
+chomp $timestamp;
+
+open my $fh , '>',  "/tmp/$timestamp.csv";
 
 #my @keys = ('id', 'name', 'terminalName', 'lat', 'long', 'installed', 'locked', 'installDate', 'removalDate', 'temporary', 'nbBikes', 'nbEmptyDocks', 'latestUpdateTime');
 my @keys = ('lat', 'long', 'nbBikes', 'nbEmptyDocks');
 foreach my $station (@{$parsed_stations}) {
         my @values;
-        $file_name=~s/..ml//g;
-        $timestamp = `basename $file_name` unless $timestamp;
-        chomp $timestamp;
         push(@values, $timestamp);
         foreach my $key (@keys) {
       	  my $val = $station->{$key}->{value};
       	  push(@values,$val);
         }
        $csv->combine(@values);
-       print $csv->string(), "\n";
+       print $fh $csv->string(), "\n";
 }
 
