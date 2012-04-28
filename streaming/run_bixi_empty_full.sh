@@ -3,6 +3,6 @@ java -classpath ".:lib/*" org.apache.hadoop.streaming.HadoopStreaming \
     -reducer bixi_empty_full_reducer.py \
     -file ~/users/controlfreak/streaming/bixi_empty_full_mapper.py \
     -file ~/users/controlfreak/streaming/bixi_empty_full_reducer.py \
-    -input /datasets/montreal/2012.csv \
+    -input /datasets/bixidata/montreal/2012.csv \
     -output /tmp/bixidata_result.txt
 
