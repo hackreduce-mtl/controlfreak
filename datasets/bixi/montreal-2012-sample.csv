@@ -1,0 +1,2000 @@
+1,"Notre Dame / Place Jacques Cartier",6001,45.508183,-73.554094,true,true,1332691320000,,false,15,16,1332945081985
+2,Dézery/Ste-Catherine,6002,45.5392,-73.5414,false,false,,,false,0,3,1331919252617
+3,"Saint-Denis / René-Lévesque",6003,45.51289,-73.5585,false,false,,,false,0,3,1331735489824
+4,"Berri / Saint-Antoine",6004,45.51205360327094,-73.55393081903458,true,true,1332695940000,,false,13,12,1332954997435
+5,"Hotel-de-Ville / Viger",6005,45.50938,-73.557223,false,false,,,false,0,3,1331746404685
+6,"Saint-Antoine / de l'Hôtel-de-Ville",6006,45.50875,-73.55613,true,true,1332691560000,,false,0,15,1332925986608
+7,"de l'Hôtel-de-Ville / Sainte-Catherine",6007,45.51164009357107,-73.5621839761734,false,false,,,false,0,3,1331737746034
+8,"Sanguinet /Ste-Catherine",6008,45.512738,-73.561438,false,true,,,false,0,27,1332975202220
+9,"Berri / Sainte-Catherine",6009,45.51462481358633,-73.55977535247803,false,true,,,false,0,10,1321679172464
+10,"Sainte-Catherine / Saint-Denis",6901,45.51371137074363,-73.56054782867432,false,false,,,false,0,3,1331737768889
+11,"Saint-André / Saint-Antoine",6011,45.514076,-73.552439,false,false,,,false,0,3,1332158901772
+12,"Métro Saint-Laurent",6012,45.51066,-73.56497,false,false,,,false,0,3,1331919162330
+13,"Sanguinet / de Maisonneuve",6013,45.51339,-73.56255,true,true,1332960660000,,false,0,27,1332957848487
+14,"St-Denis / Maisonneuve",6014,45.514649,-73.562152,false,true,,,false,0,23,1321765791067
+15,"Berri / de Maisonneuve",6015,45.515299,-73.561273,true,true,1332960480000,,false,0,31,1332942540472
+16,"Saint-André / de Maisonneuve",6016,45.51699292968662,-73.55965733528137,false,false,,,false,0,14,1320686801761
+17,"Robin / Amherst",6017,45.51905,-73.56091,false,true,,,false,0,11,1321852752756
+18,"Saint-André / Ontario",6018,45.51889,-73.56353,false,true,,,false,0,11,1321852624697
+19,Savoie/Ontario,6019,45.51637,-73.5649812,true,true,,,false,0,23,1332944735475
+20,"Hotel de Ville / Ontario",6020,45.513481,-73.566262,false,false,,,true,0,3,1331745516960
+21,"Beaudry / Sherbrooke",6902,45.523007,-73.565183,false,true,,,false,1,2,1321690063373
+22,"de la Commune / Berri",6023,45.51086,-73.54983,false,false,,,false,0,3,1332000677788
+23,"Saint-Timothée / Sainte-Catherine",6024,45.51699292968662,-73.55744183063507,false,false,,,false,0,3,1331746116504
+24,"Notre-Dame / Saint-Gabriel",6025,45.50714391928411,-73.55511903762817,true,true,1332709320000,,false,11,12,1332944691985
+25,"de la Commune / Place Jacques-Cartier",6026,45.50719279267449,-73.5520076751709,true,true,1332695760000,,false,0,49,1332926634351
+26,"Le Royer / Saint-Laurent",6027,45.50589,-73.55431,false,false,,,false,0,3,1331907660096
+28,Belair/St-Antoine,6029,45.482843,-73.584352,false,true,,,false,0,3,1321569120671
+30,"Saint-Antoine / Saint-François-Xavier",6031,45.50449,-73.5592,false,false,,,false,0,3,1331999881759
+31,"Métro Place-d'Armes",6032,45.50623,-73.55976,false,false,,,false,0,3,1332000684317
+32,"Chenneville / Viger",6033,45.50536,-73.56093,false,false,,,false,0,3,1332000312503
+33,"Saint-Urbain / René-Lévesque",6034,45.5079,-73.563112,false,false,,,false,0,3,1331918878184
+34,"de la Gauchetière / Bleury",6035,45.50439,-73.56257,false,false,,,false,0,3,1331919476805
+35,"de la Commune / Saint-Sulpice",6036,45.50406856984278,-73.55360627174377,false,false,,,false,0,3,1331918294310
+36,"Saint-Nicolas / Place d'Youville",6037,45.50197437877896,-73.55515658855438,true,true,1332709920000,,false,0,15,1332926329827
+37,"McGill / d'Youville",6038,45.49975,-73.55566,true,true,1332696960000,,false,0,31,1332927413069
+38,"McGill / des Récollets",6039,45.500779,-73.558826,false,false,,,false,0,3,1331724350075
+39,"Saint-Jacques / Saint-Pierre",6040,45.5028,-73.55917,true,true,1332695580000,,false,1,0,1332965506165
+40,"Saint-Jacques / Gauvin",6041,45.500741,-73.560956,true,true,1332709380000,,false,19,20,1332956437610
+41,"de la Gauchetière / University",6042,45.50112,-73.56493,true,true,1332811620000,,false,0,23,1332923545972
+42,"Square Victoria",6043,45.50206,-73.56295,true,true,1332708060000,,false,8,7,1332955788190
+43,"University/René Levesques ",6044,45.501885,-73.567019,false,false,,,false,0,3,1331906851506
+45,"de la Gauchetière / Mansfield",6046,45.49871,-73.56671,true,true,1332811500000,,false,0,19,1332927470466
+46,"Milton / Durocher",6204,45.508231,-73.574707,false,false,,,false,0,3,1331908528790
+47,"King / De la Commune",6048,45.497438,-73.552802,false,false,,,false,0,3,1331723263150
+48,"King / Wellington",6049,45.4982,-73.55488,true,true,1332811440000,,false,0,31,1332926930357
+49,"de la Commune / McGill",6050,45.49886,-73.55232,false,true,,,false,0,7,1332924832080
+50,Prince/William,6051,45.497955,-73.558064,false,true,,,false,0,3,1332332537327
+51,"Duke / Wellington",6052,45.49643,-73.55583,false,false,,,false,0,3,1331233852302
+52,"Belmont / Beaver Hall",6053,45.502326,-73.565138,false,false,,,false,0,3,1331919373010
+55,"Peel / ave des Canadiens de Montréal",6057,45.497697,-73.568646,true,false,1332786720000,,false,0,11,1320654642888
+56,"Drummond / Rene Levesques",6058,45.497196,-73.571384,true,true,1332707460000,,false,0,39,1332924893049
+57,"Metcalfe / Sainte-Catherine",6059,45.50068473942228,-73.57215642929077,true,true,1332872640000,,false,0,31,1332927221823
+58,"Mansfield / René-Lévesque",6060,45.50015,-73.56928,true,true,1332696360000,,false,0,19,1332924693009
+59,"Sainte-Catherine / McGill College",6061,45.50176,-73.57128,true,true,1332786660000,,false,0,11,1321426212258
+60,"Drummond / Sainte-Catherine",6062,45.49863930330429,-73.57422709465027,true,true,1332696000000,,false,0,31,1332925245691
+61,"Drummond / de Maisonneuve",6063,45.49947,-73.57591,true,true,1332696120000,,false,0,31,1332925522150
+62,"de Maisonneuve / Stanley",6064,45.50038,-73.57507,true,true,1332786540000,,false,0,40,1332923562597
+63,"de la montagne / Sherbrooke",6065,45.499726,-73.578834,false,false,,,false,0,3,1331913962488
+64,"de Maisonneuve / University",6067,45.503475,-73.572103,false,false,,,false,0,3,1331908892223
+65,"Mansfield / Sherbrooke",6068,45.50297,-73.57505,false,false,,,false,0,3,1331919515397
+67,"University / Milton",6070,45.50624,-73.57622,false,false,,,false,0,22,1320581920870
+68,"de Maisonneuve / Aylmer",6073,45.50501,-73.57069,true,true,1332709860000,,false,0,23,1332926205940
+69,"Victoria / President-Kennedy",6076,45.5039077,-73.5730531,false,false,,,false,0,3,1332167059451
+71,"de Maisonneuve / de Bleury",6078,45.50708,-73.56917,true,true,1332786420000,,false,0,55,1332924825258
+72,"Mackay / René-Lévesque",6080,45.49449932378212,-73.57417345046997,false,false,,,false,0,3,1331914632380
+73,"Saint-Alexandre / Sainte-Catherine",6081,45.505458,-73.567945,true,true,1332709740000,,false,0,23,1332923718562
+74,"Mackay / ste-catherine",6082,45.495842,-73.577057,false,false,,,true,0,3,1331915736721
+75,"Square Phillips",6083,45.50401,-73.56865,false,true,,,false,0,25,1321402528783
+76,"Lambert-Closse / Tupper",6084,45.489609,-73.582445,false,false,,,false,0,3,1331908765686
+77,"Notre-Dame / Peel",6085,45.4952,-73.56328,false,false,,,false,0,3,1332164290325
+78,"Saint-Jacques / Guy",6089,45.49138,-73.57015,false,true,,,false,0,3,1332250342530
+79,"Métro Lucien-L'Allier",6090,45.49486,-73.57108,false,false,,,false,0,3,1332964515242
+80,"Baile / St-Mathieu",6091,45.492845,-73.577781,false,true,,,true,0,11,1321426174998
+81,"Crescent / René-Lévesque",6092,45.49606,-73.57348,true,true,1332706740000,,false,0,31,1332926579899
+82,"Chateaubriand / Beaubien",6912,45.535431,-73.603522,false,true,,,false,0,11,1321416044399
+83,"Métro Atwater",6194,45.489904,-73.585962,false,false,,,false,0,3,1331724212147
+84,"Chomedey / de Maisonneuve",6095,45.49156,-73.5838,false,true,,,false,0,11,1321705613342
+85,"Lucien-L'Allier / Saint-Jacques",6096,45.49321,-73.56795,false,true,,,false,0,3,1332251272950
+86,"Sainte-Catherine / Saint-Marc",6097,45.49275,-73.58061,false,true,,,false,0,7,1321599723329
+87,"Bishop / Sainte-Catherine",6098,45.49642,-73.57616,false,true,,,false,0,11,1321512893657
+88,"Crescent / de Maisonneuve",6099,45.498104,-73.577729,false,false,,,false,0,3,1331910016936
+89,"de Maisonneuve / Mackay",6100,45.49659,-73.57851,false,false,,,false,0,3,1331237818663
+90,"Metro Villa Maria",6101,45.48,-73.6189,false,false,,,false,0,3,1331834800323
+91,"Lincoln / Dufort",6102,45.493034,-73.583836,false,false,,,false,0,3,1331908535696
+92,Bishop/sherbrooke,6103,45.4983,-73.5798,false,false,,,false,0,3,1331243392876
+93,"Wolfe / René-Lévesque",6104,45.516872646826776,-73.55417490005493,true,true,1332811920000,,false,0,31,1332891647459
+94,"Plessis / René-Lévesque",6105,45.51954,-73.552,false,true,,,false,0,11,1321679157471
+95,"René-Lévesque / Papineau",6106,45.52114,-73.54926,false,true,,,false,0,3,1332169190487
+96,"Sainte-Catherine / Guy",6107,45.49500696707128,-73.57803583145142,false,true,,,false,0,11,1321512801065
+97,"Logan / Fullum",6108,45.528448693514136,-73.55108499526978,true,true,1332811140000,,false,0,15,1332926270802
+98,"Fullum / Jean-Langlois",6109,45.52615,-73.54612,false,false,,,false,0,3,1332174208597
+99,"Poupart / Sainte-Catherine",6110,45.52831340282976,-73.5469651222229,false,false,,,false,0,3,1332174049614
+100,"Parthenais / Sainte-Catherine",6111,45.52622,-73.54933,true,true,1332811200000,,false,9,10,1332954010336
+101,"Métro Beaudry",6112,45.51907,-73.55581,false,true,,,false,0,17,1321679170954
+102,"Alexandre-DeSève / Maisonneuve",6113,45.5219,-73.55534,false,true,,,false,0,11,1321765826732
+103,"Métro Papineau",6114,45.52353,-73.55199,true,true,1332812040000,,false,10,15,1332944275585
+104,"Benny/ Monkland",6115,45.4666,-73.6311,false,false,,,false,0,3,1331832984362
+105,"Plessis / Ontario",6116,45.523584,-73.560941,true,true,1332810780000,,false,9,10,1332944978229
+106,"Robin / de la Visitation",6117,45.52087,-73.55922,false,true,,,false,0,11,1321755702679
+107,"Champlain / Ontario",6118,45.52504753729988,-73.56003552675247,false,true,,,false,0,15,1321679156105
+108,"Dorion / Ontario",6119,45.52695,-73.55821,true,true,1332867240000,,false,10,17,1332945684036
+109,"Parthenais / Ontario",6120,45.52954,-73.55622,false,true,,,false,0,10,1321765906243
+110,"de Rouen / d'Iberville",6121,45.53387508488986,-73.55639576911926,false,true,,,false,0,3,1321812974294
+111,"Logan / d'Iberville",6122,45.53057,-73.54913,true,true,1332864720000,,false,8,7,1332954700139
+112,"Alexandre de Sève / La Fontaine",6123,45.523217,-73.558187,true,true,1332812280000,,false,8,7,1332954591944
+113,"Métro Frontenac",6124,45.533178,-73.55306,false,true,,,false,0,29,1321766486922
+114,"Hogan / Ontario",6125,45.5354,-73.55121,false,false,,,false,0,2,1332341642086
+115,"Rouen / Fullum",6126,45.53217,-73.55859,true,true,1332867300000,,false,8,7,1332955579995
+116,"du Havre / Hochelaga",6127,45.535915483036966,-73.55821967124939,false,false,,,false,0,3,1332923862492
+117,"Hogan / de Rouen",6128,45.536274,-73.554043,false,true,,,false,0,3,1332419814748
+118,"Sherbrooke / Frontenac",6130,45.5367,-73.56081,false,false,,,false,0,10,1321329174678
+119,"Sherbrooke / Fullum",6131,45.53375,-73.56196,true,true,1332959700000,,false,0,15,1332947474528
+120,"Terasse Mercure / Fulum",6133,45.535614,-73.566014,true,true,1332812100000,,false,0,15,1332924003950
+121,"de Bordeaux / Sherbrooke",6129,45.53002706078813,-73.56317639350891,true,true,1332810900000,,false,8,7,1332956314580
+122,"Prince Arthur/Ste-Famille ",6202,45.511721,-73.574442,false,true,,,true,0,11,1321599554331
+123,"University / Prince-Arthur",6047,45.50733,-73.57845,false,false,,,false,0,3,1331909253667
+124,"University / des Pins",6079,45.508164612433625,-73.58017891645432,false,true,,,false,0,15,1321512894784
+125,"Molson / William - Tremblay",6022,45.541532,-73.565258,false,false,,,false,0,3,1331906816855
+126,"Atwater / Sherbrooke",6093,45.49132174886071,-73.58780980110168,false,true,,,false,0,15,1321512783412
+127,"Drolet / Beaubien",6913,45.533364,-73.605837,false,false,,,false,0,3,1331897988143
+128,"Casgrain / Beaubien",6915,45.531425,-73.607591,false,true,,,false,0,11,1321512799866
+129,"Parc du Pélican",6916,45.54483,-73.572811,false,false,,,false,0,3,1332341424428
+130,"9e Avenue / Dandurand",6918,45.550769,-73.57711,false,false,,,false,0,3,1332318191957
+131,"Marquette / Jean-Talon",6923,45.54735612315234,-73.60760986804962,false,true,,,false,0,11,1321426076761
+132,"des Écores / Jean-Talon",6925,45.55244260913485,-73.60300183296204,false,false,,,false,0,11,1321376725895
+133,"Président-Kennedy / University",6072,45.50463252180637,-73.57255339622498,false,false,,,false,0,3,1331910053919
+134,"Drummond / du Docteur-Penfield",6075,45.50194054022276,-73.58126521110535,false,false,,,false,0,3,1331241328973
+135,"Gascon / Rachel",6134,45.53797,-73.5627,false,true,,,false,0,15,1332969632410
+136,"Larivière / de Lorimier",6132,45.52915520624575,-73.559410572052,true,true,1332811800000,,false,7,8,1332957175549
+137,"Parthenais / Rachel",6136,45.53417194299746,-73.56608927249908,false,false,,,false,0,11,1320766038998
+138,"Gauthier / Papineau",6137,45.530202,-73.56663,false,true,,,false,0,3,1332259129898
+139,"de Bordeaux / Gauthier",6138,45.5313,-73.566,false,false,,,false,0,3,1332258563836
+140,"Gauthier / des Érables",6139,45.53237,-73.56437,false,true,,,false,0,7,1321679165438
+141,"Marquette / Rachel",6140,45.5298015824607,-73.5702896118164,true,false,1332810840000,,false,0,15,1320762737116
+142,"de Bordeaux / Rachel",6141,45.53227,-73.56828,false,true,,,false,0,15,1332924249224
+143,"Garnier / Rachel",6142,45.52865,-73.57163,false,false,,,false,0,3,1332177541963
+144,"Rachel / Brébeuf",6143,45.52689,-73.57264,true,true,1332811380000,,false,0,15,1332926102238
+145,"du Parc-La Fontaine / Duluth",6145,45.52469,-73.57221,true,true,1332811380000,,false,0,11,1332926809719
+146,"du Parc-La Fontaine / Roy",6146,45.523084,-73.568731,true,true,1332864360000,,false,0,11,1332923265456
+147,"Calixa-Lavallée / Sherbrooke",6147,45.52479,-73.56545,true,true,1332864240000,,false,0,31,1332959622248
+148,"Émile-Duployé / Sherbrooke",6148,45.52729,-73.56463,true,true,1332960120000,,false,0,23,1332933571509
+149,"Chapleau / Mont-Royal",6149,45.53867,-73.56936,false,true,,,false,0,11,1332966235020
+150,"Fullum / Mont-Royal",6150,45.537553,-73.570182,false,true,,,false,0,11,1321852598350
+151,"des Érables / Mont-Royal",6151,45.53565,-73.57172,false,false,,,false,0,11,1321369724911
+152,"Chabot / Mont-Royal",6152,45.53413436610843,-73.57349216938019,true,true,1332865260000,,false,0,19,1332924864625
+153,"Marie-Anne / Papineau",6153,45.53189473818018,-73.5723227262497,true,true,1332811680000,,false,0,3,1332926912799
+154,"Marquette / Mont-Royal",6154,45.53229,-73.57544,false,true,,,false,0,19,1332925988431
+155,"Garnier / Mont-Royal",6155,45.53092,-73.57674,false,true,,,false,0,27,1332931088200
+156,"Marie-Anne / de la Roche",6156,45.52773841379083,-73.5762494802475,true,true,1332864660000,,false,0,19,1332951516576
+157,"de la Roche / Mont-Royal",6157,45.52856,-73.57828,true,true,1332866340000,,false,0,19,1332926510715
+158,"Gilford / Brébeuf",6158,45.53073,-73.58153,true,true,1332866880000,,false,0,15,1332884506972
+159,"Marquette / Gilford",6159,45.5339,-73.57891,false,true,,,false,0,15,1332925730594
+160,"Garnier / Saint-Joseph",6160,45.53297,-73.58118,false,true,,,false,0,19,1332972886442
+161,"Cartier / Saint-Joseph",6161,45.53576,-73.57867,false,true,,,false,0,23,1332970397118
+162,"Messier / Saint-Joseph",6162,45.53928,-73.57596,true,true,1332960180000,,false,0,15,1332937906136
+163,"Marquette / Laurier",6163,45.53543,-73.5822,false,true,,,false,0,23,1332925454643
+164,"Garnier / Laurier",6164,45.53388,-73.58315,false,false,,,false,0,3,1332169075751
+165,"Brébeuf / Laurier",6165,45.53248,-73.58507,true,true,1332872820000,,false,0,31,1332927412317
+166,"Brébeuf / Saint-Grégoire",6166,45.5341,-73.58852,true,true,1332872820000,,false,0,3,1332428469813
+167,"Marquette / Saint-Grégoire",6167,45.53703,-73.58584,false,false,,,false,0,3,1332254717901
+168,"Chabot / Masson",6168,45.538298,-73.582703,true,false,1332959460000,,false,0,3,1332165585606
+169,"de Mentana / Saint-Grégoire",6169,45.53187,-73.59064,true,true,1332872880000,,false,0,19,1332922830418
+170,"de Mentana / Laurier",6170,45.53004,-73.5867,false,true,,,false,0,23,1332973971178
+171,Wolfe/Ontario,6171,45.5208,-73.5627,true,true,1332811860000,,false,0,27,1332926384387
+173,"Cherrier / Berri",6173,45.5191458,-73.5692414,false,true,,,false,0,3,1331999683723
+174,"Roy / Saint-Denis",6174,45.51908,-73.5727,false,false,,,false,0,3,1331729545117
+175,"Saint-André / Roy",6175,45.52186,-73.57047,false,false,,,false,0,3,1331998495635
+176,"St-André / Duluth",6176,45.523171,-73.573431,true,true,1332865320000,,false,0,23,1332923795275
+177,"Saint-André / Rachel",6177,45.524222,-73.575771,true,true,1332866340000,,false,0,3,1332251980674
+178,"Rachel / Berri",6178,45.522721103182064,-73.57726335525513,true,true,1332959880000,,false,0,23,1332943441881
+179,"Duluth / Saint-Denis",6179,45.52077419099789,-73.57577741146088,true,true,1332959820000,,false,0,23,1332938456462
+180,"De Bullion/Rachel",6180,45.519346,-73.5802,true,true,1332698820000,,true,0,11,1332925222912
+181,Clarck/Rachel,6181,45.516853,-73.582648,false,false,,,false,0,2,1332167161023
+182,"Buillon / Mont-Royal",6182,45.5215,-73.5851,false,true,,,false,0,23,1332924231138
+183,"Laval / Mont-Royal",6183,45.52241290921658,-73.58412981033325,false,false,,,false,0,3,1331316382800
+184,"Métro Mont-Royal",6184,45.52468,-73.58199,false,false,,,false,0,3,1332167773541
+185,"Saint-André / Mont-Royal",6185,45.52633,-73.58047,false,true,,,false,0,23,1332925256545
+186,"Boyer / Mont-Royal",6186,45.52743,-73.58002,true,true,1332866040000,,false,0,27,1332925899630
+187,"Saint-André / de Bienville",6187,45.5272,-73.58226,true,true,1332872700000,,false,0,15,1332924749378
+188,"Marie-Anne / Saint-Hubert",6188,45.52473,-73.57878,true,true,1332960060000,,false,0,11,1321765934275
+189,Chabot/Everret,6189,45.5507,-73.6096,false,true,,,false,0,3,1332785647162
+190,"Berri / Saint-Joseph",6190,45.52749,-73.58714,false,true,,,false,0,14,1332923956385
+191,"Saint-André / Saint-Joseph",6191,45.52856,-73.58545,true,true,1332866520000,,false,0,15,1332925398500
+192,"Métro Laurier",6192,45.52811,-73.5887,false,false,,,false,0,3,1332166840373
+193,"Henri-Julien / Laurier",6193,45.525851,-73.590567,false,false,,,false,0,3,1332177890460
+194,"Henri-Julien / Maguire",6094,45.527265,-73.593402,false,false,,,false,0,3,1332164945502
+195,"de Bullion / Boul. Saint-Joseph",6195,45.52377,-73.58978,false,true,,,false,0,15,1332925414703
+196,"Ste-Famille / Sherbrooke",6196,45.5100249,-73.5707441,false,true,,,true,0,11,1321679166264
+197,Rivard/Boucher,6197,45.5285,-73.5913,false,false,,,false,0,3,1332168314080
+198,"Hélène-Baillargeon / Saint-Denis",6198,45.52974,-73.59527,false,false,,,false,0,3,1332168342315
+199,"Clark / Saint-Viateur",6199,45.52517156097331,-73.5993754863739,false,true,,,false,0,11,1321426173627
+200,"Maguire / Saint-Laurent",6200,45.52457,-73.59588,false,false,,,false,0,3,1332158991039
+201,"Villeneuve / de l'Hôtel-de-Ville",6201,45.52352540631033,-73.58750939369202,false,true,,,false,0,19,1332926377507
+202,"Hutchison / Sherbrooke",6203,45.50781,-73.57208,false,false,,,false,0,3,1331242719904
+203,"Milton / du Parc",6205,45.50971,-73.57354,false,true,,,false,0,11,1321512800562
+204,"Prince-Arthur / du Parc",6206,45.51059,-73.57547,false,false,,,false,0,3,1332168504383
+205,"Sainte-Famille / des Pins",6207,45.51281294953485,-73.57701659202576,false,false,,,false,0,3,1331721711020
+206,"Hutchison / des Pins",6208,45.51069,-73.57805,false,false,,,false,0,3,1331721956618
+207,"Milton / Clark",6209,45.51252,-73.57062,false,true,,,false,0,15,1321599665762
+208,"Metro  Sauvé",6210,45.5509,-73.656,false,true,,,false,0,3,1332173717894
+209,"Roy / Saint-Laurent",6211,45.51561,-73.57569,false,false,,,false,0,3,1332173673766
+210,"Duluth / Saint-Urbain",6212,45.51566,-73.58064,false,true,,,false,0,11,1321512804725
+211,"Duluth / Saint-Laurent",6213,45.5171,-73.57921,false,false,,,false,0,3,1332167804966
+212,"Square Saint-Louis",6214,45.51735,-73.56906,true,true,1332959340000,,false,0,43,1332940565162
+213,"Saint-Cuthbert / Saint-Urbain",6215,45.51494,-73.57821,true,true,1332959400000,,false,0,19,1332946511409
+214,"Parc du Mont-Royal",6216,45.51496,-73.58503,false,false,,,false,0,3,1332165432355
+215,"Marie-Anne / Saint-Urbain",6217,45.51778,-73.58531,false,true,,,false,0,3,1332953700821
+216,"de l'Hôtel-de-Ville / Roy",6219,45.51737,-73.57452,false,false,,,false,0,3,1332166970762
+217,"Laval / Duluth",6220,45.51923690964773,-73.57721507549286,false,false,,,false,0,3,1332174448185
+218,"Mont-Royal / Clark",6221,45.51941,-73.58685,false,false,,,false,0,3,1331317956364
+219,"de l'Esplanade / Mont-Royal",6222,45.51833,-73.58825,false,true,,,false,0,15,1321473315688
+220,"Mont-Royal / du Parc",6223,45.517,-73.589,false,true,,,false,0,3,1332153980973
+221,"Cartier/ Mont-Royal",6224,45.5336,-73.573936,true,true,1332866580000,,true,0,19,1332921097342
+222,"Villeneuve / Saint-Urbain",6225,45.52039,-73.59026,false,true,,,false,0,3,1332154064179
+223,"Clark / Laurier",6226,45.52266,-73.5936,false,true,,,false,0,11,1321512786787
+224,"Jeanne-Mance / Laurier",6227,45.52024,-73.59494,false,false,,,false,0,3,1332167536629
+225,"Fairmount / Saint-Urbain",6229,45.52279,-73.59558,false,false,,,false,0,2,1331831577386
+226,"Waverly / Saint-Viateur",6230,45.52402527115221,-73.60042154788971,false,false,,,false,0,3,1331833885442
+227,"Saint-Viateur / du Parc",6231,45.52246,-73.6019,false,false,,,false,0,3,1332165385462
+228,"Bernard / Clark",6234,45.52697,-73.60261,false,false,,,false,0,3,1331907607818
+229,"Saint-Dominique / Saint-Viateur",6235,45.52654331973003,-73.59823286533356,false,false,,,false,0,3,1332159762301
+230,"Laurier / de Lorimier",6236,45.53801968350807,-73.57845962047577,false,false,,,false,0,3,1332154337189
+232,"Parthenais / Gilford",6237,45.53797459432353,-73.57477962970734,false,true,,,false,0,11,1321852589485
+233,"Chapleau / Marie-Anne",6903,45.53751242809744,-73.56695830821991,false,true,,,false,0,3,1321886522892
+234,"de Bordeaux / Jean-Talon",6924,45.54970407823863,-73.60551238059998,false,false,,,false,0,3,1331835074366
+236,"Fairmount / Hutchison",6240,45.519486,-73.598419,false,false,,,false,0,3,1331722373268
+237,"Querbes / Laurier",6241,45.517345,-73.597724,false,false,,,false,0,0,
+239,"Bloomfield / Bernard",6243,45.520532,-73.608144,false,false,,,false,0,3,1331824044968
+241,"Bloomfield / Van Horne",6245,45.522608,-73.613178,false,false,,,false,0,3,1331832708469
+242,"Métro Outremont",6246,45.520265,-73.614887,false,false,,,false,0,3,1331832542039
+243,"Casgrain / Saint-Zotique",6247,45.53304,-73.61108,false,false,,,false,0,3,1331899272103
+244,"Dante / Alma",6248,45.53479,-73.6119,false,false,,,false,0,3,1331835467284
+245,"Bélanger / Saint-Denis",6249,45.53696,-73.61199,false,true,,,false,0,11,1321512784642
+246,"Henri-Julien / Jean-Talon",6250,45.53707,-73.61529,false,true,,,false,0,6,1321440894764
+247,"Casgrain / Mozart",6251,45.534788,-73.614726,false,false,,,false,0,3,1331835226957
+248,"Mozart / Saint-Laurent",6252,45.53318,-73.61544,false,true,,,false,1,10,1321426153127
+249,"Saint-Vallier / Jean-Talon",6253,45.538921,-73.613701,false,false,,,false,0,3,1331831925843
+250,"Boyer / Bélanger",6254,45.54006,-73.60897,false,false,,,false,0,11,1320591238844
+251,"Boyer / Saint-Zotique",6255,45.53848,-73.60556,false,false,,,false,0,11,1320587835727
+253,"Saint-Vallier / Saint-Zotique",6257,45.536299,-73.607773,false,true,,,false,0,3,1332959840513
+254,"Parc Père-Marquette",6258,45.537035,-73.593126,false,true,,,false,0,11,1321426181801
+255,"Holt / de Lorimier",6259,45.54184,-73.58644,false,true,,,false,0,3,1332260949758
+256,"Cartier / des Carrières",6260,45.53989,-73.58807,false,false,,,false,0,3,1331833929158
+257,"des Érables / Rosemont",6261,45.54363,-73.58844,false,false,,,false,0,3,1331906613891
+258,"de la Roche /  Bellechasse ",6262,45.537202,-73.597884,false,true,,,false,0,7,1321426218284
+259,Hampton/Monkland,6263,45.4714,-73.6266,false,false,,,false,0,3,1331824068117
+260,"Chabot / Bellechasse",6264,45.5427,-73.59212,false,true,,,false,0,11,1321470658766
+261,"Louis-Hémon / Bellechasse",6265,45.545264,-73.589918,false,true,,,false,0,3,1321426067817
+262,"Louis-Hébert / Beaubien",6266,45.54857,-73.59268,false,true,,,false,0,3,1321442137890
+263,"de Bordeaux / Beaubien",6267,45.54475,-73.5949,false,true,,,false,0,11,1321471646861
+264,"Chambord / Beaubien",6268,45.539964,-73.599716,false,true,,,false,0,11,1321426179838
+265,"de Normanville / Saint-Zotique",6269,45.54083,-73.60384,false,true,,,false,0,7,1321426205930
+266,"Fabre / Saint-Zotique",6270,45.543541,-73.600982,false,true,,,false,0,7,1321426209156
+267,"de Gaspé / de Bellechasse",6271,45.530512,-73.603949,false,false,,,false,0,3,1331898731970
+268,"des Érables / Saint-Zotique",6272,45.5477,-73.59721,false,false,,,false,0,3,1331803251552
+269,"Garnier / Bélanger",6273,45.544471,-73.605145,false,true,,,false,0,11,1321423196493
+270,"Cartier / Bélanger",6274,45.54691,-73.60281,false,false,,,false,0,3,1332925708337
+271,"Chambord / Jean-Talon",6275,45.544828,-73.610458,false,true,,,false,0,3,1332407047059
+272,"De la Roche / Bélanger",6276,45.5416,-73.608,false,true,,,false,0,11,1321426213030
+273,"Louis-Hébert / Saint-Zotique",6278,45.55001,-73.59576,false,true,,,false,0,7,1321426213071
+274,"Louis-Hébert / Bélanger",6279,45.551457,-73.598852,false,true,,,false,0,7,1321432099196
+275,"Fabre / Beaubien",6904,45.542055,-73.597793,false,true,,,false,0,11,1321426140212
+276,"Parc Rosemont",6905,45.544377,-73.581018,false,true,,,false,0,3,1332318693046
+277,"Chateaubriand/Rosemont ",6906,45.5325,-73.5973,false,false,,,false,0,3,1331834038400
+278,"Boyer / Rosemont",6907,45.534136,-73.595478,false,false,,,false,0,11,1320583241422
+279,"St-André / Bellechasse",6908,45.535304,-73.599387,false,false,,,false,0,3,1332168972516
+280,"Augustin-Cantin / Shearer",6921,45.483977,-73.563576,false,true,,,false,0,11,1321426153965
+281,"Louis-Colin / McKenna",6926,45.499916,-73.618089,false,false,,,false,0,3,1331733281974
+282,"Édouard-Montpetit / Stirling",6927,45.50723,-73.615085,false,false,,,false,0,3,1331824005318
+283,"Chemin de la Tour",6928,45.503023,-73.616531,false,false,,,false,0,3,1331833042458
+284,"Waverly / Van Horne",6228,45.527363,-73.607723,false,false,,,false,0,3,1331999428118
+285,"Hutchison / Van Horne",6232,45.525021229212776,-73.61073732376099,false,false,,,false,0,3,1331832900797
+286,"Bernard / Jeanne-Mance",6233,45.52429587282263,-73.60484719276428,false,false,,,false,0,3,1332165483198
+287,"Basile-Routhier / Chabanel",6917,45.549949,-73.647982,false,true,,,false,0,3,1331905450638
+288,"10e Avenue / Rosemont",6919,45.552649,-73.581185,false,false,,,false,0,7,1321381702620
+289,"Boyer / Beaubien",6910,45.537041,-73.602026,false,false,,,false,0,11,1320583784112
+290,"Peel / Ottawa",6086,45.49427,-73.55979,true,true,1332960360000,,false,0,15,1332957747625
+291,"Notre-Dame / de la Montagne ",6087,45.49302901258371,-73.56481790542603,true,true,1332960300000,,false,0,23,1332951896732
+292,"Guy / Notre-Dame",6088,45.489951,-73.567091,true,true,1332791700000,,false,0,15,1332926164795
+293,"Louis-Hémon / Beaubien",6277,45.54705,-73.59353,false,false,,,false,0,3,1332260572511
+294,"des Érables / Bélanger",6280,45.54925703514949,-73.60098749399185,false,true,,,false,0,3,1321426076027
+297,"Métro Charlevoix",10002,45.47822787309145,-73.56965124607086,false,true,,,false,0,23,1321426077281
+301,"des Seigneurs / Notre-Dame",6401,45.48767,-73.56895,false,false,,,false,0,3,1332164513927
+302,"Sir Georges Etienne Cartier/Notre-Dame",6402,45.474098,-73.587206,false,true,,,false,0,3,1332156867985
+303,"Georges-Vanier / Notre-Dame",6403,45.48501,-73.57178,false,false,,,false,0,3,1332158534556
+304,"Duvernay / Charlevoix",6404,45.48205,-73.57491,false,false,,,false,0,3,1332167878974
+305,"Quesnel / Vinet",6405,45.485889,-73.577514,false,false,,,false,0,3,1332158674654
+306,"Marché Atwater",6406,45.480359,-73.577102,false,false,,,false,0,3,1332340544071
+307,"Métro Lionel-Groulx",6407,45.482717,-73.581281,false,false,,,false,0,3,1331920194830
+308,"Saint-Antoine / Canning (Metro George-Vanier)",6408,45.4891,-73.57656,false,true,,,false,0,3,1331999397588
+309,"Wilderton / Côte-Sainte-Catherine",6307,45.507874,-73.618965,false,false,,,false,0,3,1331733314737
+311,"IUGM - Institut universitaire de gériatrie",6309,45.491418,-73.622491,false,false,,,false,0,3,1332168239291
+312,"Hudson / Côte-Sainte-Catherine",6310,45.503857,-73.6226,false,false,,,false,0,3,1331729329549
+313,"Gatineau / Jean-Brillant ",6313,45.496785,-73.620888,false,false,,,false,0,3,1331835266771
+314,"Kent / Côte-Des-Neiges",6312,45.501302,-73.633161,false,false,,,false,0,3,1331897667313
+315,"Gatineau / Côte-Sainte-Catherine",6311,45.499365,-73.626611,false,false,,,false,0,3,1331906625987
+316,"Ellendale / Côte-Des-Neiges",6314,45.499594,-73.629363,false,false,,,false,0,3,1331899296149
+317,"Lacombe / Gatineau",6315,45.497434,-73.622805,false,false,,,false,0,3,1331834063712
+318,"Parc Jean-Brillant",6316,45.497011,-73.618575,false,false,,,false,0,3,1331835477109
+319,"Jardin Botanique",6383,45.555029,-73.554902,false,false,,,false,0,15,1321309626194
+320,"Valois / Sherbrooke",6385,45.550725,-73.555254,false,false,,,false,0,3,1332260207073
+321,"Métro Préfontaine",6386,45.541814,-73.554635,false,true,,,false,0,3,1332321139526
+322,"Métro Joliette",6387,45.546847,-73.551517,false,true,,,false,0,19,1321852698409
+323,"D'Orléans / Hochelaga",6388,45.550668,-73.549502,false,false,,,false,0,7,1321339445220
+324,"Boyer / Jean-Talon",6389,45.541484,-73.612441,false,false,,,false,0,11,1320584442130
+325,"Aylwin / Ontario",6391,45.544136,-73.545609,false,true,,,false,0,3,1332340390180
+327,"Ontario / Dézéry",6393,45.541031,-73.547134,false,true,,,false,0,3,1332259789635
+328,"Nicolet / Ontario",6394,45.546462,-73.54389,false,false,,,true,0,3,1332329553273
+329,"Pierre-de-Coubertin / Aird",6395,45.55896,-73.548687,false,false,,,false,0,10,1321362082358
+330,"Marché Maisonneuve",6397,45.553491,-73.53931,false,false,,,false,0,11,1321366199043
+331,"Desjardins / Ontario",6398,45.551207,-73.540866,false,false,,,false,0,3,1332419733740
+332,"Guizot / Saint-Laurent",6323,45.539964,-73.634319,false,false,,,false,0,3,1331834919729
+333,"Faillon / Saint-Denis",6327,45.540098,-73.619986,false,false,,,false,0,3,1331831985242
+334,"Gounod / Saint-Denis",6329,45.541791,-73.625894,false,true,,,false,0,3,1332405133419
+335,"De Gaspé / Jarry",6330,45.540627,-73.630089,false,true,,,false,0,11,1321426081236
+336,"Guizot / Saint-Denis",6331,45.543376,-73.632267,false,false,,,false,0,3,1331824267719
+337,"De Gaspé / De Liège",6332,45.542579,-73.636557,false,false,,,false,0,3,1331900701430
+338,"Foucher / Leman",6333,45.545987,-73.631562,false,true,,,false,0,7,1321466859700
+339,"Lajeunesse / Jarry",6334,45.543583,-73.6284,false,false,,,false,0,3,1331831971208
+340,"Du Rosaire / Saint-Hubert",6335,45.54467,-73.621581,false,false,,,false,0,3,1331832650283
+341,"Faillon / Saint-Hubert",6336,45.542892,-73.617822,false,true,,,false,0,11,1321534773246
+342,"Boyer / Jarry",6338,45.547283,-73.625377,false,false,,,false,0,11,1320592975962
+343,Harvard/Monkland,6339,45.4743,-73.6237,false,false,,,false,0,3,1331832522276
+344,"De La Roche / Everett",6340,45.544867,-73.614841,false,true,,,false,0,11,1321446423738
+345,"Regina / Verdun",6341,45.467369,-73.570769,false,false,,,false,0,3,1332265368320
+346,"Marquette / Villeray",6343,45.550551,-73.615021,false,false,,,false,0,3,1332887039828
+347,"Louis-Hémon / Villeray",6345,45.554931,-73.610711,false,true,,,false,0,7,1321426208607
+348,Valois/Ste-Catherine,6346,45.545409,-73.537669,false,true,,,false,0,11,1321440094118
+349,"Metro St-Michel",6347,45.559199,-73.599658,false,true,,,false,0,11,1321415171611
+350,Ryde/Charlevoix,6349,45.4758,-73.5644,false,true,,,false,0,3,1321412225884
+351,Island/Centre,6350,45.4815,-73.5644,false,false,,,false,0,2,1332265275961
+355,"St-Dominique / Villeray",6322,45.537813,-73.624872,false,false,,,false,0,3,1332166116521
+356,"de Liège / Lajeunesse",6324,45.54554155627702,-73.6347484588623,false,false,,,false,0,3,1332265322124
+357,"Drolet / Villeray",6328,45.5401,-73.6234,false,true,,,false,1,10,1321531402191
+358,Marcil/Sherbrooke,6354,45.471613,-73.613667,false,true,,,false,0,11,1321418241546
+359,Sicard/Ontario,6355,45.5566,-73.5373,false,false,,,false,0,3,1332419902518
+360,Monkland/Girouard,6356,45.4771,-73.6212,false,false,,,false,0,3,1331835268613
+361,"12e Avenue / Saint-Zotique",6357,45.556905,-73.58925,false,true,,,false,0,3,1331896545713
+362,"3e avenue /St-Zotique",6358,45.553243,-73.592336,false,true,,,false,0,11,1321456097399
+363,"16e Avenue / Beaubien",6359,45.558496,-73.583489,false,true,,,false,0,7,1321413881703
+364,"9e Avenue / Beaubien",6360,45.553785,-73.587328,false,false,,,false,0,2,1332264225260
+365,"1ere Avenue / Beaubien",6361,45.550476,-73.590446,false,true,,,false,0,11,1321426194794
+366,"1ere Avenue / Rosemont",6362,45.547997,-73.58523,false,true,,,false,0,7,1321426323730
+367,St-Antoine/Royal,6363,45.4688,-73.6198,false,false,,,false,0,11,1321385008645
+368,"Parc Campbell",6364,45.549639,-73.558292,false,true,,,false,1,10,1321428507459
+369,"16e Avenue / Rosemont",6365,45.556723,-73.577636,false,true,,,false,0,11,1321765923919
+370,"Wilderton Crescent / Van Horne",6366,45.509188,-73.62442,false,false,,,false,0,3,1331899347773
+371,"3e Avenue / Dandurand",6367,45.547362,-73.579221,false,false,,,false,0,7,1321386210393
+372,"10e Avenue / Masson",6368,45.550321,-73.573755,false,false,,,false,0,10,1321380155041
+373,"St-antoine / Rue du square victoria",6369,45.501793,-73.563189,false,true,,,false,0,11,1321414707896
+374,"D'Orléans / Masson",6370,45.557192,-73.569847,false,true,,,false,0,7,1321442688692
+375,"4e Avenue / Masson",6371,45.546992,-73.575445,false,true,,,false,0,7,1321426070659
+376,"Molson / Masson",6372,45.544123,-73.577049,false,true,,,false,0,7,1321416247759
+377,"7e Avenue / Saint-Joseph",6373,45.547155,-73.569901,false,true,,,false,0,7,1321451764591
+378,"15e Avenue / Laurier",6374,45.553408,-73.569531,false,true,,,false,1,10,1321444713022
+379,"Metro Place St-Henri",6375,45.477287,-73.585419,false,true,,,false,0,3,1321599723636
+380,"18e Avenue / Saint-Joseph",6376,45.554165,-73.564742,false,false,,,false,0,3,1331316417739
+381,"12e Avenue / Saint-Joseph",6377,45.55008,-73.568066,false,true,,,false,0,7,1321420680948
+383,"Bannantyne /de l'Eglise",6379,45.463257,-73.575621,false,true,,,false,0,11,1321468096674
+384,"Parc J.-Arthur-Champagne",6380,45.551584,-73.561916,false,true,,,false,0,11,1321428733705
+385,"Omer-Lavallée / Midway",6381,45.545474,-73.561937,false,false,,,false,0,3,1331906745359
+387,"Darling / Sherbrooke",6384,45.545425,-73.556527,false,true,,,false,0,3,1332405444442
+388,"Métro Pie-IX",6396,45.553879,-73.551761,false,false,,,false,0,3,1332341236234
+389,"Parc Outremont",6301,45.518215,-73.603251,false,false,,,false,0,3,1331732725394
+390,"Stuart / Côte-Ste-Catherine",6302,45.51529,-73.60628,false,false,,,false,0,3,1331907640213
+391,"Dunlop / Van Horne",6303,45.514905,-73.619682,false,true,,,false,0,11,1321939451037
+392,"Rockland / Lajoie",6304,45.515617,-73.614991,false,false,,,false,0,3,1332165609466
+393,"Davaar / Côte-Sainte-Catherine",6305,45.514379,-73.610871,false,false,,,false,0,3,1331733203303
+394,"Mont-Royal / Vincent-D'Indy ",6306,45.510086,-73.611429,false,false,,,false,0,3,1331746863047
+396,"Faillon / St-Laurent",6321,45.536152,-73.622351,false,true,,,false,0,11,1321512786908
+397,"Saint-Dominique / Jean Talon",6344,45.535218,-73.617618,false,true,,,false,0,0,
+399,"Lionel-Groulx / George-Vanier",6409,45.486457,-73.573286,false,false,,,false,0,3,1332154298360
+401,"De l'Hôtel-de-Ville / Sherbrooke",6021,45.51453083866944,-73.56847107410431,false,true,,,false,0,15,1332949722087
+403,"Mansfield / Ste-Catherine ",6066,45.5014018,-73.5718136,true,true,1332696300000,,true,0,23,1332924991461
+404,"Prince-Arthur / Saint-Urbain",6218,45.512762,-73.573489,false,false,,,false,0,3,1332165425504
+406,"Métro Jean-Drapeau",6501,45.512097,-73.53382,false,false,,,false,0,19,1320674294620
+407,"Quai de la navette fluviale",6502,45.513306,-73.538318,false,false,,,false,0,19,1320665930049
+408,"Métro Parc",6503,45.530261,-73.624273,false,false,,,false,0,3,1332174159467
+409,"La Ronde",6504,45.521769,-73.534859,false,false,,,false,0,15,1320668240430
+413,Wilson/Sherbrooke,6415,45.4703,-73.6162,false,false,,,false,0,3,1331906617040
+414,"La Salle/Hochelaga",6417,45.554109,-73.547417,false,true,,,false,0,3,1332340117735
+415,"Metro Vendome",6418,45.473775,-73.604223,false,true,,,false,0,11,1321464219519
+416,"McGill College /Maisonneuve",6424,45.502536,-73.572664,false,true,,,false,0,7,1321512926938
+417,20e/Beaubien,6421,45.5615,-73.5808,false,false,,,false,0,3,1331897533438
+418,"Marlowe / Sherbrooke",6416,45.475191,-73.607539,false,true,,,false,0,11,1321512898311
+419,"Beaucourt /Cote Ste-Catherine",6419,45.491513,-73.633649,false,false,,,false,0,3,1331906745218
+421,"Hôpital général juif",6423,45.496302,-73.629822,false,false,,,false,0,3,1331899660977
+422,"Metro snowdon",6420,45.485026,-73.626889,false,false,,,false,0,3,1332168417295
+423,Fleurry/Lajeunesse,6422,45.5536,-73.6616,false,true,,,false,1,22,1321426185645
+424,"Basile-Routhier / Crémazie",6410,45.547009,-73.637951,false,false,,,false,0,3,1331900166399
+425,"Complexe sportif Claude-Robillard",6412,45.554492,-73.635151,false,true,,,false,0,11,1321765803950
+426,"Square Phillips 2",6413,45.503873,-73.568679,false,true,,,false,0,23,1321426140960
+427,Agnes/St-Antoine,6414,45.480065,-73.587005,false,true,,,false,0,3,1331999168635
+428,"Ross / Ave de Léglise",6425,45.462742,-73.565845,false,true,,,false,0,11,1321512854157
+429,"Willibord / Verdun",6426,45.459707,-73.571438,false,true,,,false,0,11,1321512860209
+430,"Rushbrooke / Ave Caisse",6427,45.470605,-73.565459,false,true,,,false,0,11,1321512781364
+431,"Place du Commerce",6428,45.46729,-73.542357,false,true,,,false,0,11,1321852686415
+432,"Emile-Journault / Marcel Cadieux",6411,45.552232,-73.639539,false,true,,,false,0,11,1321765796811
+433,"Ch de la Pointe Nord ",6429,45.472659,-73.542244,false,true,,,false,0,11,1321881442483
+437,"Cartier / Rosemont",6281,45.5413,-73.591,false,false,,,false,0,3,1332264271339
+438,"Greene / Boul. Maisonneuve",6432,45.487,-73.5898,false,true,,,false,0,7,1321540810299
+439,"Hillside / Ste-Catherine",6433,45.4829,-73.591,false,true,,,false,0,11,1321512868795
+440,"Prince Albert / Sherbrooke",6434,45.4782,-73.6041,false,false,,,false,0,3,1331897538513
+441,"Victorial Hall",6435,45.4816,-73.6,false,true,,,false,0,10,1321545938741
+442,"Argyle / Sherbrooke",6436,45.486,-73.5959,false,true,,,false,0,11,1321512785657
+443,"Métro Longueuil - Université de Sherbrooke",5002,45.5251,-73.5194,false,false,,,false,0,0,
+444,"St-Charles / Châteauguay",5003,45.5332,-73.5156,false,false,,,false,0,0,
+445,"Place Longueuil",5004,45.5294,-73.5178,false,false,,,false,0,0,
+446,"Grant / St-Laurent",5005,45.5382,-73.5058,false,false,,,false,0,0,
+447,"St-Charles / St-Thomas",5006,45.5375,-73.5109,false,false,,,false,0,0,
+448,"Collège Édouard-Montpetit",5007,45.5368,-73.4954,false,false,,,false,0,0,
+1,"Notre Dame / Place Jacques Cartier",6001,45.508183,-73.554094,true,true,1332691320000,,false,15,16,1332945081985
+2,Dézery/Ste-Catherine,6002,45.5392,-73.5414,false,false,,,false,0,3,1331919252617
+3,"Saint-Denis / René-Lévesque",6003,45.51289,-73.5585,false,false,,,false,0,3,1331735489824
+4,"Berri / Saint-Antoine",6004,45.51205360327094,-73.55393081903458,true,true,1332695940000,,false,13,12,1332954997435
+5,"Hotel-de-Ville / Viger",6005,45.50938,-73.557223,false,false,,,false,0,3,1331746404685
+6,"Saint-Antoine / de l'Hôtel-de-Ville",6006,45.50875,-73.55613,true,true,1332691560000,,false,0,15,1332925986608
+7,"de l'Hôtel-de-Ville / Sainte-Catherine",6007,45.51164009357107,-73.5621839761734,false,false,,,false,0,3,1331737746034
+8,"Sanguinet /Ste-Catherine",6008,45.512738,-73.561438,false,true,,,false,0,27,1332975202220
+9,"Berri / Sainte-Catherine",6009,45.51462481358633,-73.55977535247803,false,true,,,false,0,10,1321679172464
+10,"Sainte-Catherine / Saint-Denis",6901,45.51371137074363,-73.56054782867432,false,false,,,false,0,3,1331737768889
+11,"Saint-André / Saint-Antoine",6011,45.514076,-73.552439,false,false,,,false,0,3,1332158901772
+12,"Métro Saint-Laurent",6012,45.51066,-73.56497,false,false,,,false,0,3,1331919162330
+13,"Sanguinet / de Maisonneuve",6013,45.51339,-73.56255,true,true,1332960660000,,false,0,27,1332957848487
+14,"St-Denis / Maisonneuve",6014,45.514649,-73.562152,false,true,,,false,0,23,1321765791067
+15,"Berri / de Maisonneuve",6015,45.515299,-73.561273,true,true,1332960480000,,false,0,31,1332942540472
+16,"Saint-André / de Maisonneuve",6016,45.51699292968662,-73.55965733528137,false,false,,,false,0,14,1320686801761
+17,"Robin / Amherst",6017,45.51905,-73.56091,false,true,,,false,0,11,1321852752756
+18,"Saint-André / Ontario",6018,45.51889,-73.56353,false,true,,,false,0,11,1321852624697
+19,Savoie/Ontario,6019,45.51637,-73.5649812,true,true,,,false,0,23,1332944735475
+20,"Hotel de Ville / Ontario",6020,45.513481,-73.566262,false,false,,,true,0,3,1331745516960
+21,"Beaudry / Sherbrooke",6902,45.523007,-73.565183,false,true,,,false,1,2,1321690063373
+22,"de la Commune / Berri",6023,45.51086,-73.54983,false,false,,,false,0,3,1332000677788
+23,"Saint-Timothée / Sainte-Catherine",6024,45.51699292968662,-73.55744183063507,false,false,,,false,0,3,1331746116504
+24,"Notre-Dame / Saint-Gabriel",6025,45.50714391928411,-73.55511903762817,true,true,1332709320000,,false,11,12,1332944691985
+25,"de la Commune / Place Jacques-Cartier",6026,45.50719279267449,-73.5520076751709,true,true,1332695760000,,false,0,49,1332926634351
+26,"Le Royer / Saint-Laurent",6027,45.50589,-73.55431,false,false,,,false,0,3,1331907660096
+28,Belair/St-Antoine,6029,45.482843,-73.584352,false,true,,,false,0,3,1321569120671
+30,"Saint-Antoine / Saint-François-Xavier",6031,45.50449,-73.5592,false,false,,,false,0,3,1331999881759
+31,"Métro Place-d'Armes",6032,45.50623,-73.55976,false,false,,,false,0,3,1332000684317
+32,"Chenneville / Viger",6033,45.50536,-73.56093,false,false,,,false,0,3,1332000312503
+33,"Saint-Urbain / René-Lévesque",6034,45.5079,-73.563112,false,false,,,false,0,3,1331918878184
+34,"de la Gauchetière / Bleury",6035,45.50439,-73.56257,false,false,,,false,0,3,1331919476805
+35,"de la Commune / Saint-Sulpice",6036,45.50406856984278,-73.55360627174377,false,false,,,false,0,3,1331918294310
+36,"Saint-Nicolas / Place d'Youville",6037,45.50197437877896,-73.55515658855438,true,true,1332709920000,,false,0,15,1332926329827
+37,"McGill / d'Youville",6038,45.49975,-73.55566,true,true,1332696960000,,false,0,31,1332927413069
+38,"McGill / des Récollets",6039,45.500779,-73.558826,false,false,,,false,0,3,1331724350075
+39,"Saint-Jacques / Saint-Pierre",6040,45.5028,-73.55917,true,true,1332695580000,,false,1,0,1332965506165
+40,"Saint-Jacques / Gauvin",6041,45.500741,-73.560956,true,true,1332709380000,,false,19,20,1332956437610
+41,"de la Gauchetière / University",6042,45.50112,-73.56493,true,true,1332811620000,,false,0,23,1332923545972
+42,"Square Victoria",6043,45.50206,-73.56295,true,true,1332708060000,,false,8,7,1332955788190
+43,"University/René Levesques ",6044,45.501885,-73.567019,false,false,,,false,0,3,1331906851506
+45,"de la Gauchetière / Mansfield",6046,45.49871,-73.56671,true,true,1332811500000,,false,0,19,1332927470466
+46,"Milton / Durocher",6204,45.508231,-73.574707,false,false,,,false,0,3,1331908528790
+47,"King / De la Commune",6048,45.497438,-73.552802,false,false,,,false,0,3,1331723263150
+48,"King / Wellington",6049,45.4982,-73.55488,true,true,1332811440000,,false,0,31,1332926930357
+49,"de la Commune / McGill",6050,45.49886,-73.55232,false,true,,,false,0,7,1332924832080
+50,Prince/William,6051,45.497955,-73.558064,false,true,,,false,0,3,1332332537327
+51,"Duke / Wellington",6052,45.49643,-73.55583,false,false,,,false,0,3,1331233852302
+52,"Belmont / Beaver Hall",6053,45.502326,-73.565138,false,false,,,false,0,3,1331919373010
+55,"Peel / ave des Canadiens de Montréal",6057,45.497697,-73.568646,true,false,1332786720000,,false,0,11,1320654642888
+56,"Drummond / Rene Levesques",6058,45.497196,-73.571384,true,true,1332707460000,,false,0,39,1332924893049
+57,"Metcalfe / Sainte-Catherine",6059,45.50068473942228,-73.57215642929077,true,true,1332872640000,,false,0,31,1332927221823
+58,"Mansfield / René-Lévesque",6060,45.50015,-73.56928,true,true,1332696360000,,false,0,19,1332924693009
+59,"Sainte-Catherine / McGill College",6061,45.50176,-73.57128,true,true,1332786660000,,false,0,11,1321426212258
+60,"Drummond / Sainte-Catherine",6062,45.49863930330429,-73.57422709465027,true,true,1332696000000,,false,0,31,1332925245691
+61,"Drummond / de Maisonneuve",6063,45.49947,-73.57591,true,true,1332696120000,,false,0,31,1332925522150
+62,"de Maisonneuve / Stanley",6064,45.50038,-73.57507,true,true,1332786540000,,false,0,40,1332923562597
+63,"de la montagne / Sherbrooke",6065,45.499726,-73.578834,false,false,,,false,0,3,1331913962488
+64,"de Maisonneuve / University",6067,45.503475,-73.572103,false,false,,,false,0,3,1331908892223
+65,"Mansfield / Sherbrooke",6068,45.50297,-73.57505,false,false,,,false,0,3,1331919515397
+67,"University / Milton",6070,45.50624,-73.57622,false,false,,,false,0,22,1320581920870
+68,"de Maisonneuve / Aylmer",6073,45.50501,-73.57069,true,true,1332709860000,,false,0,23,1332926205940
+69,"Victoria / President-Kennedy",6076,45.5039077,-73.5730531,false,false,,,false,0,3,1332167059451
+71,"de Maisonneuve / de Bleury",6078,45.50708,-73.56917,true,true,1332786420000,,false,0,55,1332924825258
+72,"Mackay / René-Lévesque",6080,45.49449932378212,-73.57417345046997,false,false,,,false,0,3,1331914632380
+73,"Saint-Alexandre / Sainte-Catherine",6081,45.505458,-73.567945,true,true,1332709740000,,false,0,23,1332923718562
+74,"Mackay / ste-catherine",6082,45.495842,-73.577057,false,false,,,true,0,3,1331915736721
+75,"Square Phillips",6083,45.50401,-73.56865,false,true,,,false,0,25,1321402528783
+76,"Lambert-Closse / Tupper",6084,45.489609,-73.582445,false,false,,,false,0,3,1331908765686
+77,"Notre-Dame / Peel",6085,45.4952,-73.56328,false,false,,,false,0,3,1332164290325
+78,"Saint-Jacques / Guy",6089,45.49138,-73.57015,false,true,,,false,0,3,1332250342530
+79,"Métro Lucien-L'Allier",6090,45.49486,-73.57108,false,false,,,false,0,3,1332964515242
+80,"Baile / St-Mathieu",6091,45.492845,-73.577781,false,true,,,true,0,11,1321426174998
+81,"Crescent / René-Lévesque",6092,45.49606,-73.57348,true,true,1332706740000,,false,0,31,1332926579899
+82,"Chateaubriand / Beaubien",6912,45.535431,-73.603522,false,true,,,false,0,11,1321416044399
+83,"Métro Atwater",6194,45.489904,-73.585962,false,false,,,false,0,3,1331724212147
+84,"Chomedey / de Maisonneuve",6095,45.49156,-73.5838,false,true,,,false,0,11,1321705613342
+85,"Lucien-L'Allier / Saint-Jacques",6096,45.49321,-73.56795,false,true,,,false,0,3,1332251272950
+86,"Sainte-Catherine / Saint-Marc",6097,45.49275,-73.58061,false,true,,,false,0,7,1321599723329
+87,"Bishop / Sainte-Catherine",6098,45.49642,-73.57616,false,true,,,false,0,11,1321512893657
+88,"Crescent / de Maisonneuve",6099,45.498104,-73.577729,false,false,,,false,0,3,1331910016936
+89,"de Maisonneuve / Mackay",6100,45.49659,-73.57851,false,false,,,false,0,3,1331237818663
+90,"Metro Villa Maria",6101,45.48,-73.6189,false,false,,,false,0,3,1331834800323
+91,"Lincoln / Dufort",6102,45.493034,-73.583836,false,false,,,false,0,3,1331908535696
+92,Bishop/sherbrooke,6103,45.4983,-73.5798,false,false,,,false,0,3,1331243392876
+93,"Wolfe / René-Lévesque",6104,45.516872646826776,-73.55417490005493,true,true,1332811920000,,false,0,31,1332891647459
+94,"Plessis / René-Lévesque",6105,45.51954,-73.552,false,true,,,false,0,11,1321679157471
+95,"René-Lévesque / Papineau",6106,45.52114,-73.54926,false,true,,,false,0,3,1332169190487
+96,"Sainte-Catherine / Guy",6107,45.49500696707128,-73.57803583145142,false,true,,,false,0,11,1321512801065
+97,"Logan / Fullum",6108,45.528448693514136,-73.55108499526978,true,true,1332811140000,,false,0,15,1332926270802
+98,"Fullum / Jean-Langlois",6109,45.52615,-73.54612,false,false,,,false,0,3,1332174208597
+99,"Poupart / Sainte-Catherine",6110,45.52831340282976,-73.5469651222229,false,false,,,false,0,3,1332174049614
+100,"Parthenais / Sainte-Catherine",6111,45.52622,-73.54933,true,true,1332811200000,,false,9,10,1332954010336
+101,"Métro Beaudry",6112,45.51907,-73.55581,false,true,,,false,0,17,1321679170954
+102,"Alexandre-DeSève / Maisonneuve",6113,45.5219,-73.55534,false,true,,,false,0,11,1321765826732
+103,"Métro Papineau",6114,45.52353,-73.55199,true,true,1332812040000,,false,10,15,1332944275585
+104,"Benny/ Monkland",6115,45.4666,-73.6311,false,false,,,false,0,3,1331832984362
+105,"Plessis / Ontario",6116,45.523584,-73.560941,true,true,1332810780000,,false,9,10,1332944978229
+106,"Robin / de la Visitation",6117,45.52087,-73.55922,false,true,,,false,0,11,1321755702679
+107,"Champlain / Ontario",6118,45.52504753729988,-73.56003552675247,false,true,,,false,0,15,1321679156105
+108,"Dorion / Ontario",6119,45.52695,-73.55821,true,true,1332867240000,,false,10,17,1332945684036
+109,"Parthenais / Ontario",6120,45.52954,-73.55622,false,true,,,false,0,10,1321765906243
+110,"de Rouen / d'Iberville",6121,45.53387508488986,-73.55639576911926,false,true,,,false,0,3,1321812974294
+111,"Logan / d'Iberville",6122,45.53057,-73.54913,true,true,1332864720000,,false,8,7,1332954700139
+112,"Alexandre de Sève / La Fontaine",6123,45.523217,-73.558187,true,true,1332812280000,,false,8,7,1332954591944
+113,"Métro Frontenac",6124,45.533178,-73.55306,false,true,,,false,0,29,1321766486922
+114,"Hogan / Ontario",6125,45.5354,-73.55121,false,false,,,false,0,2,1332341642086
+115,"Rouen / Fullum",6126,45.53217,-73.55859,true,true,1332867300000,,false,8,7,1332955579995
+116,"du Havre / Hochelaga",6127,45.535915483036966,-73.55821967124939,false,false,,,false,0,3,1332923862492
+117,"Hogan / de Rouen",6128,45.536274,-73.554043,false,true,,,false,0,3,1332419814748
+118,"Sherbrooke / Frontenac",6130,45.5367,-73.56081,false,false,,,false,0,10,1321329174678
+119,"Sherbrooke / Fullum",6131,45.53375,-73.56196,true,true,1332959700000,,false,0,15,1332947474528
+120,"Terasse Mercure / Fulum",6133,45.535614,-73.566014,true,true,1332812100000,,false,0,15,1332924003950
+121,"de Bordeaux / Sherbrooke",6129,45.53002706078813,-73.56317639350891,true,true,1332810900000,,false,8,7,1332956314580
+122,"Prince Arthur/Ste-Famille ",6202,45.511721,-73.574442,false,true,,,true,0,11,1321599554331
+123,"University / Prince-Arthur",6047,45.50733,-73.57845,false,false,,,false,0,3,1331909253667
+124,"University / des Pins",6079,45.508164612433625,-73.58017891645432,false,true,,,false,0,15,1321512894784
+125,"Molson / William - Tremblay",6022,45.541532,-73.565258,false,false,,,false,0,3,1331906816855
+126,"Atwater / Sherbrooke",6093,45.49132174886071,-73.58780980110168,false,true,,,false,0,15,1321512783412
+127,"Drolet / Beaubien",6913,45.533364,-73.605837,false,false,,,false,0,3,1331897988143
+128,"Casgrain / Beaubien",6915,45.531425,-73.607591,false,true,,,false,0,11,1321512799866
+129,"Parc du Pélican",6916,45.54483,-73.572811,false,false,,,false,0,3,1332341424428
+130,"9e Avenue / Dandurand",6918,45.550769,-73.57711,false,false,,,false,0,3,1332318191957
+131,"Marquette / Jean-Talon",6923,45.54735612315234,-73.60760986804962,false,true,,,false,0,11,1321426076761
+132,"des Écores / Jean-Talon",6925,45.55244260913485,-73.60300183296204,false,false,,,false,0,11,1321376725895
+133,"Président-Kennedy / University",6072,45.50463252180637,-73.57255339622498,false,false,,,false,0,3,1331910053919
+134,"Drummond / du Docteur-Penfield",6075,45.50194054022276,-73.58126521110535,false,false,,,false,0,3,1331241328973
+135,"Gascon / Rachel",6134,45.53797,-73.5627,false,true,,,false,0,15,1332969632410
+136,"Larivière / de Lorimier",6132,45.52915520624575,-73.559410572052,true,true,1332811800000,,false,7,8,1332957175549
+137,"Parthenais / Rachel",6136,45.53417194299746,-73.56608927249908,false,false,,,false,0,11,1320766038998
+138,"Gauthier / Papineau",6137,45.530202,-73.56663,false,true,,,false,0,3,1332259129898
+139,"de Bordeaux / Gauthier",6138,45.5313,-73.566,false,false,,,false,0,3,1332258563836
+140,"Gauthier / des Érables",6139,45.53237,-73.56437,false,true,,,false,0,7,1321679165438
+141,"Marquette / Rachel",6140,45.5298015824607,-73.5702896118164,true,false,1332810840000,,false,0,15,1320762737116
+142,"de Bordeaux / Rachel",6141,45.53227,-73.56828,false,true,,,false,0,15,1332924249224
+143,"Garnier / Rachel",6142,45.52865,-73.57163,false,false,,,false,0,3,1332177541963
+144,"Rachel / Brébeuf",6143,45.52689,-73.57264,true,true,1332811380000,,false,0,15,1332926102238
+145,"du Parc-La Fontaine / Duluth",6145,45.52469,-73.57221,true,true,1332811380000,,false,0,11,1332926809719
+146,"du Parc-La Fontaine / Roy",6146,45.523084,-73.568731,true,true,1332864360000,,false,0,11,1332923265456
+147,"Calixa-Lavallée / Sherbrooke",6147,45.52479,-73.56545,true,true,1332864240000,,false,0,31,1332959622248
+148,"Émile-Duployé / Sherbrooke",6148,45.52729,-73.56463,true,true,1332960120000,,false,0,23,1332933571509
+149,"Chapleau / Mont-Royal",6149,45.53867,-73.56936,false,true,,,false,0,11,1332966235020
+150,"Fullum / Mont-Royal",6150,45.537553,-73.570182,false,true,,,false,0,11,1321852598350
+151,"des Érables / Mont-Royal",6151,45.53565,-73.57172,false,false,,,false,0,11,1321369724911
+152,"Chabot / Mont-Royal",6152,45.53413436610843,-73.57349216938019,true,true,1332865260000,,false,0,19,1332924864625
+153,"Marie-Anne / Papineau",6153,45.53189473818018,-73.5723227262497,true,true,1332811680000,,false,0,3,1332926912799
+154,"Marquette / Mont-Royal",6154,45.53229,-73.57544,false,true,,,false,0,19,1332925988431
+155,"Garnier / Mont-Royal",6155,45.53092,-73.57674,false,true,,,false,0,27,1332931088200
+156,"Marie-Anne / de la Roche",6156,45.52773841379083,-73.5762494802475,true,true,1332864660000,,false,0,19,1332951516576
+157,"de la Roche / Mont-Royal",6157,45.52856,-73.57828,true,true,1332866340000,,false,0,19,1332926510715
+158,"Gilford / Brébeuf",6158,45.53073,-73.58153,true,true,1332866880000,,false,0,15,1332884506972
+159,"Marquette / Gilford",6159,45.5339,-73.57891,false,true,,,false,0,15,1332925730594
+160,"Garnier / Saint-Joseph",6160,45.53297,-73.58118,false,true,,,false,0,19,1332972886442
+161,"Cartier / Saint-Joseph",6161,45.53576,-73.57867,false,true,,,false,0,23,1332970397118
+162,"Messier / Saint-Joseph",6162,45.53928,-73.57596,true,true,1332960180000,,false,0,15,1332937906136
+163,"Marquette / Laurier",6163,45.53543,-73.5822,false,true,,,false,0,23,1332925454643
+164,"Garnier / Laurier",6164,45.53388,-73.58315,false,false,,,false,0,3,1332169075751
+165,"Brébeuf / Laurier",6165,45.53248,-73.58507,true,true,1332872820000,,false,0,31,1332927412317
+166,"Brébeuf / Saint-Grégoire",6166,45.5341,-73.58852,true,true,1332872820000,,false,0,3,1332428469813
+167,"Marquette / Saint-Grégoire",6167,45.53703,-73.58584,false,false,,,false,0,3,1332254717901
+168,"Chabot / Masson",6168,45.538298,-73.582703,true,false,1332959460000,,false,0,3,1332165585606
+169,"de Mentana / Saint-Grégoire",6169,45.53187,-73.59064,true,true,1332872880000,,false,0,19,1332922830418
+170,"de Mentana / Laurier",6170,45.53004,-73.5867,false,true,,,false,0,23,1332973971178
+171,Wolfe/Ontario,6171,45.5208,-73.5627,true,true,1332811860000,,false,0,27,1332926384387
+173,"Cherrier / Berri",6173,45.5191458,-73.5692414,false,true,,,false,0,3,1331999683723
+174,"Roy / Saint-Denis",6174,45.51908,-73.5727,false,false,,,false,0,3,1331729545117
+175,"Saint-André / Roy",6175,45.52186,-73.57047,false,false,,,false,0,3,1331998495635
+176,"St-André / Duluth",6176,45.523171,-73.573431,true,true,1332865320000,,false,0,23,1332923795275
+177,"Saint-André / Rachel",6177,45.524222,-73.575771,true,true,1332866340000,,false,0,3,1332251980674
+178,"Rachel / Berri",6178,45.522721103182064,-73.57726335525513,true,true,1332959880000,,false,0,23,1332943441881
+179,"Duluth / Saint-Denis",6179,45.52077419099789,-73.57577741146088,true,true,1332959820000,,false,0,23,1332938456462
+180,"De Bullion/Rachel",6180,45.519346,-73.5802,true,true,1332698820000,,true,0,11,1332925222912
+181,Clarck/Rachel,6181,45.516853,-73.582648,false,false,,,false,0,2,1332167161023
+182,"Buillon / Mont-Royal",6182,45.5215,-73.5851,false,true,,,false,0,23,1332924231138
+183,"Laval / Mont-Royal",6183,45.52241290921658,-73.58412981033325,false,false,,,false,0,3,1331316382800
+184,"Métro Mont-Royal",6184,45.52468,-73.58199,false,false,,,false,0,3,1332167773541
+185,"Saint-André / Mont-Royal",6185,45.52633,-73.58047,false,true,,,false,0,23,1332925256545
+186,"Boyer / Mont-Royal",6186,45.52743,-73.58002,true,true,1332866040000,,false,0,27,1332925899630
+187,"Saint-André / de Bienville",6187,45.5272,-73.58226,true,true,1332872700000,,false,0,15,1332924749378
+188,"Marie-Anne / Saint-Hubert",6188,45.52473,-73.57878,true,true,1332960060000,,false,0,11,1321765934275
+189,Chabot/Everret,6189,45.5507,-73.6096,false,true,,,false,0,3,1332785647162
+190,"Berri / Saint-Joseph",6190,45.52749,-73.58714,false,true,,,false,0,14,1332923956385
+191,"Saint-André / Saint-Joseph",6191,45.52856,-73.58545,true,true,1332866520000,,false,0,15,1332925398500
+192,"Métro Laurier",6192,45.52811,-73.5887,false,false,,,false,0,3,1332166840373
+193,"Henri-Julien / Laurier",6193,45.525851,-73.590567,false,false,,,false,0,3,1332177890460
+194,"Henri-Julien / Maguire",6094,45.527265,-73.593402,false,false,,,false,0,3,1332164945502
+195,"de Bullion / Boul. Saint-Joseph",6195,45.52377,-73.58978,false,true,,,false,0,15,1332925414703
+196,"Ste-Famille / Sherbrooke",6196,45.5100249,-73.5707441,false,true,,,true,0,11,1321679166264
+197,Rivard/Boucher,6197,45.5285,-73.5913,false,false,,,false,0,3,1332168314080
+198,"Hélène-Baillargeon / Saint-Denis",6198,45.52974,-73.59527,false,false,,,false,0,3,1332168342315
+199,"Clark / Saint-Viateur",6199,45.52517156097331,-73.5993754863739,false,true,,,false,0,11,1321426173627
+200,"Maguire / Saint-Laurent",6200,45.52457,-73.59588,false,false,,,false,0,3,1332158991039
+201,"Villeneuve / de l'Hôtel-de-Ville",6201,45.52352540631033,-73.58750939369202,false,true,,,false,0,19,1332926377507
+202,"Hutchison / Sherbrooke",6203,45.50781,-73.57208,false,false,,,false,0,3,1331242719904
+203,"Milton / du Parc",6205,45.50971,-73.57354,false,true,,,false,0,11,1321512800562
+204,"Prince-Arthur / du Parc",6206,45.51059,-73.57547,false,false,,,false,0,3,1332168504383
+205,"Sainte-Famille / des Pins",6207,45.51281294953485,-73.57701659202576,false,false,,,false,0,3,1331721711020
+206,"Hutchison / des Pins",6208,45.51069,-73.57805,false,false,,,false,0,3,1331721956618
+207,"Milton / Clark",6209,45.51252,-73.57062,false,true,,,false,0,15,1321599665762
+208,"Metro  Sauvé",6210,45.5509,-73.656,false,true,,,false,0,3,1332173717894
+209,"Roy / Saint-Laurent",6211,45.51561,-73.57569,false,false,,,false,0,3,1332173673766
+210,"Duluth / Saint-Urbain",6212,45.51566,-73.58064,false,true,,,false,0,11,1321512804725
+211,"Duluth / Saint-Laurent",6213,45.5171,-73.57921,false,false,,,false,0,3,1332167804966
+212,"Square Saint-Louis",6214,45.51735,-73.56906,true,true,1332959340000,,false,0,43,1332940565162
+213,"Saint-Cuthbert / Saint-Urbain",6215,45.51494,-73.57821,true,true,1332959400000,,false,0,19,1332946511409
+214,"Parc du Mont-Royal",6216,45.51496,-73.58503,false,false,,,false,0,3,1332165432355
+215,"Marie-Anne / Saint-Urbain",6217,45.51778,-73.58531,false,true,,,false,0,3,1332953700821
+216,"de l'Hôtel-de-Ville / Roy",6219,45.51737,-73.57452,false,false,,,false,0,3,1332166970762
+217,"Laval / Duluth",6220,45.51923690964773,-73.57721507549286,false,false,,,false,0,3,1332174448185
+218,"Mont-Royal / Clark",6221,45.51941,-73.58685,false,false,,,false,0,3,1331317956364
+219,"de l'Esplanade / Mont-Royal",6222,45.51833,-73.58825,false,true,,,false,0,15,1321473315688
+220,"Mont-Royal / du Parc",6223,45.517,-73.589,false,true,,,false,0,3,1332153980973
+221,"Cartier/ Mont-Royal",6224,45.5336,-73.573936,true,true,1332866580000,,true,0,19,1332921097342
+222,"Villeneuve / Saint-Urbain",6225,45.52039,-73.59026,false,true,,,false,0,3,1332154064179
+223,"Clark / Laurier",6226,45.52266,-73.5936,false,true,,,false,0,11,1321512786787
+224,"Jeanne-Mance / Laurier",6227,45.52024,-73.59494,false,false,,,false,0,3,1332167536629
+225,"Fairmount / Saint-Urbain",6229,45.52279,-73.59558,false,false,,,false,0,2,1331831577386
+226,"Waverly / Saint-Viateur",6230,45.52402527115221,-73.60042154788971,false,false,,,false,0,3,1331833885442
+227,"Saint-Viateur / du Parc",6231,45.52246,-73.6019,false,false,,,false,0,3,1332165385462
+228,"Bernard / Clark",6234,45.52697,-73.60261,false,false,,,false,0,3,1331907607818
+229,"Saint-Dominique / Saint-Viateur",6235,45.52654331973003,-73.59823286533356,false,false,,,false,0,3,1332159762301
+230,"Laurier / de Lorimier",6236,45.53801968350807,-73.57845962047577,false,false,,,false,0,3,1332154337189
+232,"Parthenais / Gilford",6237,45.53797459432353,-73.57477962970734,false,true,,,false,0,11,1321852589485
+233,"Chapleau / Marie-Anne",6903,45.53751242809744,-73.56695830821991,false,true,,,false,0,3,1321886522892
+234,"de Bordeaux / Jean-Talon",6924,45.54970407823863,-73.60551238059998,false,false,,,false,0,3,1331835074366
+236,"Fairmount / Hutchison",6240,45.519486,-73.598419,false,false,,,false,0,3,1331722373268
+237,"Querbes / Laurier",6241,45.517345,-73.597724,false,false,,,false,0,0,
+239,"Bloomfield / Bernard",6243,45.520532,-73.608144,false,false,,,false,0,3,1331824044968
+241,"Bloomfield / Van Horne",6245,45.522608,-73.613178,false,false,,,false,0,3,1331832708469
+242,"Métro Outremont",6246,45.520265,-73.614887,false,false,,,false,0,3,1331832542039
+243,"Casgrain / Saint-Zotique",6247,45.53304,-73.61108,false,false,,,false,0,3,1331899272103
+244,"Dante / Alma",6248,45.53479,-73.6119,false,false,,,false,0,3,1331835467284
+245,"Bélanger / Saint-Denis",6249,45.53696,-73.61199,false,true,,,false,0,11,1321512784642
+246,"Henri-Julien / Jean-Talon",6250,45.53707,-73.61529,false,true,,,false,0,6,1321440894764
+247,"Casgrain / Mozart",6251,45.534788,-73.614726,false,false,,,false,0,3,1331835226957
+248,"Mozart / Saint-Laurent",6252,45.53318,-73.61544,false,true,,,false,1,10,1321426153127
+249,"Saint-Vallier / Jean-Talon",6253,45.538921,-73.613701,false,false,,,false,0,3,1331831925843
+250,"Boyer / Bélanger",6254,45.54006,-73.60897,false,false,,,false,0,11,1320591238844
+251,"Boyer / Saint-Zotique",6255,45.53848,-73.60556,false,false,,,false,0,11,1320587835727
+253,"Saint-Vallier / Saint-Zotique",6257,45.536299,-73.607773,false,true,,,false,0,3,1332959840513
+254,"Parc Père-Marquette",6258,45.537035,-73.593126,false,true,,,false,0,11,1321426181801
+255,"Holt / de Lorimier",6259,45.54184,-73.58644,false,true,,,false,0,3,1332260949758
+256,"Cartier / des Carrières",6260,45.53989,-73.58807,false,false,,,false,0,3,1331833929158
+257,"des Érables / Rosemont",6261,45.54363,-73.58844,false,false,,,false,0,3,1331906613891
+258,"de la Roche /  Bellechasse ",6262,45.537202,-73.597884,false,true,,,false,0,7,1321426218284
+259,Hampton/Monkland,6263,45.4714,-73.6266,false,false,,,false,0,3,1331824068117
+260,"Chabot / Bellechasse",6264,45.5427,-73.59212,false,true,,,false,0,11,1321470658766
+261,"Louis-Hémon / Bellechasse",6265,45.545264,-73.589918,false,true,,,false,0,3,1321426067817
+262,"Louis-Hébert / Beaubien",6266,45.54857,-73.59268,false,true,,,false,0,3,1321442137890
+263,"de Bordeaux / Beaubien",6267,45.54475,-73.5949,false,true,,,false,0,11,1321471646861
+264,"Chambord / Beaubien",6268,45.539964,-73.599716,false,true,,,false,0,11,1321426179838
+265,"de Normanville / Saint-Zotique",6269,45.54083,-73.60384,false,true,,,false,0,7,1321426205930
+266,"Fabre / Saint-Zotique",6270,45.543541,-73.600982,false,true,,,false,0,7,1321426209156
+267,"de Gaspé / de Bellechasse",6271,45.530512,-73.603949,false,false,,,false,0,3,1331898731970
+268,"des Érables / Saint-Zotique",6272,45.5477,-73.59721,false,false,,,false,0,3,1331803251552
+269,"Garnier / Bélanger",6273,45.544471,-73.605145,false,true,,,false,0,11,1321423196493
+270,"Cartier / Bélanger",6274,45.54691,-73.60281,false,false,,,false,0,3,1332925708337
+271,"Chambord / Jean-Talon",6275,45.544828,-73.610458,false,true,,,false,0,3,1332407047059
+272,"De la Roche / Bélanger",6276,45.5416,-73.608,false,true,,,false,0,11,1321426213030
+273,"Louis-Hébert / Saint-Zotique",6278,45.55001,-73.59576,false,true,,,false,0,7,1321426213071
+274,"Louis-Hébert / Bélanger",6279,45.551457,-73.598852,false,true,,,false,0,7,1321432099196
+275,"Fabre / Beaubien",6904,45.542055,-73.597793,false,true,,,false,0,11,1321426140212
+276,"Parc Rosemont",6905,45.544377,-73.581018,false,true,,,false,0,3,1332318693046
+277,"Chateaubriand/Rosemont ",6906,45.5325,-73.5973,false,false,,,false,0,3,1331834038400
+278,"Boyer / Rosemont",6907,45.534136,-73.595478,false,false,,,false,0,11,1320583241422
+279,"St-André / Bellechasse",6908,45.535304,-73.599387,false,false,,,false,0,3,1332168972516
+280,"Augustin-Cantin / Shearer",6921,45.483977,-73.563576,false,true,,,false,0,11,1321426153965
+281,"Louis-Colin / McKenna",6926,45.499916,-73.618089,false,false,,,false,0,3,1331733281974
+282,"Édouard-Montpetit / Stirling",6927,45.50723,-73.615085,false,false,,,false,0,3,1331824005318
+283,"Chemin de la Tour",6928,45.503023,-73.616531,false,false,,,false,0,3,1331833042458
+284,"Waverly / Van Horne",6228,45.527363,-73.607723,false,false,,,false,0,3,1331999428118
+285,"Hutchison / Van Horne",6232,45.525021229212776,-73.61073732376099,false,false,,,false,0,3,1331832900797
+286,"Bernard / Jeanne-Mance",6233,45.52429587282263,-73.60484719276428,false,false,,,false,0,3,1332165483198
+287,"Basile-Routhier / Chabanel",6917,45.549949,-73.647982,false,true,,,false,0,3,1331905450638
+288,"10e Avenue / Rosemont",6919,45.552649,-73.581185,false,false,,,false,0,7,1321381702620
+289,"Boyer / Beaubien",6910,45.537041,-73.602026,false,false,,,false,0,11,1320583784112
+290,"Peel / Ottawa",6086,45.49427,-73.55979,true,true,1332960360000,,false,0,15,1332957747625
+291,"Notre-Dame / de la Montagne ",6087,45.49302901258371,-73.56481790542603,true,true,1332960300000,,false,0,23,1332951896732
+292,"Guy / Notre-Dame",6088,45.489951,-73.567091,true,true,1332791700000,,false,0,15,1332926164795
+293,"Louis-Hémon / Beaubien",6277,45.54705,-73.59353,false,false,,,false,0,3,1332260572511
+294,"des Érables / Bélanger",6280,45.54925703514949,-73.60098749399185,false,true,,,false,0,3,1321426076027
+297,"Métro Charlevoix",10002,45.47822787309145,-73.56965124607086,false,true,,,false,0,23,1321426077281
+301,"des Seigneurs / Notre-Dame",6401,45.48767,-73.56895,false,false,,,false,0,3,1332164513927
+302,"Sir Georges Etienne Cartier/Notre-Dame",6402,45.474098,-73.587206,false,true,,,false,0,3,1332156867985
+303,"Georges-Vanier / Notre-Dame",6403,45.48501,-73.57178,false,false,,,false,0,3,1332158534556
+304,"Duvernay / Charlevoix",6404,45.48205,-73.57491,false,false,,,false,0,3,1332167878974
+305,"Quesnel / Vinet",6405,45.485889,-73.577514,false,false,,,false,0,3,1332158674654
+306,"Marché Atwater",6406,45.480359,-73.577102,false,false,,,false,0,3,1332340544071
+307,"Métro Lionel-Groulx",6407,45.482717,-73.581281,false,false,,,false,0,3,1331920194830
+308,"Saint-Antoine / Canning (Metro George-Vanier)",6408,45.4891,-73.57656,false,true,,,false,0,3,1331999397588
+309,"Wilderton / Côte-Sainte-Catherine",6307,45.507874,-73.618965,false,false,,,false,0,3,1331733314737
+311,"IUGM - Institut universitaire de gériatrie",6309,45.491418,-73.622491,false,false,,,false,0,3,1332168239291
+312,"Hudson / Côte-Sainte-Catherine",6310,45.503857,-73.6226,false,false,,,false,0,3,1331729329549
+313,"Gatineau / Jean-Brillant ",6313,45.496785,-73.620888,false,false,,,false,0,3,1331835266771
+314,"Kent / Côte-Des-Neiges",6312,45.501302,-73.633161,false,false,,,false,0,3,1331897667313
+315,"Gatineau / Côte-Sainte-Catherine",6311,45.499365,-73.626611,false,false,,,false,0,3,1331906625987
+316,"Ellendale / Côte-Des-Neiges",6314,45.499594,-73.629363,false,false,,,false,0,3,1331899296149
+317,"Lacombe / Gatineau",6315,45.497434,-73.622805,false,false,,,false,0,3,1331834063712
+318,"Parc Jean-Brillant",6316,45.497011,-73.618575,false,false,,,false,0,3,1331835477109
+319,"Jardin Botanique",6383,45.555029,-73.554902,false,false,,,false,0,15,1321309626194
+320,"Valois / Sherbrooke",6385,45.550725,-73.555254,false,false,,,false,0,3,1332260207073
+321,"Métro Préfontaine",6386,45.541814,-73.554635,false,true,,,false,0,3,1332321139526
+322,"Métro Joliette",6387,45.546847,-73.551517,false,true,,,false,0,19,1321852698409
+323,"D'Orléans / Hochelaga",6388,45.550668,-73.549502,false,false,,,false,0,7,1321339445220
+324,"Boyer / Jean-Talon",6389,45.541484,-73.612441,false,false,,,false,0,11,1320584442130
+325,"Aylwin / Ontario",6391,45.544136,-73.545609,false,true,,,false,0,3,1332340390180
+327,"Ontario / Dézéry",6393,45.541031,-73.547134,false,true,,,false,0,3,1332259789635
+328,"Nicolet / Ontario",6394,45.546462,-73.54389,false,false,,,true,0,3,1332329553273
+329,"Pierre-de-Coubertin / Aird",6395,45.55896,-73.548687,false,false,,,false,0,10,1321362082358
+330,"Marché Maisonneuve",6397,45.553491,-73.53931,false,false,,,false,0,11,1321366199043
+331,"Desjardins / Ontario",6398,45.551207,-73.540866,false,false,,,false,0,3,1332419733740
+332,"Guizot / Saint-Laurent",6323,45.539964,-73.634319,false,false,,,false,0,3,1331834919729
+333,"Faillon / Saint-Denis",6327,45.540098,-73.619986,false,false,,,false,0,3,1331831985242
+334,"Gounod / Saint-Denis",6329,45.541791,-73.625894,false,true,,,false,0,3,1332405133419
+335,"De Gaspé / Jarry",6330,45.540627,-73.630089,false,true,,,false,0,11,1321426081236
+336,"Guizot / Saint-Denis",6331,45.543376,-73.632267,false,false,,,false,0,3,1331824267719
+337,"De Gaspé / De Liège",6332,45.542579,-73.636557,false,false,,,false,0,3,1331900701430
+338,"Foucher / Leman",6333,45.545987,-73.631562,false,true,,,false,0,7,1321466859700
+339,"Lajeunesse / Jarry",6334,45.543583,-73.6284,false,false,,,false,0,3,1331831971208
+340,"Du Rosaire / Saint-Hubert",6335,45.54467,-73.621581,false,false,,,false,0,3,1331832650283
+341,"Faillon / Saint-Hubert",6336,45.542892,-73.617822,false,true,,,false,0,11,1321534773246
+342,"Boyer / Jarry",6338,45.547283,-73.625377,false,false,,,false,0,11,1320592975962
+343,Harvard/Monkland,6339,45.4743,-73.6237,false,false,,,false,0,3,1331832522276
+344,"De La Roche / Everett",6340,45.544867,-73.614841,false,true,,,false,0,11,1321446423738
+345,"Regina / Verdun",6341,45.467369,-73.570769,false,false,,,false,0,3,1332265368320
+346,"Marquette / Villeray",6343,45.550551,-73.615021,false,false,,,false,0,3,1332887039828
+347,"Louis-Hémon / Villeray",6345,45.554931,-73.610711,false,true,,,false,0,7,1321426208607
+348,Valois/Ste-Catherine,6346,45.545409,-73.537669,false,true,,,false,0,11,1321440094118
+349,"Metro St-Michel",6347,45.559199,-73.599658,false,true,,,false,0,11,1321415171611
+350,Ryde/Charlevoix,6349,45.4758,-73.5644,false,true,,,false,0,3,1321412225884
+351,Island/Centre,6350,45.4815,-73.5644,false,false,,,false,0,2,1332265275961
+355,"St-Dominique / Villeray",6322,45.537813,-73.624872,false,false,,,false,0,3,1332166116521
+356,"de Liège / Lajeunesse",6324,45.54554155627702,-73.6347484588623,false,false,,,false,0,3,1332265322124
+357,"Drolet / Villeray",6328,45.5401,-73.6234,false,true,,,false,1,10,1321531402191
+358,Marcil/Sherbrooke,6354,45.471613,-73.613667,false,true,,,false,0,11,1321418241546
+359,Sicard/Ontario,6355,45.5566,-73.5373,false,false,,,false,0,3,1332419902518
+360,Monkland/Girouard,6356,45.4771,-73.6212,false,false,,,false,0,3,1331835268613
+361,"12e Avenue / Saint-Zotique",6357,45.556905,-73.58925,false,true,,,false,0,3,1331896545713
+362,"3e avenue /St-Zotique",6358,45.553243,-73.592336,false,true,,,false,0,11,1321456097399
+363,"16e Avenue / Beaubien",6359,45.558496,-73.583489,false,true,,,false,0,7,1321413881703
+364,"9e Avenue / Beaubien",6360,45.553785,-73.587328,false,false,,,false,0,2,1332264225260
+365,"1ere Avenue / Beaubien",6361,45.550476,-73.590446,false,true,,,false,0,11,1321426194794
+366,"1ere Avenue / Rosemont",6362,45.547997,-73.58523,false,true,,,false,0,7,1321426323730
+367,St-Antoine/Royal,6363,45.4688,-73.6198,false,false,,,false,0,11,1321385008645
+368,"Parc Campbell",6364,45.549639,-73.558292,false,true,,,false,1,10,1321428507459
+369,"16e Avenue / Rosemont",6365,45.556723,-73.577636,false,true,,,false,0,11,1321765923919
+370,"Wilderton Crescent / Van Horne",6366,45.509188,-73.62442,false,false,,,false,0,3,1331899347773
+371,"3e Avenue / Dandurand",6367,45.547362,-73.579221,false,false,,,false,0,7,1321386210393
+372,"10e Avenue / Masson",6368,45.550321,-73.573755,false,false,,,false,0,10,1321380155041
+373,"St-antoine / Rue du square victoria",6369,45.501793,-73.563189,false,true,,,false,0,11,1321414707896
+374,"D'Orléans / Masson",6370,45.557192,-73.569847,false,true,,,false,0,7,1321442688692
+375,"4e Avenue / Masson",6371,45.546992,-73.575445,false,true,,,false,0,7,1321426070659
+376,"Molson / Masson",6372,45.544123,-73.577049,false,true,,,false,0,7,1321416247759
+377,"7e Avenue / Saint-Joseph",6373,45.547155,-73.569901,false,true,,,false,0,7,1321451764591
+378,"15e Avenue / Laurier",6374,45.553408,-73.569531,false,true,,,false,1,10,1321444713022
+379,"Metro Place St-Henri",6375,45.477287,-73.585419,false,true,,,false,0,3,1321599723636
+380,"18e Avenue / Saint-Joseph",6376,45.554165,-73.564742,false,false,,,false,0,3,1331316417739
+381,"12e Avenue / Saint-Joseph",6377,45.55008,-73.568066,false,true,,,false,0,7,1321420680948
+383,"Bannantyne /de l'Eglise",6379,45.463257,-73.575621,false,true,,,false,0,11,1321468096674
+384,"Parc J.-Arthur-Champagne",6380,45.551584,-73.561916,false,true,,,false,0,11,1321428733705
+385,"Omer-Lavallée / Midway",6381,45.545474,-73.561937,false,false,,,false,0,3,1331906745359
+387,"Darling / Sherbrooke",6384,45.545425,-73.556527,false,true,,,false,0,3,1332405444442
+388,"Métro Pie-IX",6396,45.553879,-73.551761,false,false,,,false,0,3,1332341236234
+389,"Parc Outremont",6301,45.518215,-73.603251,false,false,,,false,0,3,1331732725394
+390,"Stuart / Côte-Ste-Catherine",6302,45.51529,-73.60628,false,false,,,false,0,3,1331907640213
+391,"Dunlop / Van Horne",6303,45.514905,-73.619682,false,true,,,false,0,11,1321939451037
+392,"Rockland / Lajoie",6304,45.515617,-73.614991,false,false,,,false,0,3,1332165609466
+393,"Davaar / Côte-Sainte-Catherine",6305,45.514379,-73.610871,false,false,,,false,0,3,1331733203303
+394,"Mont-Royal / Vincent-D'Indy ",6306,45.510086,-73.611429,false,false,,,false,0,3,1331746863047
+396,"Faillon / St-Laurent",6321,45.536152,-73.622351,false,true,,,false,0,11,1321512786908
+397,"Saint-Dominique / Jean Talon",6344,45.535218,-73.617618,false,true,,,false,0,0,
+399,"Lionel-Groulx / George-Vanier",6409,45.486457,-73.573286,false,false,,,false,0,3,1332154298360
+401,"De l'Hôtel-de-Ville / Sherbrooke",6021,45.51453083866944,-73.56847107410431,false,true,,,false,0,15,1332949722087
+403,"Mansfield / Ste-Catherine ",6066,45.5014018,-73.5718136,true,true,1332696300000,,true,0,23,1332924991461
+404,"Prince-Arthur / Saint-Urbain",6218,45.512762,-73.573489,false,false,,,false,0,3,1332165425504
+406,"Métro Jean-Drapeau",6501,45.512097,-73.53382,false,false,,,false,0,19,1320674294620
+407,"Quai de la navette fluviale",6502,45.513306,-73.538318,false,false,,,false,0,19,1320665930049
+408,"Métro Parc",6503,45.530261,-73.624273,false,false,,,false,0,3,1332174159467
+409,"La Ronde",6504,45.521769,-73.534859,false,false,,,false,0,15,1320668240430
+413,Wilson/Sherbrooke,6415,45.4703,-73.6162,false,false,,,false,0,3,1331906617040
+414,"La Salle/Hochelaga",6417,45.554109,-73.547417,false,true,,,false,0,3,1332340117735
+415,"Metro Vendome",6418,45.473775,-73.604223,false,true,,,false,0,11,1321464219519
+416,"McGill College /Maisonneuve",6424,45.502536,-73.572664,false,true,,,false,0,7,1321512926938
+417,20e/Beaubien,6421,45.5615,-73.5808,false,false,,,false,0,3,1331897533438
+418,"Marlowe / Sherbrooke",6416,45.475191,-73.607539,false,true,,,false,0,11,1321512898311
+419,"Beaucourt /Cote Ste-Catherine",6419,45.491513,-73.633649,false,false,,,false,0,3,1331906745218
+421,"Hôpital général juif",6423,45.496302,-73.629822,false,false,,,false,0,3,1331899660977
+422,"Metro snowdon",6420,45.485026,-73.626889,false,false,,,false,0,3,1332168417295
+423,Fleurry/Lajeunesse,6422,45.5536,-73.6616,false,true,,,false,1,22,1321426185645
+424,"Basile-Routhier / Crémazie",6410,45.547009,-73.637951,false,false,,,false,0,3,1331900166399
+425,"Complexe sportif Claude-Robillard",6412,45.554492,-73.635151,false,true,,,false,0,11,1321765803950
+426,"Square Phillips 2",6413,45.503873,-73.568679,false,true,,,false,0,23,1321426140960
+427,Agnes/St-Antoine,6414,45.480065,-73.587005,false,true,,,false,0,3,1331999168635
+428,"Ross / Ave de Léglise",6425,45.462742,-73.565845,false,true,,,false,0,11,1321512854157
+429,"Willibord / Verdun",6426,45.459707,-73.571438,false,true,,,false,0,11,1321512860209
+430,"Rushbrooke / Ave Caisse",6427,45.470605,-73.565459,false,true,,,false,0,11,1321512781364
+431,"Place du Commerce",6428,45.46729,-73.542357,false,true,,,false,0,11,1321852686415
+432,"Emile-Journault / Marcel Cadieux",6411,45.552232,-73.639539,false,true,,,false,0,11,1321765796811
+433,"Ch de la Pointe Nord ",6429,45.472659,-73.542244,false,true,,,false,0,11,1321881442483
+437,"Cartier / Rosemont",6281,45.5413,-73.591,false,false,,,false,0,3,1332264271339
+438,"Greene / Boul. Maisonneuve",6432,45.487,-73.5898,false,true,,,false,0,7,1321540810299
+439,"Hillside / Ste-Catherine",6433,45.4829,-73.591,false,true,,,false,0,11,1321512868795
+440,"Prince Albert / Sherbrooke",6434,45.4782,-73.6041,false,false,,,false,0,3,1331897538513
+441,"Victorial Hall",6435,45.4816,-73.6,false,true,,,false,0,10,1321545938741
+442,"Argyle / Sherbrooke",6436,45.486,-73.5959,false,true,,,false,0,11,1321512785657
+443,"Métro Longueuil - Université de Sherbrooke",5002,45.5251,-73.5194,false,false,,,false,0,0,
+444,"St-Charles / Châteauguay",5003,45.5332,-73.5156,false,false,,,false,0,0,
+445,"Place Longueuil",5004,45.5294,-73.5178,false,false,,,false,0,0,
+446,"Grant / St-Laurent",5005,45.5382,-73.5058,false,false,,,false,0,0,
+447,"St-Charles / St-Thomas",5006,45.5375,-73.5109,false,false,,,false,0,0,
+448,"Collège Édouard-Montpetit",5007,45.5368,-73.4954,false,false,,,false,0,0,
+1,"Notre Dame / Place Jacques Cartier",6001,45.508183,-73.554094,true,true,1332691320000,,false,15,16,1332945081985
+2,Dézery/Ste-Catherine,6002,45.5392,-73.5414,false,false,,,false,0,3,1331919252617
+3,"Saint-Denis / René-Lévesque",6003,45.51289,-73.5585,false,false,,,false,0,3,1331735489824
+4,"Berri / Saint-Antoine",6004,45.51205360327094,-73.55393081903458,true,true,1332695940000,,false,13,12,1332954997435
+5,"Hotel-de-Ville / Viger",6005,45.50938,-73.557223,false,false,,,false,0,3,1331746404685
+6,"Saint-Antoine / de l'Hôtel-de-Ville",6006,45.50875,-73.55613,true,true,1332691560000,,false,0,15,1332925986608
+7,"de l'Hôtel-de-Ville / Sainte-Catherine",6007,45.51164009357107,-73.5621839761734,false,false,,,false,0,3,1331737746034
+8,"Sanguinet /Ste-Catherine",6008,45.512738,-73.561438,false,true,,,false,0,27,1332975202220
+9,"Berri / Sainte-Catherine",6009,45.51462481358633,-73.55977535247803,false,true,,,false,0,10,1321679172464
+10,"Sainte-Catherine / Saint-Denis",6901,45.51371137074363,-73.56054782867432,false,false,,,false,0,3,1331737768889
+11,"Saint-André / Saint-Antoine",6011,45.514076,-73.552439,false,false,,,false,0,3,1332158901772
+12,"Métro Saint-Laurent",6012,45.51066,-73.56497,false,false,,,false,0,3,1331919162330
+13,"Sanguinet / de Maisonneuve",6013,45.51339,-73.56255,true,true,1332960660000,,false,0,27,1332957848487
+14,"St-Denis / Maisonneuve",6014,45.514649,-73.562152,false,true,,,false,0,23,1321765791067
+15,"Berri / de Maisonneuve",6015,45.515299,-73.561273,true,true,1332960480000,,false,0,31,1332942540472
+16,"Saint-André / de Maisonneuve",6016,45.51699292968662,-73.55965733528137,false,false,,,false,0,14,1320686801761
+17,"Robin / Amherst",6017,45.51905,-73.56091,false,true,,,false,0,11,1321852752756
+18,"Saint-André / Ontario",6018,45.51889,-73.56353,false,true,,,false,0,11,1321852624697
+19,Savoie/Ontario,6019,45.51637,-73.5649812,true,true,,,false,0,23,1332944735475
+20,"Hotel de Ville / Ontario",6020,45.513481,-73.566262,false,false,,,true,0,3,1331745516960
+21,"Beaudry / Sherbrooke",6902,45.523007,-73.565183,false,true,,,false,1,2,1321690063373
+22,"de la Commune / Berri",6023,45.51086,-73.54983,false,false,,,false,0,3,1332000677788
+23,"Saint-Timothée / Sainte-Catherine",6024,45.51699292968662,-73.55744183063507,false,false,,,false,0,3,1331746116504
+24,"Notre-Dame / Saint-Gabriel",6025,45.50714391928411,-73.55511903762817,true,true,1332709320000,,false,11,12,1332944691985
+25,"de la Commune / Place Jacques-Cartier",6026,45.50719279267449,-73.5520076751709,true,true,1332695760000,,false,0,49,1332926634351
+26,"Le Royer / Saint-Laurent",6027,45.50589,-73.55431,false,false,,,false,0,3,1331907660096
+28,Belair/St-Antoine,6029,45.482843,-73.584352,false,true,,,false,0,3,1321569120671
+30,"Saint-Antoine / Saint-François-Xavier",6031,45.50449,-73.5592,false,false,,,false,0,3,1331999881759
+31,"Métro Place-d'Armes",6032,45.50623,-73.55976,false,false,,,false,0,3,1332000684317
+32,"Chenneville / Viger",6033,45.50536,-73.56093,false,false,,,false,0,3,1332000312503
+33,"Saint-Urbain / René-Lévesque",6034,45.5079,-73.563112,false,false,,,false,0,3,1331918878184
+34,"de la Gauchetière / Bleury",6035,45.50439,-73.56257,false,false,,,false,0,3,1331919476805
+35,"de la Commune / Saint-Sulpice",6036,45.50406856984278,-73.55360627174377,false,false,,,false,0,3,1331918294310
+36,"Saint-Nicolas / Place d'Youville",6037,45.50197437877896,-73.55515658855438,true,true,1332709920000,,false,0,15,1332926329827
+37,"McGill / d'Youville",6038,45.49975,-73.55566,true,true,1332696960000,,false,0,31,1332927413069
+38,"McGill / des Récollets",6039,45.500779,-73.558826,false,false,,,false,0,3,1331724350075
+39,"Saint-Jacques / Saint-Pierre",6040,45.5028,-73.55917,true,true,1332695580000,,false,1,0,1332965506165
+40,"Saint-Jacques / Gauvin",6041,45.500741,-73.560956,true,true,1332709380000,,false,19,20,1332956437610
+41,"de la Gauchetière / University",6042,45.50112,-73.56493,true,true,1332811620000,,false,0,23,1332923545972
+42,"Square Victoria",6043,45.50206,-73.56295,true,true,1332708060000,,false,8,7,1332955788190
+43,"University/René Levesques ",6044,45.501885,-73.567019,false,false,,,false,0,3,1331906851506
+45,"de la Gauchetière / Mansfield",6046,45.49871,-73.56671,true,true,1332811500000,,false,0,19,1332927470466
+46,"Milton / Durocher",6204,45.508231,-73.574707,false,false,,,false,0,3,1331908528790
+47,"King / De la Commune",6048,45.497438,-73.552802,false,false,,,false,0,3,1331723263150
+48,"King / Wellington",6049,45.4982,-73.55488,true,true,1332811440000,,false,0,31,1332926930357
+49,"de la Commune / McGill",6050,45.49886,-73.55232,false,true,,,false,0,7,1332924832080
+50,Prince/William,6051,45.497955,-73.558064,false,true,,,false,0,3,1332332537327
+51,"Duke / Wellington",6052,45.49643,-73.55583,false,false,,,false,0,3,1331233852302
+52,"Belmont / Beaver Hall",6053,45.502326,-73.565138,false,false,,,false,0,3,1331919373010
+55,"Peel / ave des Canadiens de Montréal",6057,45.497697,-73.568646,true,false,1332786720000,,false,0,11,1320654642888
+56,"Drummond / Rene Levesques",6058,45.497196,-73.571384,true,true,1332707460000,,false,0,39,1332924893049
+57,"Metcalfe / Sainte-Catherine",6059,45.50068473942228,-73.57215642929077,true,true,1332872640000,,false,0,31,1332927221823
+58,"Mansfield / René-Lévesque",6060,45.50015,-73.56928,true,true,1332696360000,,false,0,19,1332924693009
+59,"Sainte-Catherine / McGill College",6061,45.50176,-73.57128,true,true,1332786660000,,false,0,11,1321426212258
+60,"Drummond / Sainte-Catherine",6062,45.49863930330429,-73.57422709465027,true,true,1332696000000,,false,0,31,1332925245691
+61,"Drummond / de Maisonneuve",6063,45.49947,-73.57591,true,true,1332696120000,,false,0,31,1332925522150
+62,"de Maisonneuve / Stanley",6064,45.50038,-73.57507,true,true,1332786540000,,false,0,40,1332923562597
+63,"de la montagne / Sherbrooke",6065,45.499726,-73.578834,false,false,,,false,0,3,1331913962488
+64,"de Maisonneuve / University",6067,45.503475,-73.572103,false,false,,,false,0,3,1331908892223
+65,"Mansfield / Sherbrooke",6068,45.50297,-73.57505,false,false,,,false,0,3,1331919515397
+67,"University / Milton",6070,45.50624,-73.57622,false,false,,,false,0,22,1320581920870
+68,"de Maisonneuve / Aylmer",6073,45.50501,-73.57069,true,true,1332709860000,,false,0,23,1332926205940
+69,"Victoria / President-Kennedy",6076,45.5039077,-73.5730531,false,false,,,false,0,3,1332167059451
+71,"de Maisonneuve / de Bleury",6078,45.50708,-73.56917,true,true,1332786420000,,false,0,55,1332924825258
+72,"Mackay / René-Lévesque",6080,45.49449932378212,-73.57417345046997,false,false,,,false,0,3,1331914632380
+73,"Saint-Alexandre / Sainte-Catherine",6081,45.505458,-73.567945,true,true,1332709740000,,false,0,23,1332923718562
+74,"Mackay / ste-catherine",6082,45.495842,-73.577057,false,false,,,true,0,3,1331915736721
+75,"Square Phillips",6083,45.50401,-73.56865,false,true,,,false,0,25,1321402528783
+76,"Lambert-Closse / Tupper",6084,45.489609,-73.582445,false,false,,,false,0,3,1331908765686
+77,"Notre-Dame / Peel",6085,45.4952,-73.56328,false,false,,,false,0,3,1332164290325
+78,"Saint-Jacques / Guy",6089,45.49138,-73.57015,false,true,,,false,0,3,1332250342530
+79,"Métro Lucien-L'Allier",6090,45.49486,-73.57108,false,false,,,false,0,3,1332964515242
+80,"Baile / St-Mathieu",6091,45.492845,-73.577781,false,true,,,true,0,11,1321426174998
+81,"Crescent / René-Lévesque",6092,45.49606,-73.57348,true,true,1332706740000,,false,0,31,1332926579899
+82,"Chateaubriand / Beaubien",6912,45.535431,-73.603522,false,true,,,false,0,11,1321416044399
+83,"Métro Atwater",6194,45.489904,-73.585962,false,false,,,false,0,3,1331724212147
+84,"Chomedey / de Maisonneuve",6095,45.49156,-73.5838,false,true,,,false,0,11,1321705613342
+85,"Lucien-L'Allier / Saint-Jacques",6096,45.49321,-73.56795,false,true,,,false,0,3,1332251272950
+86,"Sainte-Catherine / Saint-Marc",6097,45.49275,-73.58061,false,true,,,false,0,7,1321599723329
+87,"Bishop / Sainte-Catherine",6098,45.49642,-73.57616,false,true,,,false,0,11,1321512893657
+88,"Crescent / de Maisonneuve",6099,45.498104,-73.577729,false,false,,,false,0,3,1331910016936
+89,"de Maisonneuve / Mackay",6100,45.49659,-73.57851,false,false,,,false,0,3,1331237818663
+90,"Metro Villa Maria",6101,45.48,-73.6189,false,false,,,false,0,3,1331834800323
+91,"Lincoln / Dufort",6102,45.493034,-73.583836,false,false,,,false,0,3,1331908535696
+92,Bishop/sherbrooke,6103,45.4983,-73.5798,false,false,,,false,0,3,1331243392876
+93,"Wolfe / René-Lévesque",6104,45.516872646826776,-73.55417490005493,true,true,1332811920000,,false,0,31,1332891647459
+94,"Plessis / René-Lévesque",6105,45.51954,-73.552,false,true,,,false,0,11,1321679157471
+95,"René-Lévesque / Papineau",6106,45.52114,-73.54926,false,true,,,false,0,3,1332169190487
+96,"Sainte-Catherine / Guy",6107,45.49500696707128,-73.57803583145142,false,true,,,false,0,11,1321512801065
+97,"Logan / Fullum",6108,45.528448693514136,-73.55108499526978,true,true,1332811140000,,false,0,15,1332926270802
+98,"Fullum / Jean-Langlois",6109,45.52615,-73.54612,false,false,,,false,0,3,1332174208597
+99,"Poupart / Sainte-Catherine",6110,45.52831340282976,-73.5469651222229,false,false,,,false,0,3,1332174049614
+100,"Parthenais / Sainte-Catherine",6111,45.52622,-73.54933,true,true,1332811200000,,false,9,10,1332954010336
+101,"Métro Beaudry",6112,45.51907,-73.55581,false,true,,,false,0,17,1321679170954
+102,"Alexandre-DeSève / Maisonneuve",6113,45.5219,-73.55534,false,true,,,false,0,11,1321765826732
+103,"Métro Papineau",6114,45.52353,-73.55199,true,true,1332812040000,,false,10,15,1332944275585
+104,"Benny/ Monkland",6115,45.4666,-73.6311,false,false,,,false,0,3,1331832984362
+105,"Plessis / Ontario",6116,45.523584,-73.560941,true,true,1332810780000,,false,9,10,1332944978229
+106,"Robin / de la Visitation",6117,45.52087,-73.55922,false,true,,,false,0,11,1321755702679
+107,"Champlain / Ontario",6118,45.52504753729988,-73.56003552675247,false,true,,,false,0,15,1321679156105
+108,"Dorion / Ontario",6119,45.52695,-73.55821,true,true,1332867240000,,false,10,17,1332945684036
+109,"Parthenais / Ontario",6120,45.52954,-73.55622,false,true,,,false,0,10,1321765906243
+110,"de Rouen / d'Iberville",6121,45.53387508488986,-73.55639576911926,false,true,,,false,0,3,1321812974294
+111,"Logan / d'Iberville",6122,45.53057,-73.54913,true,true,1332864720000,,false,8,7,1332954700139
+112,"Alexandre de Sève / La Fontaine",6123,45.523217,-73.558187,true,true,1332812280000,,false,8,7,1332954591944
+113,"Métro Frontenac",6124,45.533178,-73.55306,false,true,,,false,0,29,1321766486922
+114,"Hogan / Ontario",6125,45.5354,-73.55121,false,false,,,false,0,2,1332341642086
+115,"Rouen / Fullum",6126,45.53217,-73.55859,true,true,1332867300000,,false,8,7,1332955579995
+116,"du Havre / Hochelaga",6127,45.535915483036966,-73.55821967124939,false,false,,,false,0,3,1332923862492
+117,"Hogan / de Rouen",6128,45.536274,-73.554043,false,true,,,false,0,3,1332419814748
+118,"Sherbrooke / Frontenac",6130,45.5367,-73.56081,false,false,,,false,0,10,1321329174678
+119,"Sherbrooke / Fullum",6131,45.53375,-73.56196,true,true,1332959700000,,false,0,15,1332947474528
+120,"Terasse Mercure / Fulum",6133,45.535614,-73.566014,true,true,1332812100000,,false,0,15,1332924003950
+121,"de Bordeaux / Sherbrooke",6129,45.53002706078813,-73.56317639350891,true,true,1332810900000,,false,8,7,1332956314580
+122,"Prince Arthur/Ste-Famille ",6202,45.511721,-73.574442,false,true,,,true,0,11,1321599554331
+123,"University / Prince-Arthur",6047,45.50733,-73.57845,false,false,,,false,0,3,1331909253667
+124,"University / des Pins",6079,45.508164612433625,-73.58017891645432,false,true,,,false,0,15,1321512894784
+125,"Molson / William - Tremblay",6022,45.541532,-73.565258,false,false,,,false,0,3,1331906816855
+126,"Atwater / Sherbrooke",6093,45.49132174886071,-73.58780980110168,false,true,,,false,0,15,1321512783412
+127,"Drolet / Beaubien",6913,45.533364,-73.605837,false,false,,,false,0,3,1331897988143
+128,"Casgrain / Beaubien",6915,45.531425,-73.607591,false,true,,,false,0,11,1321512799866
+129,"Parc du Pélican",6916,45.54483,-73.572811,false,false,,,false,0,3,1332341424428
+130,"9e Avenue / Dandurand",6918,45.550769,-73.57711,false,false,,,false,0,3,1332318191957
+131,"Marquette / Jean-Talon",6923,45.54735612315234,-73.60760986804962,false,true,,,false,0,11,1321426076761
+132,"des Écores / Jean-Talon",6925,45.55244260913485,-73.60300183296204,false,false,,,false,0,11,1321376725895
+133,"Président-Kennedy / University",6072,45.50463252180637,-73.57255339622498,false,false,,,false,0,3,1331910053919
+134,"Drummond / du Docteur-Penfield",6075,45.50194054022276,-73.58126521110535,false,false,,,false,0,3,1331241328973
+135,"Gascon / Rachel",6134,45.53797,-73.5627,false,true,,,false,0,15,1332969632410
+136,"Larivière / de Lorimier",6132,45.52915520624575,-73.559410572052,true,true,1332811800000,,false,7,8,1332957175549
+137,"Parthenais / Rachel",6136,45.53417194299746,-73.56608927249908,false,false,,,false,0,11,1320766038998
+138,"Gauthier / Papineau",6137,45.530202,-73.56663,false,true,,,false,0,3,1332259129898
+139,"de Bordeaux / Gauthier",6138,45.5313,-73.566,false,false,,,false,0,3,1332258563836
+140,"Gauthier / des Érables",6139,45.53237,-73.56437,false,true,,,false,0,7,1321679165438
+141,"Marquette / Rachel",6140,45.5298015824607,-73.5702896118164,true,false,1332810840000,,false,0,15,1320762737116
+142,"de Bordeaux / Rachel",6141,45.53227,-73.56828,false,true,,,false,0,15,1332924249224
+143,"Garnier / Rachel",6142,45.52865,-73.57163,false,false,,,false,0,3,1332177541963
+144,"Rachel / Brébeuf",6143,45.52689,-73.57264,true,true,1332811380000,,false,0,15,1332926102238
+145,"du Parc-La Fontaine / Duluth",6145,45.52469,-73.57221,true,true,1332811380000,,false,0,11,1332926809719
+146,"du Parc-La Fontaine / Roy",6146,45.523084,-73.568731,true,true,1332864360000,,false,0,11,1332923265456
+147,"Calixa-Lavallée / Sherbrooke",6147,45.52479,-73.56545,true,true,1332864240000,,false,0,31,1332959622248
+148,"Émile-Duployé / Sherbrooke",6148,45.52729,-73.56463,true,true,1332960120000,,false,0,23,1332933571509
+149,"Chapleau / Mont-Royal",6149,45.53867,-73.56936,false,true,,,false,0,11,1332966235020
+150,"Fullum / Mont-Royal",6150,45.537553,-73.570182,false,true,,,false,0,11,1321852598350
+151,"des Érables / Mont-Royal",6151,45.53565,-73.57172,false,false,,,false,0,11,1321369724911
+152,"Chabot / Mont-Royal",6152,45.53413436610843,-73.57349216938019,true,true,1332865260000,,false,0,19,1332924864625
+153,"Marie-Anne / Papineau",6153,45.53189473818018,-73.5723227262497,true,true,1332811680000,,false,0,3,1332926912799
+154,"Marquette / Mont-Royal",6154,45.53229,-73.57544,false,true,,,false,0,19,1332925988431
+155,"Garnier / Mont-Royal",6155,45.53092,-73.57674,false,true,,,false,0,27,1332931088200
+156,"Marie-Anne / de la Roche",6156,45.52773841379083,-73.5762494802475,true,true,1332864660000,,false,0,19,1332951516576
+157,"de la Roche / Mont-Royal",6157,45.52856,-73.57828,true,true,1332866340000,,false,0,19,1332926510715
+158,"Gilford / Brébeuf",6158,45.53073,-73.58153,true,true,1332866880000,,false,0,15,1332884506972
+159,"Marquette / Gilford",6159,45.5339,-73.57891,false,true,,,false,0,15,1332925730594
+160,"Garnier / Saint-Joseph",6160,45.53297,-73.58118,false,true,,,false,0,19,1332972886442
+161,"Cartier / Saint-Joseph",6161,45.53576,-73.57867,false,true,,,false,0,23,1332970397118
+162,"Messier / Saint-Joseph",6162,45.53928,-73.57596,true,true,1332960180000,,false,0,15,1332937906136
+163,"Marquette / Laurier",6163,45.53543,-73.5822,false,true,,,false,0,23,1332925454643
+164,"Garnier / Laurier",6164,45.53388,-73.58315,false,false,,,false,0,3,1332169075751
+165,"Brébeuf / Laurier",6165,45.53248,-73.58507,true,true,1332872820000,,false,0,31,1332927412317
+166,"Brébeuf / Saint-Grégoire",6166,45.5341,-73.58852,true,true,1332872820000,,false,0,3,1332428469813
+167,"Marquette / Saint-Grégoire",6167,45.53703,-73.58584,false,false,,,false,0,3,1332254717901
+168,"Chabot / Masson",6168,45.538298,-73.582703,true,false,1332959460000,,false,0,3,1332165585606
+169,"de Mentana / Saint-Grégoire",6169,45.53187,-73.59064,true,true,1332872880000,,false,0,19,1332922830418
+170,"de Mentana / Laurier",6170,45.53004,-73.5867,false,true,,,false,0,23,1332973971178
+171,Wolfe/Ontario,6171,45.5208,-73.5627,true,true,1332811860000,,false,0,27,1332926384387
+173,"Cherrier / Berri",6173,45.5191458,-73.5692414,false,true,,,false,0,3,1331999683723
+174,"Roy / Saint-Denis",6174,45.51908,-73.5727,false,false,,,false,0,3,1331729545117
+175,"Saint-André / Roy",6175,45.52186,-73.57047,false,false,,,false,0,3,1331998495635
+176,"St-André / Duluth",6176,45.523171,-73.573431,true,true,1332865320000,,false,0,23,1332923795275
+177,"Saint-André / Rachel",6177,45.524222,-73.575771,true,true,1332866340000,,false,0,3,1332251980674
+178,"Rachel / Berri",6178,45.522721103182064,-73.57726335525513,true,true,1332959880000,,false,0,23,1332943441881
+179,"Duluth / Saint-Denis",6179,45.52077419099789,-73.57577741146088,true,true,1332959820000,,false,0,23,1332938456462
+180,"De Bullion/Rachel",6180,45.519346,-73.5802,true,true,1332698820000,,true,0,11,1332925222912
+181,Clarck/Rachel,6181,45.516853,-73.582648,false,false,,,false,0,2,1332167161023
+182,"Buillon / Mont-Royal",6182,45.5215,-73.5851,false,true,,,false,0,23,1332924231138
+183,"Laval / Mont-Royal",6183,45.52241290921658,-73.58412981033325,false,false,,,false,0,3,1331316382800
+184,"Métro Mont-Royal",6184,45.52468,-73.58199,false,false,,,false,0,3,1332167773541
+185,"Saint-André / Mont-Royal",6185,45.52633,-73.58047,false,true,,,false,0,23,1332925256545
+186,"Boyer / Mont-Royal",6186,45.52743,-73.58002,true,true,1332866040000,,false,0,27,1332925899630
+187,"Saint-André / de Bienville",6187,45.5272,-73.58226,true,true,1332872700000,,false,0,15,1332924749378
+188,"Marie-Anne / Saint-Hubert",6188,45.52473,-73.57878,true,true,1332960060000,,false,0,11,1321765934275
+189,Chabot/Everret,6189,45.5507,-73.6096,false,true,,,false,0,3,1332785647162
+190,"Berri / Saint-Joseph",6190,45.52749,-73.58714,false,true,,,false,0,14,1332923956385
+191,"Saint-André / Saint-Joseph",6191,45.52856,-73.58545,true,true,1332866520000,,false,0,15,1332925398500
+192,"Métro Laurier",6192,45.52811,-73.5887,false,false,,,false,0,3,1332166840373
+193,"Henri-Julien / Laurier",6193,45.525851,-73.590567,false,false,,,false,0,3,1332177890460
+194,"Henri-Julien / Maguire",6094,45.527265,-73.593402,false,false,,,false,0,3,1332164945502
+195,"de Bullion / Boul. Saint-Joseph",6195,45.52377,-73.58978,false,true,,,false,0,15,1332925414703
+196,"Ste-Famille / Sherbrooke",6196,45.5100249,-73.5707441,false,true,,,true,0,11,1321679166264
+197,Rivard/Boucher,6197,45.5285,-73.5913,false,false,,,false,0,3,1332168314080
+198,"Hélène-Baillargeon / Saint-Denis",6198,45.52974,-73.59527,false,false,,,false,0,3,1332168342315
+199,"Clark / Saint-Viateur",6199,45.52517156097331,-73.5993754863739,false,true,,,false,0,11,1321426173627
+200,"Maguire / Saint-Laurent",6200,45.52457,-73.59588,false,false,,,false,0,3,1332158991039
+201,"Villeneuve / de l'Hôtel-de-Ville",6201,45.52352540631033,-73.58750939369202,false,true,,,false,0,19,1332926377507
+202,"Hutchison / Sherbrooke",6203,45.50781,-73.57208,false,false,,,false,0,3,1331242719904
+203,"Milton / du Parc",6205,45.50971,-73.57354,false,true,,,false,0,11,1321512800562
+204,"Prince-Arthur / du Parc",6206,45.51059,-73.57547,false,false,,,false,0,3,1332168504383
+205,"Sainte-Famille / des Pins",6207,45.51281294953485,-73.57701659202576,false,false,,,false,0,3,1331721711020
+206,"Hutchison / des Pins",6208,45.51069,-73.57805,false,false,,,false,0,3,1331721956618
+207,"Milton / Clark",6209,45.51252,-73.57062,false,true,,,false,0,15,1321599665762
+208,"Metro  Sauvé",6210,45.5509,-73.656,false,true,,,false,0,3,1332173717894
+209,"Roy / Saint-Laurent",6211,45.51561,-73.57569,false,false,,,false,0,3,1332173673766
+210,"Duluth / Saint-Urbain",6212,45.51566,-73.58064,false,true,,,false,0,11,1321512804725
+211,"Duluth / Saint-Laurent",6213,45.5171,-73.57921,false,false,,,false,0,3,1332167804966
+212,"Square Saint-Louis",6214,45.51735,-73.56906,true,true,1332959340000,,false,0,43,1332940565162
+213,"Saint-Cuthbert / Saint-Urbain",6215,45.51494,-73.57821,true,true,1332959400000,,false,0,19,1332946511409
+214,"Parc du Mont-Royal",6216,45.51496,-73.58503,false,false,,,false,0,3,1332165432355
+215,"Marie-Anne / Saint-Urbain",6217,45.51778,-73.58531,false,true,,,false,0,3,1332953700821
+216,"de l'Hôtel-de-Ville / Roy",6219,45.51737,-73.57452,false,false,,,false,0,3,1332166970762
+217,"Laval / Duluth",6220,45.51923690964773,-73.57721507549286,false,false,,,false,0,3,1332174448185
+218,"Mont-Royal / Clark",6221,45.51941,-73.58685,false,false,,,false,0,3,1331317956364
+219,"de l'Esplanade / Mont-Royal",6222,45.51833,-73.58825,false,true,,,false,0,15,1321473315688
+220,"Mont-Royal / du Parc",6223,45.517,-73.589,false,true,,,false,0,3,1332153980973
+221,"Cartier/ Mont-Royal",6224,45.5336,-73.573936,true,true,1332866580000,,true,0,19,1332921097342
+222,"Villeneuve / Saint-Urbain",6225,45.52039,-73.59026,false,true,,,false,0,3,1332154064179
+223,"Clark / Laurier",6226,45.52266,-73.5936,false,true,,,false,0,11,1321512786787
+224,"Jeanne-Mance / Laurier",6227,45.52024,-73.59494,false,false,,,false,0,3,1332167536629
+225,"Fairmount / Saint-Urbain",6229,45.52279,-73.59558,false,false,,,false,0,2,1331831577386
+226,"Waverly / Saint-Viateur",6230,45.52402527115221,-73.60042154788971,false,false,,,false,0,3,1331833885442
+227,"Saint-Viateur / du Parc",6231,45.52246,-73.6019,false,false,,,false,0,3,1332165385462
+228,"Bernard / Clark",6234,45.52697,-73.60261,false,false,,,false,0,3,1331907607818
+229,"Saint-Dominique / Saint-Viateur",6235,45.52654331973003,-73.59823286533356,false,false,,,false,0,3,1332159762301
+230,"Laurier / de Lorimier",6236,45.53801968350807,-73.57845962047577,false,false,,,false,0,3,1332154337189
+232,"Parthenais / Gilford",6237,45.53797459432353,-73.57477962970734,false,true,,,false,0,11,1321852589485
+233,"Chapleau / Marie-Anne",6903,45.53751242809744,-73.56695830821991,false,true,,,false,0,3,1321886522892
+234,"de Bordeaux / Jean-Talon",6924,45.54970407823863,-73.60551238059998,false,false,,,false,0,3,1331835074366
+236,"Fairmount / Hutchison",6240,45.519486,-73.598419,false,false,,,false,0,3,1331722373268
+237,"Querbes / Laurier",6241,45.517345,-73.597724,false,false,,,false,0,0,
+239,"Bloomfield / Bernard",6243,45.520532,-73.608144,false,false,,,false,0,3,1331824044968
+241,"Bloomfield / Van Horne",6245,45.522608,-73.613178,false,false,,,false,0,3,1331832708469
+242,"Métro Outremont",6246,45.520265,-73.614887,false,false,,,false,0,3,1331832542039
+243,"Casgrain / Saint-Zotique",6247,45.53304,-73.61108,false,false,,,false,0,3,1331899272103
+244,"Dante / Alma",6248,45.53479,-73.6119,false,false,,,false,0,3,1331835467284
+245,"Bélanger / Saint-Denis",6249,45.53696,-73.61199,false,true,,,false,0,11,1321512784642
+246,"Henri-Julien / Jean-Talon",6250,45.53707,-73.61529,false,true,,,false,0,6,1321440894764
+247,"Casgrain / Mozart",6251,45.534788,-73.614726,false,false,,,false,0,3,1331835226957
+248,"Mozart / Saint-Laurent",6252,45.53318,-73.61544,false,true,,,false,1,10,1321426153127
+249,"Saint-Vallier / Jean-Talon",6253,45.538921,-73.613701,false,false,,,false,0,3,1331831925843
+250,"Boyer / Bélanger",6254,45.54006,-73.60897,false,false,,,false,0,11,1320591238844
+251,"Boyer / Saint-Zotique",6255,45.53848,-73.60556,false,false,,,false,0,11,1320587835727
+253,"Saint-Vallier / Saint-Zotique",6257,45.536299,-73.607773,false,true,,,false,0,3,1332959840513
+254,"Parc Père-Marquette",6258,45.537035,-73.593126,false,true,,,false,0,11,1321426181801
+255,"Holt / de Lorimier",6259,45.54184,-73.58644,false,true,,,false,0,3,1332260949758
+256,"Cartier / des Carrières",6260,45.53989,-73.58807,false,false,,,false,0,3,1331833929158
+257,"des Érables / Rosemont",6261,45.54363,-73.58844,false,false,,,false,0,3,1331906613891
+258,"de la Roche /  Bellechasse ",6262,45.537202,-73.597884,false,true,,,false,0,7,1321426218284
+259,Hampton/Monkland,6263,45.4714,-73.6266,false,false,,,false,0,3,1331824068117
+260,"Chabot / Bellechasse",6264,45.5427,-73.59212,false,true,,,false,0,11,1321470658766
+261,"Louis-Hémon / Bellechasse",6265,45.545264,-73.589918,false,true,,,false,0,3,1321426067817
+262,"Louis-Hébert / Beaubien",6266,45.54857,-73.59268,false,true,,,false,0,3,1321442137890
+263,"de Bordeaux / Beaubien",6267,45.54475,-73.5949,false,true,,,false,0,11,1321471646861
+264,"Chambord / Beaubien",6268,45.539964,-73.599716,false,true,,,false,0,11,1321426179838
+265,"de Normanville / Saint-Zotique",6269,45.54083,-73.60384,false,true,,,false,0,7,1321426205930
+266,"Fabre / Saint-Zotique",6270,45.543541,-73.600982,false,true,,,false,0,7,1321426209156
+267,"de Gaspé / de Bellechasse",6271,45.530512,-73.603949,false,false,,,false,0,3,1331898731970
+268,"des Érables / Saint-Zotique",6272,45.5477,-73.59721,false,false,,,false,0,3,1331803251552
+269,"Garnier / Bélanger",6273,45.544471,-73.605145,false,true,,,false,0,11,1321423196493
+270,"Cartier / Bélanger",6274,45.54691,-73.60281,false,false,,,false,0,3,1332925708337
+271,"Chambord / Jean-Talon",6275,45.544828,-73.610458,false,true,,,false,0,3,1332407047059
+272,"De la Roche / Bélanger",6276,45.5416,-73.608,false,true,,,false,0,11,1321426213030
+273,"Louis-Hébert / Saint-Zotique",6278,45.55001,-73.59576,false,true,,,false,0,7,1321426213071
+274,"Louis-Hébert / Bélanger",6279,45.551457,-73.598852,false,true,,,false,0,7,1321432099196
+275,"Fabre / Beaubien",6904,45.542055,-73.597793,false,true,,,false,0,11,1321426140212
+276,"Parc Rosemont",6905,45.544377,-73.581018,false,true,,,false,0,3,1332318693046
+277,"Chateaubriand/Rosemont ",6906,45.5325,-73.5973,false,false,,,false,0,3,1331834038400
+278,"Boyer / Rosemont",6907,45.534136,-73.595478,false,false,,,false,0,11,1320583241422
+279,"St-André / Bellechasse",6908,45.535304,-73.599387,false,false,,,false,0,3,1332168972516
+280,"Augustin-Cantin / Shearer",6921,45.483977,-73.563576,false,true,,,false,0,11,1321426153965
+281,"Louis-Colin / McKenna",6926,45.499916,-73.618089,false,false,,,false,0,3,1331733281974
+282,"Édouard-Montpetit / Stirling",6927,45.50723,-73.615085,false,false,,,false,0,3,1331824005318
+283,"Chemin de la Tour",6928,45.503023,-73.616531,false,false,,,false,0,3,1331833042458
+284,"Waverly / Van Horne",6228,45.527363,-73.607723,false,false,,,false,0,3,1331999428118
+285,"Hutchison / Van Horne",6232,45.525021229212776,-73.61073732376099,false,false,,,false,0,3,1331832900797
+286,"Bernard / Jeanne-Mance",6233,45.52429587282263,-73.60484719276428,false,false,,,false,0,3,1332165483198
+287,"Basile-Routhier / Chabanel",6917,45.549949,-73.647982,false,true,,,false,0,3,1331905450638
+288,"10e Avenue / Rosemont",6919,45.552649,-73.581185,false,false,,,false,0,7,1321381702620
+289,"Boyer / Beaubien",6910,45.537041,-73.602026,false,false,,,false,0,11,1320583784112
+290,"Peel / Ottawa",6086,45.49427,-73.55979,true,true,1332960360000,,false,0,15,1332957747625
+291,"Notre-Dame / de la Montagne ",6087,45.49302901258371,-73.56481790542603,true,true,1332960300000,,false,0,23,1332951896732
+292,"Guy / Notre-Dame",6088,45.489951,-73.567091,true,true,1332791700000,,false,0,15,1332926164795
+293,"Louis-Hémon / Beaubien",6277,45.54705,-73.59353,false,false,,,false,0,3,1332260572511
+294,"des Érables / Bélanger",6280,45.54925703514949,-73.60098749399185,false,true,,,false,0,3,1321426076027
+297,"Métro Charlevoix",10002,45.47822787309145,-73.56965124607086,false,true,,,false,0,23,1321426077281
+301,"des Seigneurs / Notre-Dame",6401,45.48767,-73.56895,false,false,,,false,0,3,1332164513927
+302,"Sir Georges Etienne Cartier/Notre-Dame",6402,45.474098,-73.587206,false,true,,,false,0,3,1332156867985
+303,"Georges-Vanier / Notre-Dame",6403,45.48501,-73.57178,false,false,,,false,0,3,1332158534556
+304,"Duvernay / Charlevoix",6404,45.48205,-73.57491,false,false,,,false,0,3,1332167878974
+305,"Quesnel / Vinet",6405,45.485889,-73.577514,false,false,,,false,0,3,1332158674654
+306,"Marché Atwater",6406,45.480359,-73.577102,false,false,,,false,0,3,1332340544071
+307,"Métro Lionel-Groulx",6407,45.482717,-73.581281,false,false,,,false,0,3,1331920194830
+308,"Saint-Antoine / Canning (Metro George-Vanier)",6408,45.4891,-73.57656,false,true,,,false,0,3,1331999397588
+309,"Wilderton / Côte-Sainte-Catherine",6307,45.507874,-73.618965,false,false,,,false,0,3,1331733314737
+311,"IUGM - Institut universitaire de gériatrie",6309,45.491418,-73.622491,false,false,,,false,0,3,1332168239291
+312,"Hudson / Côte-Sainte-Catherine",6310,45.503857,-73.6226,false,false,,,false,0,3,1331729329549
+313,"Gatineau / Jean-Brillant ",6313,45.496785,-73.620888,false,false,,,false,0,3,1331835266771
+314,"Kent / Côte-Des-Neiges",6312,45.501302,-73.633161,false,false,,,false,0,3,1331897667313
+315,"Gatineau / Côte-Sainte-Catherine",6311,45.499365,-73.626611,false,false,,,false,0,3,1331906625987
+316,"Ellendale / Côte-Des-Neiges",6314,45.499594,-73.629363,false,false,,,false,0,3,1331899296149
+317,"Lacombe / Gatineau",6315,45.497434,-73.622805,false,false,,,false,0,3,1331834063712
+318,"Parc Jean-Brillant",6316,45.497011,-73.618575,false,false,,,false,0,3,1331835477109
+319,"Jardin Botanique",6383,45.555029,-73.554902,false,false,,,false,0,15,1321309626194
+320,"Valois / Sherbrooke",6385,45.550725,-73.555254,false,false,,,false,0,3,1332260207073
+321,"Métro Préfontaine",6386,45.541814,-73.554635,false,true,,,false,0,3,1332321139526
+322,"Métro Joliette",6387,45.546847,-73.551517,false,true,,,false,0,19,1321852698409
+323,"D'Orléans / Hochelaga",6388,45.550668,-73.549502,false,false,,,false,0,7,1321339445220
+324,"Boyer / Jean-Talon",6389,45.541484,-73.612441,false,false,,,false,0,11,1320584442130
+325,"Aylwin / Ontario",6391,45.544136,-73.545609,false,true,,,false,0,3,1332340390180
+327,"Ontario / Dézéry",6393,45.541031,-73.547134,false,true,,,false,0,3,1332259789635
+328,"Nicolet / Ontario",6394,45.546462,-73.54389,false,false,,,true,0,3,1332329553273
+329,"Pierre-de-Coubertin / Aird",6395,45.55896,-73.548687,false,false,,,false,0,10,1321362082358
+330,"Marché Maisonneuve",6397,45.553491,-73.53931,false,false,,,false,0,11,1321366199043
+331,"Desjardins / Ontario",6398,45.551207,-73.540866,false,false,,,false,0,3,1332419733740
+332,"Guizot / Saint-Laurent",6323,45.539964,-73.634319,false,false,,,false,0,3,1331834919729
+333,"Faillon / Saint-Denis",6327,45.540098,-73.619986,false,false,,,false,0,3,1331831985242
+334,"Gounod / Saint-Denis",6329,45.541791,-73.625894,false,true,,,false,0,3,1332405133419
+335,"De Gaspé / Jarry",6330,45.540627,-73.630089,false,true,,,false,0,11,1321426081236
+336,"Guizot / Saint-Denis",6331,45.543376,-73.632267,false,false,,,false,0,3,1331824267719
+337,"De Gaspé / De Liège",6332,45.542579,-73.636557,false,false,,,false,0,3,1331900701430
+338,"Foucher / Leman",6333,45.545987,-73.631562,false,true,,,false,0,7,1321466859700
+339,"Lajeunesse / Jarry",6334,45.543583,-73.6284,false,false,,,false,0,3,1331831971208
+340,"Du Rosaire / Saint-Hubert",6335,45.54467,-73.621581,false,false,,,false,0,3,1331832650283
+341,"Faillon / Saint-Hubert",6336,45.542892,-73.617822,false,true,,,false,0,11,1321534773246
+342,"Boyer / Jarry",6338,45.547283,-73.625377,false,false,,,false,0,11,1320592975962
+343,Harvard/Monkland,6339,45.4743,-73.6237,false,false,,,false,0,3,1331832522276
+344,"De La Roche / Everett",6340,45.544867,-73.614841,false,true,,,false,0,11,1321446423738
+345,"Regina / Verdun",6341,45.467369,-73.570769,false,false,,,false,0,3,1332265368320
+346,"Marquette / Villeray",6343,45.550551,-73.615021,false,false,,,false,0,3,1332887039828
+347,"Louis-Hémon / Villeray",6345,45.554931,-73.610711,false,true,,,false,0,7,1321426208607
+348,Valois/Ste-Catherine,6346,45.545409,-73.537669,false,true,,,false,0,11,1321440094118
+349,"Metro St-Michel",6347,45.559199,-73.599658,false,true,,,false,0,11,1321415171611
+350,Ryde/Charlevoix,6349,45.4758,-73.5644,false,true,,,false,0,3,1321412225884
+351,Island/Centre,6350,45.4815,-73.5644,false,false,,,false,0,2,1332265275961
+355,"St-Dominique / Villeray",6322,45.537813,-73.624872,false,false,,,false,0,3,1332166116521
+356,"de Liège / Lajeunesse",6324,45.54554155627702,-73.6347484588623,false,false,,,false,0,3,1332265322124
+357,"Drolet / Villeray",6328,45.5401,-73.6234,false,true,,,false,1,10,1321531402191
+358,Marcil/Sherbrooke,6354,45.471613,-73.613667,false,true,,,false,0,11,1321418241546
+359,Sicard/Ontario,6355,45.5566,-73.5373,false,false,,,false,0,3,1332419902518
+360,Monkland/Girouard,6356,45.4771,-73.6212,false,false,,,false,0,3,1331835268613
+361,"12e Avenue / Saint-Zotique",6357,45.556905,-73.58925,false,true,,,false,0,3,1331896545713
+362,"3e avenue /St-Zotique",6358,45.553243,-73.592336,false,true,,,false,0,11,1321456097399
+363,"16e Avenue / Beaubien",6359,45.558496,-73.583489,false,true,,,false,0,7,1321413881703
+364,"9e Avenue / Beaubien",6360,45.553785,-73.587328,false,false,,,false,0,2,1332264225260
+365,"1ere Avenue / Beaubien",6361,45.550476,-73.590446,false,true,,,false,0,11,1321426194794
+366,"1ere Avenue / Rosemont",6362,45.547997,-73.58523,false,true,,,false,0,7,1321426323730
+367,St-Antoine/Royal,6363,45.4688,-73.6198,false,false,,,false,0,11,1321385008645
+368,"Parc Campbell",6364,45.549639,-73.558292,false,true,,,false,1,10,1321428507459
+369,"16e Avenue / Rosemont",6365,45.556723,-73.577636,false,true,,,false,0,11,1321765923919
+370,"Wilderton Crescent / Van Horne",6366,45.509188,-73.62442,false,false,,,false,0,3,1331899347773
+371,"3e Avenue / Dandurand",6367,45.547362,-73.579221,false,false,,,false,0,7,1321386210393
+372,"10e Avenue / Masson",6368,45.550321,-73.573755,false,false,,,false,0,10,1321380155041
+373,"St-antoine / Rue du square victoria",6369,45.501793,-73.563189,false,true,,,false,0,11,1321414707896
+374,"D'Orléans / Masson",6370,45.557192,-73.569847,false,true,,,false,0,7,1321442688692
+375,"4e Avenue / Masson",6371,45.546992,-73.575445,false,true,,,false,0,7,1321426070659
+376,"Molson / Masson",6372,45.544123,-73.577049,false,true,,,false,0,7,1321416247759
+377,"7e Avenue / Saint-Joseph",6373,45.547155,-73.569901,false,true,,,false,0,7,1321451764591
+378,"15e Avenue / Laurier",6374,45.553408,-73.569531,false,true,,,false,1,10,1321444713022
+379,"Metro Place St-Henri",6375,45.477287,-73.585419,false,true,,,false,0,3,1321599723636
+380,"18e Avenue / Saint-Joseph",6376,45.554165,-73.564742,false,false,,,false,0,3,1331316417739
+381,"12e Avenue / Saint-Joseph",6377,45.55008,-73.568066,false,true,,,false,0,7,1321420680948
+383,"Bannantyne /de l'Eglise",6379,45.463257,-73.575621,false,true,,,false,0,11,1321468096674
+384,"Parc J.-Arthur-Champagne",6380,45.551584,-73.561916,false,true,,,false,0,11,1321428733705
+385,"Omer-Lavallée / Midway",6381,45.545474,-73.561937,false,false,,,false,0,3,1331906745359
+387,"Darling / Sherbrooke",6384,45.545425,-73.556527,false,true,,,false,0,3,1332405444442
+388,"Métro Pie-IX",6396,45.553879,-73.551761,false,false,,,false,0,3,1332341236234
+389,"Parc Outremont",6301,45.518215,-73.603251,false,false,,,false,0,3,1331732725394
+390,"Stuart / Côte-Ste-Catherine",6302,45.51529,-73.60628,false,false,,,false,0,3,1331907640213
+391,"Dunlop / Van Horne",6303,45.514905,-73.619682,false,true,,,false,0,11,1321939451037
+392,"Rockland / Lajoie",6304,45.515617,-73.614991,false,false,,,false,0,3,1332165609466
+393,"Davaar / Côte-Sainte-Catherine",6305,45.514379,-73.610871,false,false,,,false,0,3,1331733203303
+394,"Mont-Royal / Vincent-D'Indy ",6306,45.510086,-73.611429,false,false,,,false,0,3,1331746863047
+396,"Faillon / St-Laurent",6321,45.536152,-73.622351,false,true,,,false,0,11,1321512786908
+397,"Saint-Dominique / Jean Talon",6344,45.535218,-73.617618,false,true,,,false,0,0,
+399,"Lionel-Groulx / George-Vanier",6409,45.486457,-73.573286,false,false,,,false,0,3,1332154298360
+401,"De l'Hôtel-de-Ville / Sherbrooke",6021,45.51453083866944,-73.56847107410431,false,true,,,false,0,15,1332949722087
+403,"Mansfield / Ste-Catherine ",6066,45.5014018,-73.5718136,true,true,1332696300000,,true,0,23,1332924991461
+404,"Prince-Arthur / Saint-Urbain",6218,45.512762,-73.573489,false,false,,,false,0,3,1332165425504
+406,"Métro Jean-Drapeau",6501,45.512097,-73.53382,false,false,,,false,0,19,1320674294620
+407,"Quai de la navette fluviale",6502,45.513306,-73.538318,false,false,,,false,0,19,1320665930049
+408,"Métro Parc",6503,45.530261,-73.624273,false,false,,,false,0,3,1332174159467
+409,"La Ronde",6504,45.521769,-73.534859,false,false,,,false,0,15,1320668240430
+413,Wilson/Sherbrooke,6415,45.4703,-73.6162,false,false,,,false,0,3,1331906617040
+414,"La Salle/Hochelaga",6417,45.554109,-73.547417,false,true,,,false,0,3,1332340117735
+415,"Metro Vendome",6418,45.473775,-73.604223,false,true,,,false,0,11,1321464219519
+416,"McGill College /Maisonneuve",6424,45.502536,-73.572664,false,true,,,false,0,7,1321512926938
+417,20e/Beaubien,6421,45.5615,-73.5808,false,false,,,false,0,3,1331897533438
+418,"Marlowe / Sherbrooke",6416,45.475191,-73.607539,false,true,,,false,0,11,1321512898311
+419,"Beaucourt /Cote Ste-Catherine",6419,45.491513,-73.633649,false,false,,,false,0,3,1331906745218
+421,"Hôpital général juif",6423,45.496302,-73.629822,false,false,,,false,0,3,1331899660977
+422,"Metro snowdon",6420,45.485026,-73.626889,false,false,,,false,0,3,1332168417295
+423,Fleurry/Lajeunesse,6422,45.5536,-73.6616,false,true,,,false,1,22,1321426185645
+424,"Basile-Routhier / Crémazie",6410,45.547009,-73.637951,false,false,,,false,0,3,1331900166399
+425,"Complexe sportif Claude-Robillard",6412,45.554492,-73.635151,false,true,,,false,0,11,1321765803950
+426,"Square Phillips 2",6413,45.503873,-73.568679,false,true,,,false,0,23,1321426140960
+427,Agnes/St-Antoine,6414,45.480065,-73.587005,false,true,,,false,0,3,1331999168635
+428,"Ross / Ave de Léglise",6425,45.462742,-73.565845,false,true,,,false,0,11,1321512854157
+429,"Willibord / Verdun",6426,45.459707,-73.571438,false,true,,,false,0,11,1321512860209
+430,"Rushbrooke / Ave Caisse",6427,45.470605,-73.565459,false,true,,,false,0,11,1321512781364
+431,"Place du Commerce",6428,45.46729,-73.542357,false,true,,,false,0,11,1321852686415
+432,"Emile-Journault / Marcel Cadieux",6411,45.552232,-73.639539,false,true,,,false,0,11,1321765796811
+433,"Ch de la Pointe Nord ",6429,45.472659,-73.542244,false,true,,,false,0,11,1321881442483
+437,"Cartier / Rosemont",6281,45.5413,-73.591,false,false,,,false,0,3,1332264271339
+438,"Greene / Boul. Maisonneuve",6432,45.487,-73.5898,false,true,,,false,0,7,1321540810299
+439,"Hillside / Ste-Catherine",6433,45.4829,-73.591,false,true,,,false,0,11,1321512868795
+440,"Prince Albert / Sherbrooke",6434,45.4782,-73.6041,false,false,,,false,0,3,1331897538513
+441,"Victorial Hall",6435,45.4816,-73.6,false,true,,,false,0,10,1321545938741
+442,"Argyle / Sherbrooke",6436,45.486,-73.5959,false,true,,,false,0,11,1321512785657
+443,"Métro Longueuil - Université de Sherbrooke",5002,45.5251,-73.5194,false,false,,,false,0,0,
+444,"St-Charles / Châteauguay",5003,45.5332,-73.5156,false,false,,,false,0,0,
+445,"Place Longueuil",5004,45.5294,-73.5178,false,false,,,false,0,0,
+446,"Grant / St-Laurent",5005,45.5382,-73.5058,false,false,,,false,0,0,
+447,"St-Charles / St-Thomas",5006,45.5375,-73.5109,false,false,,,false,0,0,
+448,"Collège Édouard-Montpetit",5007,45.5368,-73.4954,false,false,,,false,0,0,
+1,"Notre Dame / Place Jacques Cartier",6001,45.508183,-73.554094,true,true,1332691320000,,false,15,16,1332945081985
+2,Dézery/Ste-Catherine,6002,45.5392,-73.5414,false,false,,,false,0,3,1331919252617
+3,"Saint-Denis / René-Lévesque",6003,45.51289,-73.5585,false,false,,,false,0,3,1331735489824
+4,"Berri / Saint-Antoine",6004,45.51205360327094,-73.55393081903458,true,true,1332695940000,,false,13,12,1332954997435
+5,"Hotel-de-Ville / Viger",6005,45.50938,-73.557223,false,false,,,false,0,3,1331746404685
+6,"Saint-Antoine / de l'Hôtel-de-Ville",6006,45.50875,-73.55613,true,true,1332691560000,,false,0,15,1332925986608
+7,"de l'Hôtel-de-Ville / Sainte-Catherine",6007,45.51164009357107,-73.5621839761734,false,false,,,false,0,3,1331737746034
+8,"Sanguinet /Ste-Catherine",6008,45.512738,-73.561438,false,true,,,false,0,27,1332975202220
+9,"Berri / Sainte-Catherine",6009,45.51462481358633,-73.55977535247803,false,true,,,false,0,10,1321679172464
+10,"Sainte-Catherine / Saint-Denis",6901,45.51371137074363,-73.56054782867432,false,false,,,false,0,3,1331737768889
+11,"Saint-André / Saint-Antoine",6011,45.514076,-73.552439,false,false,,,false,0,3,1332158901772
+12,"Métro Saint-Laurent",6012,45.51066,-73.56497,false,false,,,false,0,3,1331919162330
+13,"Sanguinet / de Maisonneuve",6013,45.51339,-73.56255,true,true,1332960660000,,false,0,27,1332957848487
+14,"St-Denis / Maisonneuve",6014,45.514649,-73.562152,false,true,,,false,0,23,1321765791067
+15,"Berri / de Maisonneuve",6015,45.515299,-73.561273,true,true,1332960480000,,false,0,31,1332942540472
+16,"Saint-André / de Maisonneuve",6016,45.51699292968662,-73.55965733528137,false,false,,,false,0,14,1320686801761
+17,"Robin / Amherst",6017,45.51905,-73.56091,false,true,,,false,0,11,1321852752756
+18,"Saint-André / Ontario",6018,45.51889,-73.56353,false,true,,,false,0,11,1321852624697
+19,Savoie/Ontario,6019,45.51637,-73.5649812,true,true,,,false,0,23,1332944735475
+20,"Hotel de Ville / Ontario",6020,45.513481,-73.566262,false,false,,,true,0,3,1331745516960
+21,"Beaudry / Sherbrooke",6902,45.523007,-73.565183,false,true,,,false,1,2,1321690063373
+22,"de la Commune / Berri",6023,45.51086,-73.54983,false,false,,,false,0,3,1332000677788
+23,"Saint-Timothée / Sainte-Catherine",6024,45.51699292968662,-73.55744183063507,false,false,,,false,0,3,1331746116504
+24,"Notre-Dame / Saint-Gabriel",6025,45.50714391928411,-73.55511903762817,true,true,1332709320000,,false,11,12,1332944691985
+25,"de la Commune / Place Jacques-Cartier",6026,45.50719279267449,-73.5520076751709,true,true,1332695760000,,false,0,49,1332926634351
+26,"Le Royer / Saint-Laurent",6027,45.50589,-73.55431,false,false,,,false,0,3,1331907660096
+28,Belair/St-Antoine,6029,45.482843,-73.584352,false,true,,,false,0,3,1321569120671
+30,"Saint-Antoine / Saint-François-Xavier",6031,45.50449,-73.5592,false,false,,,false,0,3,1331999881759
+31,"Métro Place-d'Armes",6032,45.50623,-73.55976,false,false,,,false,0,3,1332000684317
+32,"Chenneville / Viger",6033,45.50536,-73.56093,false,false,,,false,0,3,1332000312503
+33,"Saint-Urbain / René-Lévesque",6034,45.5079,-73.563112,false,false,,,false,0,3,1331918878184
+34,"de la Gauchetière / Bleury",6035,45.50439,-73.56257,false,false,,,false,0,3,1331919476805
+35,"de la Commune / Saint-Sulpice",6036,45.50406856984278,-73.55360627174377,false,false,,,false,0,3,1331918294310
+36,"Saint-Nicolas / Place d'Youville",6037,45.50197437877896,-73.55515658855438,true,true,1332709920000,,false,0,15,1332926329827
+37,"McGill / d'Youville",6038,45.49975,-73.55566,true,true,1332696960000,,false,0,31,1332927413069
+38,"McGill / des Récollets",6039,45.500779,-73.558826,false,false,,,false,0,3,1331724350075
+39,"Saint-Jacques / Saint-Pierre",6040,45.5028,-73.55917,true,true,1332695580000,,false,1,0,1332965506165
+40,"Saint-Jacques / Gauvin",6041,45.500741,-73.560956,true,true,1332709380000,,false,19,20,1332956437610
+41,"de la Gauchetière / University",6042,45.50112,-73.56493,true,true,1332811620000,,false,0,23,1332923545972
+42,"Square Victoria",6043,45.50206,-73.56295,true,true,1332708060000,,false,8,7,1332955788190
+43,"University/René Levesques ",6044,45.501885,-73.567019,false,false,,,false,0,3,1331906851506
+45,"de la Gauchetière / Mansfield",6046,45.49871,-73.56671,true,true,1332811500000,,false,0,19,1332927470466
+46,"Milton / Durocher",6204,45.508231,-73.574707,false,false,,,false,0,3,1331908528790
+47,"King / De la Commune",6048,45.497438,-73.552802,false,false,,,false,0,3,1331723263150
+48,"King / Wellington",6049,45.4982,-73.55488,true,true,1332811440000,,false,0,31,1332926930357
+49,"de la Commune / McGill",6050,45.49886,-73.55232,false,true,,,false,0,7,1332924832080
+50,Prince/William,6051,45.497955,-73.558064,false,true,,,false,0,3,1332332537327
+51,"Duke / Wellington",6052,45.49643,-73.55583,false,false,,,false,0,3,1331233852302
+52,"Belmont / Beaver Hall",6053,45.502326,-73.565138,false,false,,,false,0,3,1331919373010
+55,"Peel / ave des Canadiens de Montréal",6057,45.497697,-73.568646,true,false,1332786720000,,false,0,11,1320654642888
+56,"Drummond / Rene Levesques",6058,45.497196,-73.571384,true,true,1332707460000,,false,0,39,1332924893049
+57,"Metcalfe / Sainte-Catherine",6059,45.50068473942228,-73.57215642929077,true,true,1332872640000,,false,0,31,1332927221823
+58,"Mansfield / René-Lévesque",6060,45.50015,-73.56928,true,true,1332696360000,,false,0,19,1332924693009
+59,"Sainte-Catherine / McGill College",6061,45.50176,-73.57128,true,true,1332786660000,,false,0,11,1321426212258
+60,"Drummond / Sainte-Catherine",6062,45.49863930330429,-73.57422709465027,true,true,1332696000000,,false,0,31,1332925245691
+61,"Drummond / de Maisonneuve",6063,45.49947,-73.57591,true,true,1332696120000,,false,0,31,1332925522150
+62,"de Maisonneuve / Stanley",6064,45.50038,-73.57507,true,true,1332786540000,,false,0,40,1332923562597
+63,"de la montagne / Sherbrooke",6065,45.499726,-73.578834,false,false,,,false,0,3,1331913962488
+64,"de Maisonneuve / University",6067,45.503475,-73.572103,false,false,,,false,0,3,1331908892223
+65,"Mansfield / Sherbrooke",6068,45.50297,-73.57505,false,false,,,false,0,3,1331919515397
+67,"University / Milton",6070,45.50624,-73.57622,false,false,,,false,0,22,1320581920870
+68,"de Maisonneuve / Aylmer",6073,45.50501,-73.57069,true,true,1332709860000,,false,0,23,1332926205940
+69,"Victoria / President-Kennedy",6076,45.5039077,-73.5730531,false,false,,,false,0,3,1332167059451
+71,"de Maisonneuve / de Bleury",6078,45.50708,-73.56917,true,true,1332786420000,,false,0,55,1332924825258
+72,"Mackay / René-Lévesque",6080,45.49449932378212,-73.57417345046997,false,false,,,false,0,3,1331914632380
+73,"Saint-Alexandre / Sainte-Catherine",6081,45.505458,-73.567945,true,true,1332709740000,,false,0,23,1332923718562
+74,"Mackay / ste-catherine",6082,45.495842,-73.577057,false,false,,,true,0,3,1331915736721
+75,"Square Phillips",6083,45.50401,-73.56865,false,true,,,false,0,25,1321402528783
+76,"Lambert-Closse / Tupper",6084,45.489609,-73.582445,false,false,,,false,0,3,1331908765686
+77,"Notre-Dame / Peel",6085,45.4952,-73.56328,false,false,,,false,0,3,1332164290325
+78,"Saint-Jacques / Guy",6089,45.49138,-73.57015,false,true,,,false,0,3,1332250342530
+79,"Métro Lucien-L'Allier",6090,45.49486,-73.57108,false,false,,,false,0,3,1332964515242
+80,"Baile / St-Mathieu",6091,45.492845,-73.577781,false,true,,,true,0,11,1321426174998
+81,"Crescent / René-Lévesque",6092,45.49606,-73.57348,true,true,1332706740000,,false,0,31,1332926579899
+82,"Chateaubriand / Beaubien",6912,45.535431,-73.603522,false,true,,,false,0,11,1321416044399
+83,"Métro Atwater",6194,45.489904,-73.585962,false,false,,,false,0,3,1331724212147
+84,"Chomedey / de Maisonneuve",6095,45.49156,-73.5838,false,true,,,false,0,11,1321705613342
+85,"Lucien-L'Allier / Saint-Jacques",6096,45.49321,-73.56795,false,true,,,false,0,3,1332251272950
+86,"Sainte-Catherine / Saint-Marc",6097,45.49275,-73.58061,false,true,,,false,0,7,1321599723329
+87,"Bishop / Sainte-Catherine",6098,45.49642,-73.57616,false,true,,,false,0,11,1321512893657
+88,"Crescent / de Maisonneuve",6099,45.498104,-73.577729,false,false,,,false,0,3,1331910016936
+89,"de Maisonneuve / Mackay",6100,45.49659,-73.57851,false,false,,,false,0,3,1331237818663
+90,"Metro Villa Maria",6101,45.48,-73.6189,false,false,,,false,0,3,1331834800323
+91,"Lincoln / Dufort",6102,45.493034,-73.583836,false,false,,,false,0,3,1331908535696
+92,Bishop/sherbrooke,6103,45.4983,-73.5798,false,false,,,false,0,3,1331243392876
+93,"Wolfe / René-Lévesque",6104,45.516872646826776,-73.55417490005493,true,true,1332811920000,,false,0,31,1332891647459
+94,"Plessis / René-Lévesque",6105,45.51954,-73.552,false,true,,,false,0,11,1321679157471
+95,"René-Lévesque / Papineau",6106,45.52114,-73.54926,false,true,,,false,0,3,1332169190487
+96,"Sainte-Catherine / Guy",6107,45.49500696707128,-73.57803583145142,false,true,,,false,0,11,1321512801065
+97,"Logan / Fullum",6108,45.528448693514136,-73.55108499526978,true,true,1332811140000,,false,0,15,1332926270802
+98,"Fullum / Jean-Langlois",6109,45.52615,-73.54612,false,false,,,false,0,3,1332174208597
+99,"Poupart / Sainte-Catherine",6110,45.52831340282976,-73.5469651222229,false,false,,,false,0,3,1332174049614
+100,"Parthenais / Sainte-Catherine",6111,45.52622,-73.54933,true,true,1332811200000,,false,9,10,1332954010336
+101,"Métro Beaudry",6112,45.51907,-73.55581,false,true,,,false,0,17,1321679170954
+102,"Alexandre-DeSève / Maisonneuve",6113,45.5219,-73.55534,false,true,,,false,0,11,1321765826732
+103,"Métro Papineau",6114,45.52353,-73.55199,true,true,1332812040000,,false,10,15,1332944275585
+104,"Benny/ Monkland",6115,45.4666,-73.6311,false,false,,,false,0,3,1331832984362
+105,"Plessis / Ontario",6116,45.523584,-73.560941,true,true,1332810780000,,false,9,10,1332944978229
+106,"Robin / de la Visitation",6117,45.52087,-73.55922,false,true,,,false,0,11,1321755702679
+107,"Champlain / Ontario",6118,45.52504753729988,-73.56003552675247,false,true,,,false,0,15,1321679156105
+108,"Dorion / Ontario",6119,45.52695,-73.55821,true,true,1332867240000,,false,10,17,1332945684036
+109,"Parthenais / Ontario",6120,45.52954,-73.55622,false,true,,,false,0,10,1321765906243
+110,"de Rouen / d'Iberville",6121,45.53387508488986,-73.55639576911926,false,true,,,false,0,3,1321812974294
+111,"Logan / d'Iberville",6122,45.53057,-73.54913,true,true,1332864720000,,false,8,7,1332954700139
+112,"Alexandre de Sève / La Fontaine",6123,45.523217,-73.558187,true,true,1332812280000,,false,8,7,1332954591944
+113,"Métro Frontenac",6124,45.533178,-73.55306,false,true,,,false,0,29,1321766486922
+114,"Hogan / Ontario",6125,45.5354,-73.55121,false,false,,,false,0,2,1332341642086
+115,"Rouen / Fullum",6126,45.53217,-73.55859,true,true,1332867300000,,false,8,7,1332955579995
+116,"du Havre / Hochelaga",6127,45.535915483036966,-73.55821967124939,false,false,,,false,0,3,1332923862492
+117,"Hogan / de Rouen",6128,45.536274,-73.554043,false,true,,,false,0,3,1332419814748
+118,"Sherbrooke / Frontenac",6130,45.5367,-73.56081,false,false,,,false,0,10,1321329174678
+119,"Sherbrooke / Fullum",6131,45.53375,-73.56196,true,true,1332959700000,,false,0,15,1332947474528
+120,"Terasse Mercure / Fulum",6133,45.535614,-73.566014,true,true,1332812100000,,false,0,15,1332924003950
+121,"de Bordeaux / Sherbrooke",6129,45.53002706078813,-73.56317639350891,true,true,1332810900000,,false,8,7,1332956314580
+122,"Prince Arthur/Ste-Famille ",6202,45.511721,-73.574442,false,true,,,true,0,11,1321599554331
+123,"University / Prince-Arthur",6047,45.50733,-73.57845,false,false,,,false,0,3,1331909253667
+124,"University / des Pins",6079,45.508164612433625,-73.58017891645432,false,true,,,false,0,15,1321512894784
+125,"Molson / William - Tremblay",6022,45.541532,-73.565258,false,false,,,false,0,3,1331906816855
+126,"Atwater / Sherbrooke",6093,45.49132174886071,-73.58780980110168,false,true,,,false,0,15,1321512783412
+127,"Drolet / Beaubien",6913,45.533364,-73.605837,false,false,,,false,0,3,1331897988143
+128,"Casgrain / Beaubien",6915,45.531425,-73.607591,false,true,,,false,0,11,1321512799866
+129,"Parc du Pélican",6916,45.54483,-73.572811,false,false,,,false,0,3,1332341424428
+130,"9e Avenue / Dandurand",6918,45.550769,-73.57711,false,false,,,false,0,3,1332318191957
+131,"Marquette / Jean-Talon",6923,45.54735612315234,-73.60760986804962,false,true,,,false,0,11,1321426076761
+132,"des Écores / Jean-Talon",6925,45.55244260913485,-73.60300183296204,false,false,,,false,0,11,1321376725895
+133,"Président-Kennedy / University",6072,45.50463252180637,-73.57255339622498,false,false,,,false,0,3,1331910053919
+134,"Drummond / du Docteur-Penfield",6075,45.50194054022276,-73.58126521110535,false,false,,,false,0,3,1331241328973
+135,"Gascon / Rachel",6134,45.53797,-73.5627,false,true,,,false,0,15,1332969632410
+136,"Larivière / de Lorimier",6132,45.52915520624575,-73.559410572052,true,true,1332811800000,,false,7,8,1332957175549
+137,"Parthenais / Rachel",6136,45.53417194299746,-73.56608927249908,false,false,,,false,0,11,1320766038998
+138,"Gauthier / Papineau",6137,45.530202,-73.56663,false,true,,,false,0,3,1332259129898
+139,"de Bordeaux / Gauthier",6138,45.5313,-73.566,false,false,,,false,0,3,1332258563836
+140,"Gauthier / des Érables",6139,45.53237,-73.56437,false,true,,,false,0,7,1321679165438
+141,"Marquette / Rachel",6140,45.5298015824607,-73.5702896118164,true,false,1332810840000,,false,0,15,1320762737116
+142,"de Bordeaux / Rachel",6141,45.53227,-73.56828,false,true,,,false,0,15,1332924249224
+143,"Garnier / Rachel",6142,45.52865,-73.57163,false,false,,,false,0,3,1332177541963
+144,"Rachel / Brébeuf",6143,45.52689,-73.57264,true,true,1332811380000,,false,0,15,1332926102238
+145,"du Parc-La Fontaine / Duluth",6145,45.52469,-73.57221,true,true,1332811380000,,false,0,11,1332926809719
+146,"du Parc-La Fontaine / Roy",6146,45.523084,-73.568731,true,true,1332864360000,,false,0,11,1332923265456
+147,"Calixa-Lavallée / Sherbrooke",6147,45.52479,-73.56545,true,true,1332864240000,,false,0,31,1332959622248
+148,"Émile-Duployé / Sherbrooke",6148,45.52729,-73.56463,true,true,1332960120000,,false,0,23,1332933571509
+149,"Chapleau / Mont-Royal",6149,45.53867,-73.56936,false,true,,,false,0,11,1332966235020
+150,"Fullum / Mont-Royal",6150,45.537553,-73.570182,false,true,,,false,0,11,1321852598350
+151,"des Érables / Mont-Royal",6151,45.53565,-73.57172,false,false,,,false,0,11,1321369724911
+152,"Chabot / Mont-Royal",6152,45.53413436610843,-73.57349216938019,true,true,1332865260000,,false,0,19,1332924864625
+153,"Marie-Anne / Papineau",6153,45.53189473818018,-73.5723227262497,true,true,1332811680000,,false,0,3,1332926912799
+154,"Marquette / Mont-Royal",6154,45.53229,-73.57544,false,true,,,false,0,19,1332925988431
+155,"Garnier / Mont-Royal",6155,45.53092,-73.57674,false,true,,,false,0,27,1332931088200
+156,"Marie-Anne / de la Roche",6156,45.52773841379083,-73.5762494802475,true,true,1332864660000,,false,0,19,1332951516576
+157,"de la Roche / Mont-Royal",6157,45.52856,-73.57828,true,true,1332866340000,,false,0,19,1332926510715
+158,"Gilford / Brébeuf",6158,45.53073,-73.58153,true,true,1332866880000,,false,0,15,1332884506972
+159,"Marquette / Gilford",6159,45.5339,-73.57891,false,true,,,false,0,15,1332925730594
+160,"Garnier / Saint-Joseph",6160,45.53297,-73.58118,false,true,,,false,0,19,1332972886442
+161,"Cartier / Saint-Joseph",6161,45.53576,-73.57867,false,true,,,false,0,23,1332970397118
+162,"Messier / Saint-Joseph",6162,45.53928,-73.57596,true,true,1332960180000,,false,0,15,1332937906136
+163,"Marquette / Laurier",6163,45.53543,-73.5822,false,true,,,false,0,23,1332925454643
+164,"Garnier / Laurier",6164,45.53388,-73.58315,false,false,,,false,0,3,1332169075751
+165,"Brébeuf / Laurier",6165,45.53248,-73.58507,true,true,1332872820000,,false,0,31,1332927412317
+166,"Brébeuf / Saint-Grégoire",6166,45.5341,-73.58852,true,true,1332872820000,,false,0,3,1332428469813
+167,"Marquette / Saint-Grégoire",6167,45.53703,-73.58584,false,false,,,false,0,3,1332254717901
+168,"Chabot / Masson",6168,45.538298,-73.582703,true,false,1332959460000,,false,0,3,1332165585606
+169,"de Mentana / Saint-Grégoire",6169,45.53187,-73.59064,true,true,1332872880000,,false,0,19,1332922830418
+170,"de Mentana / Laurier",6170,45.53004,-73.5867,false,true,,,false,0,23,1332973971178
+171,Wolfe/Ontario,6171,45.5208,-73.5627,true,true,1332811860000,,false,0,27,1332926384387
+173,"Cherrier / Berri",6173,45.5191458,-73.5692414,false,true,,,false,0,3,1331999683723
+174,"Roy / Saint-Denis",6174,45.51908,-73.5727,false,false,,,false,0,3,1331729545117
+175,"Saint-André / Roy",6175,45.52186,-73.57047,false,false,,,false,0,3,1331998495635
+176,"St-André / Duluth",6176,45.523171,-73.573431,true,true,1332865320000,,false,0,23,1332923795275
+177,"Saint-André / Rachel",6177,45.524222,-73.575771,true,true,1332866340000,,false,0,3,1332251980674
+178,"Rachel / Berri",6178,45.522721103182064,-73.57726335525513,true,true,1332959880000,,false,0,23,1332943441881
+179,"Duluth / Saint-Denis",6179,45.52077419099789,-73.57577741146088,true,true,1332959820000,,false,0,23,1332938456462
+180,"De Bullion/Rachel",6180,45.519346,-73.5802,true,true,1332698820000,,true,0,11,1332925222912
+181,Clarck/Rachel,6181,45.516853,-73.582648,false,false,,,false,0,2,1332167161023
+182,"Buillon / Mont-Royal",6182,45.5215,-73.5851,false,true,,,false,0,23,1332924231138
+183,"Laval / Mont-Royal",6183,45.52241290921658,-73.58412981033325,false,false,,,false,0,3,1331316382800
+184,"Métro Mont-Royal",6184,45.52468,-73.58199,false,false,,,false,0,3,1332167773541
+185,"Saint-André / Mont-Royal",6185,45.52633,-73.58047,false,true,,,false,0,23,1332925256545
+186,"Boyer / Mont-Royal",6186,45.52743,-73.58002,true,true,1332866040000,,false,0,27,1332925899630
+187,"Saint-André / de Bienville",6187,45.5272,-73.58226,true,true,1332872700000,,false,0,15,1332924749378
+188,"Marie-Anne / Saint-Hubert",6188,45.52473,-73.57878,true,true,1332960060000,,false,0,11,1321765934275
+189,Chabot/Everret,6189,45.5507,-73.6096,false,true,,,false,0,3,1332785647162
+190,"Berri / Saint-Joseph",6190,45.52749,-73.58714,false,true,,,false,0,14,1332923956385
+191,"Saint-André / Saint-Joseph",6191,45.52856,-73.58545,true,true,1332866520000,,false,0,15,1332925398500
+192,"Métro Laurier",6192,45.52811,-73.5887,false,false,,,false,0,3,1332166840373
+193,"Henri-Julien / Laurier",6193,45.525851,-73.590567,false,false,,,false,0,3,1332177890460
+194,"Henri-Julien / Maguire",6094,45.527265,-73.593402,false,false,,,false,0,3,1332164945502
+195,"de Bullion / Boul. Saint-Joseph",6195,45.52377,-73.58978,false,true,,,false,0,15,1332925414703
+196,"Ste-Famille / Sherbrooke",6196,45.5100249,-73.5707441,false,true,,,true,0,11,1321679166264
+197,Rivard/Boucher,6197,45.5285,-73.5913,false,false,,,false,0,3,1332168314080
+198,"Hélène-Baillargeon / Saint-Denis",6198,45.52974,-73.59527,false,false,,,false,0,3,1332168342315
+199,"Clark / Saint-Viateur",6199,45.52517156097331,-73.5993754863739,false,true,,,false,0,11,1321426173627
+200,"Maguire / Saint-Laurent",6200,45.52457,-73.59588,false,false,,,false,0,3,1332158991039
+201,"Villeneuve / de l'Hôtel-de-Ville",6201,45.52352540631033,-73.58750939369202,false,true,,,false,0,19,1332926377507
+202,"Hutchison / Sherbrooke",6203,45.50781,-73.57208,false,false,,,false,0,3,1331242719904
+203,"Milton / du Parc",6205,45.50971,-73.57354,false,true,,,false,0,11,1321512800562
+204,"Prince-Arthur / du Parc",6206,45.51059,-73.57547,false,false,,,false,0,3,1332168504383
+205,"Sainte-Famille / des Pins",6207,45.51281294953485,-73.57701659202576,false,false,,,false,0,3,1331721711020
+206,"Hutchison / des Pins",6208,45.51069,-73.57805,false,false,,,false,0,3,1331721956618
+207,"Milton / Clark",6209,45.51252,-73.57062,false,true,,,false,0,15,1321599665762
+208,"Metro  Sauvé",6210,45.5509,-73.656,false,true,,,false,0,3,1332173717894
+209,"Roy / Saint-Laurent",6211,45.51561,-73.57569,false,false,,,false,0,3,1332173673766
+210,"Duluth / Saint-Urbain",6212,45.51566,-73.58064,false,true,,,false,0,11,1321512804725
+211,"Duluth / Saint-Laurent",6213,45.5171,-73.57921,false,false,,,false,0,3,1332167804966
+212,"Square Saint-Louis",6214,45.51735,-73.56906,true,true,1332959340000,,false,0,43,1332940565162
+213,"Saint-Cuthbert / Saint-Urbain",6215,45.51494,-73.57821,true,true,1332959400000,,false,0,19,1332946511409
+214,"Parc du Mont-Royal",6216,45.51496,-73.58503,false,false,,,false,0,3,1332165432355
+215,"Marie-Anne / Saint-Urbain",6217,45.51778,-73.58531,false,true,,,false,0,3,1332953700821
+216,"de l'Hôtel-de-Ville / Roy",6219,45.51737,-73.57452,false,false,,,false,0,3,1332166970762
+217,"Laval / Duluth",6220,45.51923690964773,-73.57721507549286,false,false,,,false,0,3,1332174448185
+218,"Mont-Royal / Clark",6221,45.51941,-73.58685,false,false,,,false,0,3,1331317956364
+219,"de l'Esplanade / Mont-Royal",6222,45.51833,-73.58825,false,true,,,false,0,15,1321473315688
+220,"Mont-Royal / du Parc",6223,45.517,-73.589,false,true,,,false,0,3,1332153980973
+221,"Cartier/ Mont-Royal",6224,45.5336,-73.573936,true,true,1332866580000,,true,0,19,1332921097342
+222,"Villeneuve / Saint-Urbain",6225,45.52039,-73.59026,false,true,,,false,0,3,1332154064179
+223,"Clark / Laurier",6226,45.52266,-73.5936,false,true,,,false,0,11,1321512786787
+224,"Jeanne-Mance / Laurier",6227,45.52024,-73.59494,false,false,,,false,0,3,1332167536629
+225,"Fairmount / Saint-Urbain",6229,45.52279,-73.59558,false,false,,,false,0,2,1331831577386
+226,"Waverly / Saint-Viateur",6230,45.52402527115221,-73.60042154788971,false,false,,,false,0,3,1331833885442
+227,"Saint-Viateur / du Parc",6231,45.52246,-73.6019,false,false,,,false,0,3,1332165385462
+228,"Bernard / Clark",6234,45.52697,-73.60261,false,false,,,false,0,3,1331907607818
+229,"Saint-Dominique / Saint-Viateur",6235,45.52654331973003,-73.59823286533356,false,false,,,false,0,3,1332159762301
+230,"Laurier / de Lorimier",6236,45.53801968350807,-73.57845962047577,false,false,,,false,0,3,1332154337189
+232,"Parthenais / Gilford",6237,45.53797459432353,-73.57477962970734,false,true,,,false,0,11,1321852589485
+233,"Chapleau / Marie-Anne",6903,45.53751242809744,-73.56695830821991,false,true,,,false,0,3,1321886522892
+234,"de Bordeaux / Jean-Talon",6924,45.54970407823863,-73.60551238059998,false,false,,,false,0,3,1331835074366
+236,"Fairmount / Hutchison",6240,45.519486,-73.598419,false,false,,,false,0,3,1331722373268
+237,"Querbes / Laurier",6241,45.517345,-73.597724,false,false,,,false,0,0,
+239,"Bloomfield / Bernard",6243,45.520532,-73.608144,false,false,,,false,0,3,1331824044968
+241,"Bloomfield / Van Horne",6245,45.522608,-73.613178,false,false,,,false,0,3,1331832708469
+242,"Métro Outremont",6246,45.520265,-73.614887,false,false,,,false,0,3,1331832542039
+243,"Casgrain / Saint-Zotique",6247,45.53304,-73.61108,false,false,,,false,0,3,1331899272103
+244,"Dante / Alma",6248,45.53479,-73.6119,false,false,,,false,0,3,1331835467284
+245,"Bélanger / Saint-Denis",6249,45.53696,-73.61199,false,true,,,false,0,11,1321512784642
+246,"Henri-Julien / Jean-Talon",6250,45.53707,-73.61529,false,true,,,false,0,6,1321440894764
+247,"Casgrain / Mozart",6251,45.534788,-73.614726,false,false,,,false,0,3,1331835226957
+248,"Mozart / Saint-Laurent",6252,45.53318,-73.61544,false,true,,,false,1,10,1321426153127
+249,"Saint-Vallier / Jean-Talon",6253,45.538921,-73.613701,false,false,,,false,0,3,1331831925843
+250,"Boyer / Bélanger",6254,45.54006,-73.60897,false,false,,,false,0,11,1320591238844
+251,"Boyer / Saint-Zotique",6255,45.53848,-73.60556,false,false,,,false,0,11,1320587835727
+253,"Saint-Vallier / Saint-Zotique",6257,45.536299,-73.607773,false,true,,,false,0,3,1332959840513
+254,"Parc Père-Marquette",6258,45.537035,-73.593126,false,true,,,false,0,11,1321426181801
+255,"Holt / de Lorimier",6259,45.54184,-73.58644,false,true,,,false,0,3,1332260949758
+256,"Cartier / des Carrières",6260,45.53989,-73.58807,false,false,,,false,0,3,1331833929158
+257,"des Érables / Rosemont",6261,45.54363,-73.58844,false,false,,,false,0,3,1331906613891
+258,"de la Roche /  Bellechasse ",6262,45.537202,-73.597884,false,true,,,false,0,7,1321426218284
+259,Hampton/Monkland,6263,45.4714,-73.6266,false,false,,,false,0,3,1331824068117
+260,"Chabot / Bellechasse",6264,45.5427,-73.59212,false,true,,,false,0,11,1321470658766
+261,"Louis-Hémon / Bellechasse",6265,45.545264,-73.589918,false,true,,,false,0,3,1321426067817
+262,"Louis-Hébert / Beaubien",6266,45.54857,-73.59268,false,true,,,false,0,3,1321442137890
+263,"de Bordeaux / Beaubien",6267,45.54475,-73.5949,false,true,,,false,0,11,1321471646861
+264,"Chambord / Beaubien",6268,45.539964,-73.599716,false,true,,,false,0,11,1321426179838
+265,"de Normanville / Saint-Zotique",6269,45.54083,-73.60384,false,true,,,false,0,7,1321426205930
+266,"Fabre / Saint-Zotique",6270,45.543541,-73.600982,false,true,,,false,0,7,1321426209156
+267,"de Gaspé / de Bellechasse",6271,45.530512,-73.603949,false,false,,,false,0,3,1331898731970
+268,"des Érables / Saint-Zotique",6272,45.5477,-73.59721,false,false,,,false,0,3,1331803251552
+269,"Garnier / Bélanger",6273,45.544471,-73.605145,false,true,,,false,0,11,1321423196493
+270,"Cartier / Bélanger",6274,45.54691,-73.60281,false,false,,,false,0,3,1332925708337
+271,"Chambord / Jean-Talon",6275,45.544828,-73.610458,false,true,,,false,0,3,1332407047059
+272,"De la Roche / Bélanger",6276,45.5416,-73.608,false,true,,,false,0,11,1321426213030
+273,"Louis-Hébert / Saint-Zotique",6278,45.55001,-73.59576,false,true,,,false,0,7,1321426213071
+274,"Louis-Hébert / Bélanger",6279,45.551457,-73.598852,false,true,,,false,0,7,1321432099196
+275,"Fabre / Beaubien",6904,45.542055,-73.597793,false,true,,,false,0,11,1321426140212
+276,"Parc Rosemont",6905,45.544377,-73.581018,false,true,,,false,0,3,1332318693046
+277,"Chateaubriand/Rosemont ",6906,45.5325,-73.5973,false,false,,,false,0,3,1331834038400
+278,"Boyer / Rosemont",6907,45.534136,-73.595478,false,false,,,false,0,11,1320583241422
+279,"St-André / Bellechasse",6908,45.535304,-73.599387,false,false,,,false,0,3,1332168972516
+280,"Augustin-Cantin / Shearer",6921,45.483977,-73.563576,false,true,,,false,0,11,1321426153965
+281,"Louis-Colin / McKenna",6926,45.499916,-73.618089,false,false,,,false,0,3,1331733281974
+282,"Édouard-Montpetit / Stirling",6927,45.50723,-73.615085,false,false,,,false,0,3,1331824005318
+283,"Chemin de la Tour",6928,45.503023,-73.616531,false,false,,,false,0,3,1331833042458
+284,"Waverly / Van Horne",6228,45.527363,-73.607723,false,false,,,false,0,3,1331999428118
+285,"Hutchison / Van Horne",6232,45.525021229212776,-73.61073732376099,false,false,,,false,0,3,1331832900797
+286,"Bernard / Jeanne-Mance",6233,45.52429587282263,-73.60484719276428,false,false,,,false,0,3,1332165483198
+287,"Basile-Routhier / Chabanel",6917,45.549949,-73.647982,false,true,,,false,0,3,1331905450638
+288,"10e Avenue / Rosemont",6919,45.552649,-73.581185,false,false,,,false,0,7,1321381702620
+289,"Boyer / Beaubien",6910,45.537041,-73.602026,false,false,,,false,0,11,1320583784112
+290,"Peel / Ottawa",6086,45.49427,-73.55979,true,true,1332960360000,,false,0,15,1332957747625
+291,"Notre-Dame / de la Montagne ",6087,45.49302901258371,-73.56481790542603,true,true,1332960300000,,false,0,23,1332951896732
+292,"Guy / Notre-Dame",6088,45.489951,-73.567091,true,true,1332791700000,,false,0,15,1332926164795
+293,"Louis-Hémon / Beaubien",6277,45.54705,-73.59353,false,false,,,false,0,3,1332260572511
+294,"des Érables / Bélanger",6280,45.54925703514949,-73.60098749399185,false,true,,,false,0,3,1321426076027
+297,"Métro Charlevoix",10002,45.47822787309145,-73.56965124607086,false,true,,,false,0,23,1321426077281
+301,"des Seigneurs / Notre-Dame",6401,45.48767,-73.56895,false,false,,,false,0,3,1332164513927
+302,"Sir Georges Etienne Cartier/Notre-Dame",6402,45.474098,-73.587206,false,true,,,false,0,3,1332156867985
+303,"Georges-Vanier / Notre-Dame",6403,45.48501,-73.57178,false,false,,,false,0,3,1332158534556
+304,"Duvernay / Charlevoix",6404,45.48205,-73.57491,false,false,,,false,0,3,1332167878974
+305,"Quesnel / Vinet",6405,45.485889,-73.577514,false,false,,,false,0,3,1332158674654
+306,"Marché Atwater",6406,45.480359,-73.577102,false,false,,,false,0,3,1332340544071
+307,"Métro Lionel-Groulx",6407,45.482717,-73.581281,false,false,,,false,0,3,1331920194830
+308,"Saint-Antoine / Canning (Metro George-Vanier)",6408,45.4891,-73.57656,false,true,,,false,0,3,1331999397588
+309,"Wilderton / Côte-Sainte-Catherine",6307,45.507874,-73.618965,false,false,,,false,0,3,1331733314737
+311,"IUGM - Institut universitaire de gériatrie",6309,45.491418,-73.622491,false,false,,,false,0,3,1332168239291
+312,"Hudson / Côte-Sainte-Catherine",6310,45.503857,-73.6226,false,false,,,false,0,3,1331729329549
+313,"Gatineau / Jean-Brillant ",6313,45.496785,-73.620888,false,false,,,false,0,3,1331835266771
+314,"Kent / Côte-Des-Neiges",6312,45.501302,-73.633161,false,false,,,false,0,3,1331897667313
+315,"Gatineau / Côte-Sainte-Catherine",6311,45.499365,-73.626611,false,false,,,false,0,3,1331906625987
+316,"Ellendale / Côte-Des-Neiges",6314,45.499594,-73.629363,false,false,,,false,0,3,1331899296149
+317,"Lacombe / Gatineau",6315,45.497434,-73.622805,false,false,,,false,0,3,1331834063712
+318,"Parc Jean-Brillant",6316,45.497011,-73.618575,false,false,,,false,0,3,1331835477109
+319,"Jardin Botanique",6383,45.555029,-73.554902,false,false,,,false,0,15,1321309626194
+320,"Valois / Sherbrooke",6385,45.550725,-73.555254,false,false,,,false,0,3,1332260207073
+321,"Métro Préfontaine",6386,45.541814,-73.554635,false,true,,,false,0,3,1332321139526
+322,"Métro Joliette",6387,45.546847,-73.551517,false,true,,,false,0,19,1321852698409
+323,"D'Orléans / Hochelaga",6388,45.550668,-73.549502,false,false,,,false,0,7,1321339445220
+324,"Boyer / Jean-Talon",6389,45.541484,-73.612441,false,false,,,false,0,11,1320584442130
+325,"Aylwin / Ontario",6391,45.544136,-73.545609,false,true,,,false,0,3,1332340390180
+327,"Ontario / Dézéry",6393,45.541031,-73.547134,false,true,,,false,0,3,1332259789635
+328,"Nicolet / Ontario",6394,45.546462,-73.54389,false,false,,,true,0,3,1332329553273
+329,"Pierre-de-Coubertin / Aird",6395,45.55896,-73.548687,false,false,,,false,0,10,1321362082358
+330,"Marché Maisonneuve",6397,45.553491,-73.53931,false,false,,,false,0,11,1321366199043
+331,"Desjardins / Ontario",6398,45.551207,-73.540866,false,false,,,false,0,3,1332419733740
+332,"Guizot / Saint-Laurent",6323,45.539964,-73.634319,false,false,,,false,0,3,1331834919729
+333,"Faillon / Saint-Denis",6327,45.540098,-73.619986,false,false,,,false,0,3,1331831985242
+334,"Gounod / Saint-Denis",6329,45.541791,-73.625894,false,true,,,false,0,3,1332405133419
+335,"De Gaspé / Jarry",6330,45.540627,-73.630089,false,true,,,false,0,11,1321426081236
+336,"Guizot / Saint-Denis",6331,45.543376,-73.632267,false,false,,,false,0,3,1331824267719
+337,"De Gaspé / De Liège",6332,45.542579,-73.636557,false,false,,,false,0,3,1331900701430
+338,"Foucher / Leman",6333,45.545987,-73.631562,false,true,,,false,0,7,1321466859700
+339,"Lajeunesse / Jarry",6334,45.543583,-73.6284,false,false,,,false,0,3,1331831971208
+340,"Du Rosaire / Saint-Hubert",6335,45.54467,-73.621581,false,false,,,false,0,3,1331832650283
+341,"Faillon / Saint-Hubert",6336,45.542892,-73.617822,false,true,,,false,0,11,1321534773246
+342,"Boyer / Jarry",6338,45.547283,-73.625377,false,false,,,false,0,11,1320592975962
+343,Harvard/Monkland,6339,45.4743,-73.6237,false,false,,,false,0,3,1331832522276
+344,"De La Roche / Everett",6340,45.544867,-73.614841,false,true,,,false,0,11,1321446423738
+345,"Regina / Verdun",6341,45.467369,-73.570769,false,false,,,false,0,3,1332265368320
+346,"Marquette / Villeray",6343,45.550551,-73.615021,false,false,,,false,0,3,1332887039828
+347,"Louis-Hémon / Villeray",6345,45.554931,-73.610711,false,true,,,false,0,7,1321426208607
+348,Valois/Ste-Catherine,6346,45.545409,-73.537669,false,true,,,false,0,11,1321440094118
+349,"Metro St-Michel",6347,45.559199,-73.599658,false,true,,,false,0,11,1321415171611
+350,Ryde/Charlevoix,6349,45.4758,-73.5644,false,true,,,false,0,3,1321412225884
+351,Island/Centre,6350,45.4815,-73.5644,false,false,,,false,0,2,1332265275961
+355,"St-Dominique / Villeray",6322,45.537813,-73.624872,false,false,,,false,0,3,1332166116521
+356,"de Liège / Lajeunesse",6324,45.54554155627702,-73.6347484588623,false,false,,,false,0,3,1332265322124
+357,"Drolet / Villeray",6328,45.5401,-73.6234,false,true,,,false,1,10,1321531402191
+358,Marcil/Sherbrooke,6354,45.471613,-73.613667,false,true,,,false,0,11,1321418241546
+359,Sicard/Ontario,6355,45.5566,-73.5373,false,false,,,false,0,3,1332419902518
+360,Monkland/Girouard,6356,45.4771,-73.6212,false,false,,,false,0,3,1331835268613
+361,"12e Avenue / Saint-Zotique",6357,45.556905,-73.58925,false,true,,,false,0,3,1331896545713
+362,"3e avenue /St-Zotique",6358,45.553243,-73.592336,false,true,,,false,0,11,1321456097399
+363,"16e Avenue / Beaubien",6359,45.558496,-73.583489,false,true,,,false,0,7,1321413881703
+364,"9e Avenue / Beaubien",6360,45.553785,-73.587328,false,false,,,false,0,2,1332264225260
+365,"1ere Avenue / Beaubien",6361,45.550476,-73.590446,false,true,,,false,0,11,1321426194794
+366,"1ere Avenue / Rosemont",6362,45.547997,-73.58523,false,true,,,false,0,7,1321426323730
+367,St-Antoine/Royal,6363,45.4688,-73.6198,false,false,,,false,0,11,1321385008645
+368,"Parc Campbell",6364,45.549639,-73.558292,false,true,,,false,1,10,1321428507459
+369,"16e Avenue / Rosemont",6365,45.556723,-73.577636,false,true,,,false,0,11,1321765923919
+370,"Wilderton Crescent / Van Horne",6366,45.509188,-73.62442,false,false,,,false,0,3,1331899347773
+371,"3e Avenue / Dandurand",6367,45.547362,-73.579221,false,false,,,false,0,7,1321386210393
+372,"10e Avenue / Masson",6368,45.550321,-73.573755,false,false,,,false,0,10,1321380155041
+373,"St-antoine / Rue du square victoria",6369,45.501793,-73.563189,false,true,,,false,0,11,1321414707896
+374,"D'Orléans / Masson",6370,45.557192,-73.569847,false,true,,,false,0,7,1321442688692
+375,"4e Avenue / Masson",6371,45.546992,-73.575445,false,true,,,false,0,7,1321426070659
+376,"Molson / Masson",6372,45.544123,-73.577049,false,true,,,false,0,7,1321416247759
+377,"7e Avenue / Saint-Joseph",6373,45.547155,-73.569901,false,true,,,false,0,7,1321451764591
+378,"15e Avenue / Laurier",6374,45.553408,-73.569531,false,true,,,false,1,10,1321444713022
+379,"Metro Place St-Henri",6375,45.477287,-73.585419,false,true,,,false,0,3,1321599723636
+380,"18e Avenue / Saint-Joseph",6376,45.554165,-73.564742,false,false,,,false,0,3,1331316417739
+381,"12e Avenue / Saint-Joseph",6377,45.55008,-73.568066,false,true,,,false,0,7,1321420680948
+383,"Bannantyne /de l'Eglise",6379,45.463257,-73.575621,false,true,,,false,0,11,1321468096674
+384,"Parc J.-Arthur-Champagne",6380,45.551584,-73.561916,false,true,,,false,0,11,1321428733705
+385,"Omer-Lavallée / Midway",6381,45.545474,-73.561937,false,false,,,false,0,3,1331906745359
+387,"Darling / Sherbrooke",6384,45.545425,-73.556527,false,true,,,false,0,3,1332405444442
+388,"Métro Pie-IX",6396,45.553879,-73.551761,false,false,,,false,0,3,1332341236234
+389,"Parc Outremont",6301,45.518215,-73.603251,false,false,,,false,0,3,1331732725394
+390,"Stuart / Côte-Ste-Catherine",6302,45.51529,-73.60628,false,false,,,false,0,3,1331907640213
+391,"Dunlop / Van Horne",6303,45.514905,-73.619682,false,true,,,false,0,11,1321939451037
+392,"Rockland / Lajoie",6304,45.515617,-73.614991,false,false,,,false,0,3,1332165609466
+393,"Davaar / Côte-Sainte-Catherine",6305,45.514379,-73.610871,false,false,,,false,0,3,1331733203303
+394,"Mont-Royal / Vincent-D'Indy ",6306,45.510086,-73.611429,false,false,,,false,0,3,1331746863047
+396,"Faillon / St-Laurent",6321,45.536152,-73.622351,false,true,,,false,0,11,1321512786908
+397,"Saint-Dominique / Jean Talon",6344,45.535218,-73.617618,false,true,,,false,0,0,
+399,"Lionel-Groulx / George-Vanier",6409,45.486457,-73.573286,false,false,,,false,0,3,1332154298360
+401,"De l'Hôtel-de-Ville / Sherbrooke",6021,45.51453083866944,-73.56847107410431,false,true,,,false,0,15,1332949722087
+403,"Mansfield / Ste-Catherine ",6066,45.5014018,-73.5718136,true,true,1332696300000,,true,0,23,1332924991461
+404,"Prince-Arthur / Saint-Urbain",6218,45.512762,-73.573489,false,false,,,false,0,3,1332165425504
+406,"Métro Jean-Drapeau",6501,45.512097,-73.53382,false,false,,,false,0,19,1320674294620
+407,"Quai de la navette fluviale",6502,45.513306,-73.538318,false,false,,,false,0,19,1320665930049
+408,"Métro Parc",6503,45.530261,-73.624273,false,false,,,false,0,3,1332174159467
+409,"La Ronde",6504,45.521769,-73.534859,false,false,,,false,0,15,1320668240430
+413,Wilson/Sherbrooke,6415,45.4703,-73.6162,false,false,,,false,0,3,1331906617040
+414,"La Salle/Hochelaga",6417,45.554109,-73.547417,false,true,,,false,0,3,1332340117735
+415,"Metro Vendome",6418,45.473775,-73.604223,false,true,,,false,0,11,1321464219519
+416,"McGill College /Maisonneuve",6424,45.502536,-73.572664,false,true,,,false,0,7,1321512926938
+417,20e/Beaubien,6421,45.5615,-73.5808,false,false,,,false,0,3,1331897533438
+418,"Marlowe / Sherbrooke",6416,45.475191,-73.607539,false,true,,,false,0,11,1321512898311
+419,"Beaucourt /Cote Ste-Catherine",6419,45.491513,-73.633649,false,false,,,false,0,3,1331906745218
+421,"Hôpital général juif",6423,45.496302,-73.629822,false,false,,,false,0,3,1331899660977
+422,"Metro snowdon",6420,45.485026,-73.626889,false,false,,,false,0,3,1332168417295
+423,Fleurry/Lajeunesse,6422,45.5536,-73.6616,false,true,,,false,1,22,1321426185645
+424,"Basile-Routhier / Crémazie",6410,45.547009,-73.637951,false,false,,,false,0,3,1331900166399
+425,"Complexe sportif Claude-Robillard",6412,45.554492,-73.635151,false,true,,,false,0,11,1321765803950
+426,"Square Phillips 2",6413,45.503873,-73.568679,false,true,,,false,0,23,1321426140960
+427,Agnes/St-Antoine,6414,45.480065,-73.587005,false,true,,,false,0,3,1331999168635
+428,"Ross / Ave de Léglise",6425,45.462742,-73.565845,false,true,,,false,0,11,1321512854157
+429,"Willibord / Verdun",6426,45.459707,-73.571438,false,true,,,false,0,11,1321512860209
+430,"Rushbrooke / Ave Caisse",6427,45.470605,-73.565459,false,true,,,false,0,11,1321512781364
+431,"Place du Commerce",6428,45.46729,-73.542357,false,true,,,false,0,11,1321852686415
+432,"Emile-Journault / Marcel Cadieux",6411,45.552232,-73.639539,false,true,,,false,0,11,1321765796811
+433,"Ch de la Pointe Nord ",6429,45.472659,-73.542244,false,true,,,false,0,11,1321881442483
+437,"Cartier / Rosemont",6281,45.5413,-73.591,false,false,,,false,0,3,1332264271339
+438,"Greene / Boul. Maisonneuve",6432,45.487,-73.5898,false,true,,,false,0,7,1321540810299
+439,"Hillside / Ste-Catherine",6433,45.4829,-73.591,false,true,,,false,0,11,1321512868795
+440,"Prince Albert / Sherbrooke",6434,45.4782,-73.6041,false,false,,,false,0,3,1331897538513
+441,"Victorial Hall",6435,45.4816,-73.6,false,true,,,false,0,10,1321545938741
+442,"Argyle / Sherbrooke",6436,45.486,-73.5959,false,true,,,false,0,11,1321512785657
+443,"Métro Longueuil - Université de Sherbrooke",5002,45.5251,-73.5194,false,false,,,false,0,0,
+444,"St-Charles / Châteauguay",5003,45.5332,-73.5156,false,false,,,false,0,0,
+445,"Place Longueuil",5004,45.5294,-73.5178,false,false,,,false,0,0,
+446,"Grant / St-Laurent",5005,45.5382,-73.5058,false,false,,,false,0,0,
+447,"St-Charles / St-Thomas",5006,45.5375,-73.5109,false,false,,,false,0,0,
+448,"Collège Édouard-Montpetit",5007,45.5368,-73.4954,false,false,,,false,0,0,
+1,"Notre Dame / Place Jacques Cartier",6001,45.508183,-73.554094,true,true,1332691320000,,false,15,16,1332945081985
+2,Dézery/Ste-Catherine,6002,45.5392,-73.5414,false,false,,,false,0,3,1331919252617
+3,"Saint-Denis / René-Lévesque",6003,45.51289,-73.5585,false,false,,,false,0,3,1331735489824
+4,"Berri / Saint-Antoine",6004,45.51205360327094,-73.55393081903458,true,true,1332695940000,,false,13,12,1332954997435
+5,"Hotel-de-Ville / Viger",6005,45.50938,-73.557223,false,false,,,false,0,3,1331746404685
+6,"Saint-Antoine / de l'Hôtel-de-Ville",6006,45.50875,-73.55613,true,true,1332691560000,,false,0,15,1332925986608
+7,"de l'Hôtel-de-Ville / Sainte-Catherine",6007,45.51164009357107,-73.5621839761734,false,false,,,false,0,3,1331737746034
+8,"Sanguinet /Ste-Catherine",6008,45.512738,-73.561438,false,true,,,false,0,27,1332975202220
+9,"Berri / Sainte-Catherine",6009,45.51462481358633,-73.55977535247803,false,true,,,false,0,10,1321679172464
+10,"Sainte-Catherine / Saint-Denis",6901,45.51371137074363,-73.56054782867432,false,false,,,false,0,3,1331737768889
+11,"Saint-André / Saint-Antoine",6011,45.514076,-73.552439,false,false,,,false,0,3,1332158901772
+12,"Métro Saint-Laurent",6012,45.51066,-73.56497,false,false,,,false,0,3,1331919162330
+13,"Sanguinet / de Maisonneuve",6013,45.51339,-73.56255,true,true,1332960660000,,false,0,27,1332957848487
+14,"St-Denis / Maisonneuve",6014,45.514649,-73.562152,false,true,,,false,0,23,1321765791067
+15,"Berri / de Maisonneuve",6015,45.515299,-73.561273,true,true,1332960480000,,false,0,31,1332942540472
+16,"Saint-André / de Maisonneuve",6016,45.51699292968662,-73.55965733528137,false,false,,,false,0,14,1320686801761
+17,"Robin / Amherst",6017,45.51905,-73.56091,false,true,,,false,0,11,1321852752756
+18,"Saint-André / Ontario",6018,45.51889,-73.56353,false,true,,,false,0,11,1321852624697
+19,Savoie/Ontario,6019,45.51637,-73.5649812,true,true,,,false,0,23,1332944735475
+20,"Hotel de Ville / Ontario",6020,45.513481,-73.566262,false,false,,,true,0,3,1331745516960
+21,"Beaudry / Sherbrooke",6902,45.523007,-73.565183,false,true,,,false,1,2,1321690063373
+22,"de la Commune / Berri",6023,45.51086,-73.54983,false,false,,,false,0,3,1332000677788
+23,"Saint-Timothée / Sainte-Catherine",6024,45.51699292968662,-73.55744183063507,false,false,,,false,0,3,1331746116504
+24,"Notre-Dame / Saint-Gabriel",6025,45.50714391928411,-73.55511903762817,true,true,1332709320000,,false,11,12,1332944691985
+25,"de la Commune / Place Jacques-Cartier",6026,45.50719279267449,-73.5520076751709,true,true,1332695760000,,false,0,49,1332926634351
+26,"Le Royer / Saint-Laurent",6027,45.50589,-73.55431,false,false,,,false,0,3,1331907660096
+28,Belair/St-Antoine,6029,45.482843,-73.584352,false,true,,,false,0,3,1321569120671
+30,"Saint-Antoine / Saint-François-Xavier",6031,45.50449,-73.5592,false,false,,,false,0,3,1331999881759
+31,"Métro Place-d'Armes",6032,45.50623,-73.55976,false,false,,,false,0,3,1332000684317
+32,"Chenneville / Viger",6033,45.50536,-73.56093,false,false,,,false,0,3,1332000312503
+33,"Saint-Urbain / René-Lévesque",6034,45.5079,-73.563112,false,false,,,false,0,3,1331918878184
+34,"de la Gauchetière / Bleury",6035,45.50439,-73.56257,false,false,,,false,0,3,1331919476805
+35,"de la Commune / Saint-Sulpice",6036,45.50406856984278,-73.55360627174377,false,false,,,false,0,3,1331918294310
+36,"Saint-Nicolas / Place d'Youville",6037,45.50197437877896,-73.55515658855438,true,true,1332709920000,,false,0,15,1332926329827
+37,"McGill / d'Youville",6038,45.49975,-73.55566,true,true,1332696960000,,false,0,31,1332927413069
+38,"McGill / des Récollets",6039,45.500779,-73.558826,false,false,,,false,0,3,1331724350075
+39,"Saint-Jacques / Saint-Pierre",6040,45.5028,-73.55917,true,true,1332695580000,,false,1,0,1332965506165
+40,"Saint-Jacques / Gauvin",6041,45.500741,-73.560956,true,true,1332709380000,,false,19,20,1332956437610
+41,"de la Gauchetière / University",6042,45.50112,-73.56493,true,true,1332811620000,,false,0,23,1332923545972
+42,"Square Victoria",6043,45.50206,-73.56295,true,true,1332708060000,,false,8,7,1332955788190
+43,"University/René Levesques ",6044,45.501885,-73.567019,false,false,,,false,0,3,1331906851506
+45,"de la Gauchetière / Mansfield",6046,45.49871,-73.56671,true,true,1332811500000,,false,0,19,1332927470466
+46,"Milton / Durocher",6204,45.508231,-73.574707,false,false,,,false,0,3,1331908528790
+47,"King / De la Commune",6048,45.497438,-73.552802,false,false,,,false,0,3,1331723263150
+48,"King / Wellington",6049,45.4982,-73.55488,true,true,1332811440000,,false,0,31,1332926930357
+49,"de la Commune / McGill",6050,45.49886,-73.55232,false,true,,,false,0,7,1332924832080
+50,Prince/William,6051,45.497955,-73.558064,false,true,,,false,0,3,1332332537327
+51,"Duke / Wellington",6052,45.49643,-73.55583,false,false,,,false,0,3,1331233852302
+52,"Belmont / Beaver Hall",6053,45.502326,-73.565138,false,false,,,false,0,3,1331919373010
+55,"Peel / ave des Canadiens de Montréal",6057,45.497697,-73.568646,true,false,1332786720000,,false,0,11,1320654642888
+56,"Drummond / Rene Levesques",6058,45.497196,-73.571384,true,true,1332707460000,,false,0,39,1332924893049
+57,"Metcalfe / Sainte-Catherine",6059,45.50068473942228,-73.57215642929077,true,true,1332872640000,,false,0,31,1332927221823
+58,"Mansfield / René-Lévesque",6060,45.50015,-73.56928,true,true,1332696360000,,false,0,19,1332924693009
+59,"Sainte-Catherine / McGill College",6061,45.50176,-73.57128,true,true,1332786660000,,false,0,11,1321426212258
+60,"Drummond / Sainte-Catherine",6062,45.49863930330429,-73.57422709465027,true,true,1332696000000,,false,0,31,1332925245691
+61,"Drummond / de Maisonneuve",6063,45.49947,-73.57591,true,true,1332696120000,,false,0,31,1332925522150
+62,"de Maisonneuve / Stanley",6064,45.50038,-73.57507,true,true,1332786540000,,false,0,40,1332923562597
+63,"de la montagne / Sherbrooke",6065,45.499726,-73.578834,false,false,,,false,0,3,1331913962488
+64,"de Maisonneuve / University",6067,45.503475,-73.572103,false,false,,,false,0,3,1331908892223
+65,"Mansfield / Sherbrooke",6068,45.50297,-73.57505,false,false,,,false,0,3,1331919515397
+67,"University / Milton",6070,45.50624,-73.57622,false,false,,,false,0,22,1320581920870
+68,"de Maisonneuve / Aylmer",6073,45.50501,-73.57069,true,true,1332709860000,,false,0,23,1332926205940
+69,"Victoria / President-Kennedy",6076,45.5039077,-73.5730531,false,false,,,false,0,3,1332167059451
+71,"de Maisonneuve / de Bleury",6078,45.50708,-73.56917,true,true,1332786420000,,false,0,55,1332924825258
+72,"Mackay / René-Lévesque",6080,45.49449932378212,-73.57417345046997,false,false,,,false,0,3,1331914632380
+73,"Saint-Alexandre / Sainte-Catherine",6081,45.505458,-73.567945,true,true,1332709740000,,false,0,23,1332923718562
+74,"Mackay / ste-catherine",6082,45.495842,-73.577057,false,false,,,true,0,3,1331915736721
+75,"Square Phillips",6083,45.50401,-73.56865,false,true,,,false,0,25,1321402528783
+76,"Lambert-Closse / Tupper",6084,45.489609,-73.582445,false,false,,,false,0,3,1331908765686
+77,"Notre-Dame / Peel",6085,45.4952,-73.56328,false,false,,,false,0,3,1332164290325
+78,"Saint-Jacques / Guy",6089,45.49138,-73.57015,false,true,,,false,0,3,1332250342530
+79,"Métro Lucien-L'Allier",6090,45.49486,-73.57108,false,false,,,false,0,3,1332964515242
+80,"Baile / St-Mathieu",6091,45.492845,-73.577781,false,true,,,true,0,11,1321426174998
+81,"Crescent / René-Lévesque",6092,45.49606,-73.57348,true,true,1332706740000,,false,0,31,1332926579899
+82,"Chateaubriand / Beaubien",6912,45.535431,-73.603522,false,true,,,false,0,11,1321416044399
+83,"Métro Atwater",6194,45.489904,-73.585962,false,false,,,false,0,3,1331724212147
+84,"Chomedey / de Maisonneuve",6095,45.49156,-73.5838,false,true,,,false,0,11,1321705613342
+85,"Lucien-L'Allier / Saint-Jacques",6096,45.49321,-73.56795,false,true,,,false,0,3,1332251272950
+86,"Sainte-Catherine / Saint-Marc",6097,45.49275,-73.58061,false,true,,,false,0,7,1321599723329
+87,"Bishop / Sainte-Catherine",6098,45.49642,-73.57616,false,true,,,false,0,11,1321512893657
+88,"Crescent / de Maisonneuve",6099,45.498104,-73.577729,false,false,,,false,0,3,1331910016936
+89,"de Maisonneuve / Mackay",6100,45.49659,-73.57851,false,false,,,false,0,3,1331237818663
+90,"Metro Villa Maria",6101,45.48,-73.6189,false,false,,,false,0,3,1331834800323
+91,"Lincoln / Dufort",6102,45.493034,-73.583836,false,false,,,false,0,3,1331908535696
+92,Bishop/sherbrooke,6103,45.4983,-73.5798,false,false,,,false,0,3,1331243392876
+93,"Wolfe / René-Lévesque",6104,45.516872646826776,-73.55417490005493,true,true,1332811920000,,false,0,31,1332891647459
+94,"Plessis / René-Lévesque",6105,45.51954,-73.552,false,true,,,false,0,11,1321679157471
+95,"René-Lévesque / Papineau",6106,45.52114,-73.54926,false,true,,,false,0,3,1332169190487
+96,"Sainte-Catherine / Guy",6107,45.49500696707128,-73.57803583145142,false,true,,,false,0,11,1321512801065
+97,"Logan / Fullum",6108,45.528448693514136,-73.55108499526978,true,true,1332811140000,,false,0,15,1332926270802
+98,"Fullum / Jean-Langlois",6109,45.52615,-73.54612,false,false,,,false,0,3,1332174208597
+99,"Poupart / Sainte-Catherine",6110,45.52831340282976,-73.5469651222229,false,false,,,false,0,3,1332174049614
+100,"Parthenais / Sainte-Catherine",6111,45.52622,-73.54933,true,true,1332811200000,,false,9,10,1332954010336
+101,"Métro Beaudry",6112,45.51907,-73.55581,false,true,,,false,0,17,1321679170954
+102,"Alexandre-DeSève / Maisonneuve",6113,45.5219,-73.55534,false,true,,,false,0,11,1321765826732
+103,"Métro Papineau",6114,45.52353,-73.55199,true,true,1332812040000,,false,10,15,1332944275585
+104,"Benny/ Monkland",6115,45.4666,-73.6311,false,false,,,false,0,3,1331832984362
+105,"Plessis / Ontario",6116,45.523584,-73.560941,true,true,1332810780000,,false,9,10,1332944978229
+106,"Robin / de la Visitation",6117,45.52087,-73.55922,false,true,,,false,0,11,1321755702679
+107,"Champlain / Ontario",6118,45.52504753729988,-73.56003552675247,false,true,,,false,0,15,1321679156105
+108,"Dorion / Ontario",6119,45.52695,-73.55821,true,true,1332867240000,,false,10,17,1332945684036
+109,"Parthenais / Ontario",6120,45.52954,-73.55622,false,true,,,false,0,10,1321765906243
+110,"de Rouen / d'Iberville",6121,45.53387508488986,-73.55639576911926,false,true,,,false,0,3,1321812974294
+111,"Logan / d'Iberville",6122,45.53057,-73.54913,true,true,1332864720000,,false,8,7,1332954700139
+112,"Alexandre de Sève / La Fontaine",6123,45.523217,-73.558187,true,true,1332812280000,,false,8,7,1332954591944
+113,"Métro Frontenac",6124,45.533178,-73.55306,false,true,,,false,0,29,1321766486922
+114,"Hogan / Ontario",6125,45.5354,-73.55121,false,false,,,false,0,2,1332341642086
+115,"Rouen / Fullum",6126,45.53217,-73.55859,true,true,1332867300000,,false,8,7,1332955579995
+116,"du Havre / Hochelaga",6127,45.535915483036966,-73.55821967124939,false,false,,,false,0,3,1332923862492
+117,"Hogan / de Rouen",6128,45.536274,-73.554043,false,true,,,false,0,3,1332419814748
+118,"Sherbrooke / Frontenac",6130,45.5367,-73.56081,false,false,,,false,0,10,1321329174678
+119,"Sherbrooke / Fullum",6131,45.53375,-73.56196,true,true,1332959700000,,false,0,15,1332947474528
+120,"Terasse Mercure / Fulum",6133,45.535614,-73.566014,true,true,1332812100000,,false,0,15,1332924003950
+121,"de Bordeaux / Sherbrooke",6129,45.53002706078813,-73.56317639350891,true,true,1332810900000,,false,8,7,1332956314580
+122,"Prince Arthur/Ste-Famille ",6202,45.511721,-73.574442,false,true,,,true,0,11,1321599554331
+123,"University / Prince-Arthur",6047,45.50733,-73.57845,false,false,,,false,0,3,1331909253667
+124,"University / des Pins",6079,45.508164612433625,-73.58017891645432,false,true,,,false,0,15,1321512894784
+125,"Molson / William - Tremblay",6022,45.541532,-73.565258,false,false,,,false,0,3,1331906816855
+126,"Atwater / Sherbrooke",6093,45.49132174886071,-73.58780980110168,false,true,,,false,0,15,1321512783412
+127,"Drolet / Beaubien",6913,45.533364,-73.605837,false,false,,,false,0,3,1331897988143
+128,"Casgrain / Beaubien",6915,45.531425,-73.607591,false,true,,,false,0,11,1321512799866
+129,"Parc du Pélican",6916,45.54483,-73.572811,false,false,,,false,0,3,1332341424428
+130,"9e Avenue / Dandurand",6918,45.550769,-73.57711,false,false,,,false,0,3,1332318191957
+131,"Marquette / Jean-Talon",6923,45.54735612315234,-73.60760986804962,false,true,,,false,0,11,1321426076761
+132,"des Écores / Jean-Talon",6925,45.55244260913485,-73.60300183296204,false,false,,,false,0,11,1321376725895
+133,"Président-Kennedy / University",6072,45.50463252180637,-73.57255339622498,false,false,,,false,0,3,1331910053919
+134,"Drummond / du Docteur-Penfield",6075,45.50194054022276,-73.58126521110535,false,false,,,false,0,3,1331241328973
+135,"Gascon / Rachel",6134,45.53797,-73.5627,false,true,,,false,0,15,1332969632410
+136,"Larivière / de Lorimier",6132,45.52915520624575,-73.559410572052,true,true,1332811800000,,false,7,8,1332957175549
+137,"Parthenais / Rachel",6136,45.53417194299746,-73.56608927249908,false,false,,,false,0,11,1320766038998
+138,"Gauthier / Papineau",6137,45.530202,-73.56663,false,true,,,false,0,3,1332259129898
+139,"de Bordeaux / Gauthier",6138,45.5313,-73.566,false,false,,,false,0,3,1332258563836
+140,"Gauthier / des Érables",6139,45.53237,-73.56437,false,true,,,false,0,7,1321679165438
+141,"Marquette / Rachel",6140,45.5298015824607,-73.5702896118164,true,false,1332810840000,,false,0,15,1320762737116
+142,"de Bordeaux / Rachel",6141,45.53227,-73.56828,false,true,,,false,0,15,1332924249224
+143,"Garnier / Rachel",6142,45.52865,-73.57163,false,false,,,false,0,3,1332177541963
+144,"Rachel / Brébeuf",6143,45.52689,-73.57264,true,true,1332811380000,,false,0,15,1332926102238
+145,"du Parc-La Fontaine / Duluth",6145,45.52469,-73.57221,true,true,1332811380000,,false,0,11,1332926809719
+146,"du Parc-La Fontaine / Roy",6146,45.523084,-73.568731,true,true,1332864360000,,false,0,11,1332923265456
+147,"Calixa-Lavallée / Sherbrooke",6147,45.52479,-73.56545,true,true,1332864240000,,false,0,31,1332959622248
+148,"Émile-Duployé / Sherbrooke",6148,45.52729,-73.56463,true,true,1332960120000,,false,0,23,1332933571509
+149,"Chapleau / Mont-Royal",6149,45.53867,-73.56936,false,true,,,false,0,11,1332966235020
+150,"Fullum / Mont-Royal",6150,45.537553,-73.570182,false,true,,,false,0,11,1321852598350
+151,"des Érables / Mont-Royal",6151,45.53565,-73.57172,false,false,,,false,0,11,1321369724911
+152,"Chabot / Mont-Royal",6152,45.53413436610843,-73.57349216938019,true,true,1332865260000,,false,0,19,1332924864625
+153,"Marie-Anne / Papineau",6153,45.53189473818018,-73.5723227262497,true,true,1332811680000,,false,0,3,1332926912799
+154,"Marquette / Mont-Royal",6154,45.53229,-73.57544,false,true,,,false,0,19,1332925988431
+155,"Garnier / Mont-Royal",6155,45.53092,-73.57674,false,true,,,false,0,27,1332931088200
+156,"Marie-Anne / de la Roche",6156,45.52773841379083,-73.5762494802475,true,true,1332864660000,,false,0,19,1332951516576
+157,"de la Roche / Mont-Royal",6157,45.52856,-73.57828,true,true,1332866340000,,false,0,19,1332926510715
+158,"Gilford / Brébeuf",6158,45.53073,-73.58153,true,true,1332866880000,,false,0,15,1332884506972
+159,"Marquette / Gilford",6159,45.5339,-73.57891,false,true,,,false,0,15,1332925730594
+160,"Garnier / Saint-Joseph",6160,45.53297,-73.58118,false,true,,,false,0,19,1332972886442
+161,"Cartier / Saint-Joseph",6161,45.53576,-73.57867,false,true,,,false,0,23,1332970397118
+162,"Messier / Saint-Joseph",6162,45.53928,-73.57596,true,true,1332960180000,,false,0,15,1332937906136
+163,"Marquette / Laurier",6163,45.53543,-73.5822,false,true,,,false,0,23,1332925454643
+164,"Garnier / Laurier",6164,45.53388,-73.58315,false,false,,,false,0,3,1332169075751
+165,"Brébeuf / Laurier",6165,45.53248,-73.58507,true,true,1332872820000,,false,0,31,1332927412317
+166,"Brébeuf / Saint-Grégoire",6166,45.5341,-73.58852,true,true,1332872820000,,false,0,3,1332428469813
+167,"Marquette / Saint-Grégoire",6167,45.53703,-73.58584,false,false,,,false,0,3,1332254717901
+168,"Chabot / Masson",6168,45.538298,-73.582703,true,false,1332959460000,,false,0,3,1332165585606
+169,"de Mentana / Saint-Grégoire",6169,45.53187,-73.59064,true,true,1332872880000,,false,0,19,1332922830418
+170,"de Mentana / Laurier",6170,45.53004,-73.5867,false,true,,,false,0,23,1332973971178
+171,Wolfe/Ontario,6171,45.5208,-73.5627,true,true,1332811860000,,false,0,27,1332926384387
+173,"Cherrier / Berri",6173,45.5191458,-73.5692414,false,true,,,false,0,3,1331999683723
+174,"Roy / Saint-Denis",6174,45.51908,-73.5727,false,false,,,false,0,3,1331729545117
+175,"Saint-André / Roy",6175,45.52186,-73.57047,false,false,,,false,0,3,1331998495635
+176,"St-André / Duluth",6176,45.523171,-73.573431,true,true,1332865320000,,false,0,23,1332923795275
+177,"Saint-André / Rachel",6177,45.524222,-73.575771,true,true,1332866340000,,false,0,3,1332251980674
+178,"Rachel / Berri",6178,45.522721103182064,-73.57726335525513,true,true,1332959880000,,false,0,23,1332943441881
+179,"Duluth / Saint-Denis",6179,45.52077419099789,-73.57577741146088,true,true,1332959820000,,false,0,23,1332938456462
+180,"De Bullion/Rachel",6180,45.519346,-73.5802,true,true,1332698820000,,true,0,11,1332925222912
+181,Clarck/Rachel,6181,45.516853,-73.582648,false,false,,,false,0,2,1332167161023
+182,"Buillon / Mont-Royal",6182,45.5215,-73.5851,false,true,,,false,0,23,1332924231138
+183,"Laval / Mont-Royal",6183,45.52241290921658,-73.58412981033325,false,false,,,false,0,3,1331316382800
+184,"Métro Mont-Royal",6184,45.52468,-73.58199,false,false,,,false,0,3,1332167773541
+185,"Saint-André / Mont-Royal",6185,45.52633,-73.58047,false,true,,,false,0,23,1332925256545
+186,"Boyer / Mont-Royal",6186,45.52743,-73.58002,true,true,1332866040000,,false,0,27,1332925899630
+187,"Saint-André / de Bienville",6187,45.5272,-73.58226,true,true,1332872700000,,false,0,15,1332924749378
+188,"Marie-Anne / Saint-Hubert",6188,45.52473,-73.57878,true,true,1332960060000,,false,0,11,1321765934275
+189,Chabot/Everret,6189,45.5507,-73.6096,false,true,,,false,0,3,1332785647162
+190,"Berri / Saint-Joseph",6190,45.52749,-73.58714,false,true,,,false,0,14,1332923956385
+191,"Saint-André / Saint-Joseph",6191,45.52856,-73.58545,true,true,1332866520000,,false,0,15,1332925398500
+192,"Métro Laurier",6192,45.52811,-73.5887,false,false,,,false,0,3,1332166840373
+193,"Henri-Julien / Laurier",6193,45.525851,-73.590567,false,false,,,false,0,3,1332177890460
+194,"Henri-Julien / Maguire",6094,45.527265,-73.593402,false,false,,,false,0,3,1332164945502
+195,"de Bullion / Boul. Saint-Joseph",6195,45.52377,-73.58978,false,true,,,false,0,15,1332925414703
+196,"Ste-Famille / Sherbrooke",6196,45.5100249,-73.5707441,false,true,,,true,0,11,1321679166264
+197,Rivard/Boucher,6197,45.5285,-73.5913,false,false,,,false,0,3,1332168314080
+198,"Hélène-Baillargeon / Saint-Denis",6198,45.52974,-73.59527,false,false,,,false,0,3,1332168342315
+199,"Clark / Saint-Viateur",6199,45.52517156097331,-73.5993754863739,false,true,,,false,0,11,1321426173627
+200,"Maguire / Saint-Laurent",6200,45.52457,-73.59588,false,false,,,false,0,3,1332158991039
+201,"Villeneuve / de l'Hôtel-de-Ville",6201,45.52352540631033,-73.58750939369202,false,true,,,false,0,19,1332926377507
+202,"Hutchison / Sherbrooke",6203,45.50781,-73.57208,false,false,,,false,0,3,1331242719904
+203,"Milton / du Parc",6205,45.50971,-73.57354,false,true,,,false,0,11,1321512800562
+204,"Prince-Arthur / du Parc",6206,45.51059,-73.57547,false,false,,,false,0,3,1332168504383
+205,"Sainte-Famille / des Pins",6207,45.51281294953485,-73.57701659202576,false,false,,,false,0,3,1331721711020
+206,"Hutchison / des Pins",6208,45.51069,-73.57805,false,false,,,false,0,3,1331721956618
+207,"Milton / Clark",6209,45.51252,-73.57062,false,true,,,false,0,15,1321599665762
+208,"Metro  Sauvé",6210,45.5509,-73.656,false,true,,,false,0,3,1332173717894
+209,"Roy / Saint-Laurent",6211,45.51561,-73.57569,false,false,,,false,0,3,1332173673766
+210,"Duluth / Saint-Urbain",6212,45.51566,-73.58064,false,true,,,false,0,11,1321512804725
+211,"Duluth / Saint-Laurent",6213,45.5171,-73.57921,false,false,,,false,0,3,1332167804966
+212,"Square Saint-Louis",6214,45.51735,-73.56906,true,true,1332959340000,,false,0,43,1332940565162
+213,"Saint-Cuthbert / Saint-Urbain",6215,45.51494,-73.57821,true,true,1332959400000,,false,0,19,1332946511409
+214,"Parc du Mont-Royal",6216,45.51496,-73.58503,false,false,,,false,0,3,1332165432355
+215,"Marie-Anne / Saint-Urbain",6217,45.51778,-73.58531,false,true,,,false,0,3,1332953700821
+216,"de l'Hôtel-de-Ville / Roy",6219,45.51737,-73.57452,false,false,,,false,0,3,1332166970762
+217,"Laval / Duluth",6220,45.51923690964773,-73.57721507549286,false,false,,,false,0,3,1332174448185
+218,"Mont-Royal / Clark",6221,45.51941,-73.58685,false,false,,,false,0,3,1331317956364
+219,"de l'Esplanade / Mont-Royal",6222,45.51833,-73.58825,false,true,,,false,0,15,1321473315688
+220,"Mont-Royal / du Parc",6223,45.517,-73.589,false,true,,,false,0,3,1332153980973
+221,"Cartier/ Mont-Royal",6224,45.5336,-73.573936,true,true,1332866580000,,true,0,19,1332921097342
+222,"Villeneuve / Saint-Urbain",6225,45.52039,-73.59026,false,true,,,false,0,3,1332154064179
+223,"Clark / Laurier",6226,45.52266,-73.5936,false,true,,,false,0,11,1321512786787
+224,"Jeanne-Mance / Laurier",6227,45.52024,-73.59494,false,false,,,false,0,3,1332167536629
+225,"Fairmount / Saint-Urbain",6229,45.52279,-73.59558,false,false,,,false,0,2,1331831577386
+226,"Waverly / Saint-Viateur",6230,45.52402527115221,-73.60042154788971,false,false,,,false,0,3,1331833885442
+227,"Saint-Viateur / du Parc",6231,45.52246,-73.6019,false,false,,,false,0,3,1332165385462
+228,"Bernard / Clark",6234,45.52697,-73.60261,false,false,,,false,0,3,1331907607818
+229,"Saint-Dominique / Saint-Viateur",6235,45.52654331973003,-73.59823286533356,false,false,,,false,0,3,1332159762301
+230,"Laurier / de Lorimier",6236,45.53801968350807,-73.57845962047577,false,false,,,false,0,3,1332154337189
+232,"Parthenais / Gilford",6237,45.53797459432353,-73.57477962970734,false,true,,,false,0,11,1321852589485
+233,"Chapleau / Marie-Anne",6903,45.53751242809744,-73.56695830821991,false,true,,,false,0,3,1321886522892
+234,"de Bordeaux / Jean-Talon",6924,45.54970407823863,-73.60551238059998,false,false,,,false,0,3,1331835074366
+236,"Fairmount / Hutchison",6240,45.519486,-73.598419,false,false,,,false,0,3,1331722373268
+237,"Querbes / Laurier",6241,45.517345,-73.597724,false,false,,,false,0,0,
+239,"Bloomfield / Bernard",6243,45.520532,-73.608144,false,false,,,false,0,3,1331824044968
+241,"Bloomfield / Van Horne",6245,45.522608,-73.613178,false,false,,,false,0,3,1331832708469
+242,"Métro Outremont",6246,45.520265,-73.614887,false,false,,,false,0,3,1331832542039
+243,"Casgrain / Saint-Zotique",6247,45.53304,-73.61108,false,false,,,false,0,3,1331899272103
+244,"Dante / Alma",6248,45.53479,-73.6119,false,false,,,false,0,3,1331835467284
+245,"Bélanger / Saint-Denis",6249,45.53696,-73.61199,false,true,,,false,0,11,1321512784642
+246,"Henri-Julien / Jean-Talon",6250,45.53707,-73.61529,false,true,,,false,0,6,1321440894764
+247,"Casgrain / Mozart",6251,45.534788,-73.614726,false,false,,,false,0,3,1331835226957
+248,"Mozart / Saint-Laurent",6252,45.53318,-73.61544,false,true,,,false,1,10,1321426153127
+249,"Saint-Vallier / Jean-Talon",6253,45.538921,-73.613701,false,false,,,false,0,3,1331831925843
+250,"Boyer / Bélanger",6254,45.54006,-73.60897,false,false,,,false,0,11,1320591238844
+251,"Boyer / Saint-Zotique",6255,45.53848,-73.60556,false,false,,,false,0,11,1320587835727
+253,"Saint-Vallier / Saint-Zotique",6257,45.536299,-73.607773,false,true,,,false,0,3,1332959840513
+254,"Parc Père-Marquette",6258,45.537035,-73.593126,false,true,,,false,0,11,1321426181801
+255,"Holt / de Lorimier",6259,45.54184,-73.58644,false,true,,,false,0,3,1332260949758
+256,"Cartier / des Carrières",6260,45.53989,-73.58807,false,false,,,false,0,3,1331833929158
+257,"des Érables / Rosemont",6261,45.54363,-73.58844,false,false,,,false,0,3,1331906613891
+258,"de la Roche /  Bellechasse ",6262,45.537202,-73.597884,false,true,,,false,0,7,1321426218284
+259,Hampton/Monkland,6263,45.4714,-73.6266,false,false,,,false,0,3,1331824068117
+260,"Chabot / Bellechasse",6264,45.5427,-73.59212,false,true,,,false,0,11,1321470658766
+261,"Louis-Hémon / Bellechasse",6265,45.545264,-73.589918,false,true,,,false,0,3,1321426067817
+262,"Louis-Hébert / Beaubien",6266,45.54857,-73.59268,false,true,,,false,0,3,1321442137890
+263,"de Bordeaux / Beaubien",6267,45.54475,-73.5949,false,true,,,false,0,11,1321471646861
+264,"Chambord / Beaubien",6268,45.539964,-73.599716,false,true,,,false,0,11,1321426179838
+265,"de Normanville / Saint-Zotique",6269,45.54083,-73.60384,false,true,,,false,0,7,1321426205930
+266,"Fabre / Saint-Zotique",6270,45.543541,-73.600982,false,true,,,false,0,7,1321426209156
+267,"de Gaspé / de Bellechasse",6271,45.530512,-73.603949,false,false,,,false,0,3,1331898731970
+268,"des Érables / Saint-Zotique",6272,45.5477,-73.59721,false,false,,,false,0,3,1331803251552
+269,"Garnier / Bélanger",6273,45.544471,-73.605145,false,true,,,false,0,11,1321423196493
+270,"Cartier / Bélanger",6274,45.54691,-73.60281,false,false,,,false,0,3,1332925708337
+271,"Chambord / Jean-Talon",6275,45.544828,-73.610458,false,true,,,false,0,3,1332407047059
+272,"De la Roche / Bélanger",6276,45.5416,-73.608,false,true,,,false,0,11,1321426213030
+273,"Louis-Hébert / Saint-Zotique",6278,45.55001,-73.59576,false,true,,,false,0,7,1321426213071
+274,"Louis-Hébert / Bélanger",6279,45.551457,-73.598852,false,true,,,false,0,7,1321432099196
+275,"Fabre / Beaubien",6904,45.542055,-73.597793,false,true,,,false,0,11,1321426140212
+276,"Parc Rosemont",6905,45.544377,-73.581018,false,true,,,false,0,3,1332318693046
+277,"Chateaubriand/Rosemont ",6906,45.5325,-73.5973,false,false,,,false,0,3,1331834038400
+278,"Boyer / Rosemont",6907,45.534136,-73.595478,false,false,,,false,0,11,1320583241422
+279,"St-André / Bellechasse",6908,45.535304,-73.599387,false,false,,,false,0,3,1332168972516
+280,"Augustin-Cantin / Shearer",6921,45.483977,-73.563576,false,true,,,false,0,11,1321426153965
+281,"Louis-Colin / McKenna",6926,45.499916,-73.618089,false,false,,,false,0,3,1331733281974
+282,"Édouard-Montpetit / Stirling",6927,45.50723,-73.615085,false,false,,,false,0,3,1331824005318
+283,"Chemin de la Tour",6928,45.503023,-73.616531,false,false,,,false,0,3,1331833042458
+284,"Waverly / Van Horne",6228,45.527363,-73.607723,false,false,,,false,0,3,1331999428118
+285,"Hutchison / Van Horne",6232,45.525021229212776,-73.61073732376099,false,false,,,false,0,3,1331832900797
+286,"Bernard / Jeanne-Mance",6233,45.52429587282263,-73.60484719276428,false,false,,,false,0,3,1332165483198
+287,"Basile-Routhier / Chabanel",6917,45.549949,-73.647982,false,true,,,false,0,3,1331905450638
+288,"10e Avenue / Rosemont",6919,45.552649,-73.581185,false,false,,,false,0,7,1321381702620
+289,"Boyer / Beaubien",6910,45.537041,-73.602026,false,false,,,false,0,11,1320583784112
+290,"Peel / Ottawa",6086,45.49427,-73.55979,true,true,1332960360000,,false,0,15,1332957747625
+291,"Notre-Dame / de la Montagne ",6087,45.49302901258371,-73.56481790542603,true,true,1332960300000,,false,0,23,1332951896732
+292,"Guy / Notre-Dame",6088,45.489951,-73.567091,true,true,1332791700000,,false,0,15,1332926164795
+293,"Louis-Hémon / Beaubien",6277,45.54705,-73.59353,false,false,,,false,0,3,1332260572511
+294,"des Érables / Bélanger",6280,45.54925703514949,-73.60098749399185,false,true,,,false,0,3,1321426076027
+297,"Métro Charlevoix",10002,45.47822787309145,-73.56965124607086,false,true,,,false,0,23,1321426077281
+301,"des Seigneurs / Notre-Dame",6401,45.48767,-73.56895,false,false,,,false,0,3,1332164513927
+302,"Sir Georges Etienne Cartier/Notre-Dame",6402,45.474098,-73.587206,false,true,,,false,0,3,1332156867985
+303,"Georges-Vanier / Notre-Dame",6403,45.48501,-73.57178,false,false,,,false,0,3,1332158534556
+304,"Duvernay / Charlevoix",6404,45.48205,-73.57491,false,false,,,false,0,3,1332167878974
+305,"Quesnel / Vinet",6405,45.485889,-73.577514,false,false,,,false,0,3,1332158674654
+306,"Marché Atwater",6406,45.480359,-73.577102,false,false,,,false,0,3,1332340544071
+307,"Métro Lionel-Groulx",6407,45.482717,-73.581281,false,false,,,false,0,3,1331920194830
+308,"Saint-Antoine / Canning (Metro George-Vanier)",6408,45.4891,-73.57656,false,true,,,false,0,3,1331999397588
+309,"Wilderton / Côte-Sainte-Catherine",6307,45.507874,-73.618965,false,false,,,false,0,3,1331733314737
+311,"IUGM - Institut universitaire de gériatrie",6309,45.491418,-73.622491,false,false,,,false,0,3,1332168239291
+312,"Hudson / Côte-Sainte-Catherine",6310,45.503857,-73.6226,false,false,,,false,0,3,1331729329549
+313,"Gatineau / Jean-Brillant ",6313,45.496785,-73.620888,false,false,,,false,0,3,1331835266771
+314,"Kent / Côte-Des-Neiges",6312,45.501302,-73.633161,false,false,,,false,0,3,1331897667313
+315,"Gatineau / Côte-Sainte-Catherine",6311,45.499365,-73.626611,false,false,,,false,0,3,1331906625987
+316,"Ellendale / Côte-Des-Neiges",6314,45.499594,-73.629363,false,false,,,false,0,3,1331899296149
+317,"Lacombe / Gatineau",6315,45.497434,-73.622805,false,false,,,false,0,3,1331834063712
+318,"Parc Jean-Brillant",6316,45.497011,-73.618575,false,false,,,false,0,3,1331835477109
+319,"Jardin Botanique",6383,45.555029,-73.554902,false,false,,,false,0,15,1321309626194
+320,"Valois / Sherbrooke",6385,45.550725,-73.555254,false,false,,,false,0,3,1332260207073
+321,"Métro Préfontaine",6386,45.541814,-73.554635,false,true,,,false,0,3,1332321139526
+322,"Métro Joliette",6387,45.546847,-73.551517,false,true,,,false,0,19,1321852698409
+323,"D'Orléans / Hochelaga",6388,45.550668,-73.549502,false,false,,,false,0,7,1321339445220
+324,"Boyer / Jean-Talon",6389,45.541484,-73.612441,false,false,,,false,0,11,1320584442130
+325,"Aylwin / Ontario",6391,45.544136,-73.545609,false,true,,,false,0,3,1332340390180
+327,"Ontario / Dézéry",6393,45.541031,-73.547134,false,true,,,false,0,3,1332259789635
+328,"Nicolet / Ontario",6394,45.546462,-73.54389,false,false,,,true,0,3,1332329553273
+329,"Pierre-de-Coubertin / Aird",6395,45.55896,-73.548687,false,false,,,false,0,10,1321362082358
+330,"Marché Maisonneuve",6397,45.553491,-73.53931,false,false,,,false,0,11,1321366199043
+331,"Desjardins / Ontario",6398,45.551207,-73.540866,false,false,,,false,0,3,1332419733740
+332,"Guizot / Saint-Laurent",6323,45.539964,-73.634319,false,false,,,false,0,3,1331834919729
+333,"Faillon / Saint-Denis",6327,45.540098,-73.619986,false,false,,,false,0,3,1331831985242
+334,"Gounod / Saint-Denis",6329,45.541791,-73.625894,false,true,,,false,0,3,1332405133419
+335,"De Gaspé / Jarry",6330,45.540627,-73.630089,false,true,,,false,0,11,1321426081236
+336,"Guizot / Saint-Denis",6331,45.543376,-73.632267,false,false,,,false,0,3,1331824267719
+337,"De Gaspé / De Liège",6332,45.542579,-73.636557,false,false,,,false,0,3,1331900701430
+338,"Foucher / Leman",6333,45.545987,-73.631562,false,true,,,false,0,7,1321466859700
+339,"Lajeunesse / Jarry",6334,45.543583,-73.6284,false,false,,,false,0,3,1331831971208
+340,"Du Rosaire / Saint-Hubert",6335,45.54467,-73.621581,false,false,,,false,0,3,1331832650283
+341,"Faillon / Saint-Hubert",6336,45.542892,-73.617822,false,true,,,false,0,11,1321534773246
+342,"Boyer / Jarry",6338,45.547283,-73.625377,false,false,,,false,0,11,1320592975962
+343,Harvard/Monkland,6339,45.4743,-73.6237,false,false,,,false,0,3,1331832522276
+344,"De La Roche / Everett",6340,45.544867,-73.614841,false,true,,,false,0,11,1321446423738
+345,"Regina / Verdun",6341,45.467369,-73.570769,false,false,,,false,0,3,1332265368320
+346,"Marquette / Villeray",6343,45.550551,-73.615021,false,false,,,false,0,3,1332887039828
+347,"Louis-Hémon / Villeray",6345,45.554931,-73.610711,false,true,,,false,0,7,1321426208607
+348,Valois/Ste-Catherine,6346,45.545409,-73.537669,false,true,,,false,0,11,1321440094118
+349,"Metro St-Michel",6347,45.559199,-73.599658,false,true,,,false,0,11,1321415171611
+350,Ryde/Charlevoix,6349,45.4758,-73.5644,false,true,,,false,0,3,1321412225884
+351,Island/Centre,6350,45.4815,-73.5644,false,false,,,false,0,2,1332265275961
+355,"St-Dominique / Villeray",6322,45.537813,-73.624872,false,false,,,false,0,3,1332166116521
+356,"de Liège / Lajeunesse",6324,45.54554155627702,-73.6347484588623,false,false,,,false,0,3,1332265322124
+357,"Drolet / Villeray",6328,45.5401,-73.6234,false,true,,,false,1,10,1321531402191
+358,Marcil/Sherbrooke,6354,45.471613,-73.613667,false,true,,,false,0,11,1321418241546
+359,Sicard/Ontario,6355,45.5566,-73.5373,false,false,,,false,0,3,1332419902518
+360,Monkland/Girouard,6356,45.4771,-73.6212,false,false,,,false,0,3,1331835268613
+361,"12e Avenue / Saint-Zotique",6357,45.556905,-73.58925,false,true,,,false,0,3,1331896545713
+362,"3e avenue /St-Zotique",6358,45.553243,-73.592336,false,true,,,false,0,11,1321456097399
+363,"16e Avenue / Beaubien",6359,45.558496,-73.583489,false,true,,,false,0,7,1321413881703
+364,"9e Avenue / Beaubien",6360,45.553785,-73.587328,false,false,,,false,0,2,1332264225260
+365,"1ere Avenue / Beaubien",6361,45.550476,-73.590446,false,true,,,false,0,11,1321426194794
+366,"1ere Avenue / Rosemont",6362,45.547997,-73.58523,false,true,,,false,0,7,1321426323730
+367,St-Antoine/Royal,6363,45.4688,-73.6198,false,false,,,false,0,11,1321385008645
+368,"Parc Campbell",6364,45.549639,-73.558292,false,true,,,false,1,10,1321428507459
+369,"16e Avenue / Rosemont",6365,45.556723,-73.577636,false,true,,,false,0,11,1321765923919
+370,"Wilderton Crescent / Van Horne",6366,45.509188,-73.62442,false,false,,,false,0,3,1331899347773
+371,"3e Avenue / Dandurand",6367,45.547362,-73.579221,false,false,,,false,0,7,1321386210393
+372,"10e Avenue / Masson",6368,45.550321,-73.573755,false,false,,,false,0,10,1321380155041
+373,"St-antoine / Rue du square victoria",6369,45.501793,-73.563189,false,true,,,false,0,11,1321414707896
+374,"D'Orléans / Masson",6370,45.557192,-73.569847,false,true,,,false,0,7,1321442688692
+375,"4e Avenue / Masson",6371,45.546992,-73.575445,false,true,,,false,0,7,1321426070659
+376,"Molson / Masson",6372,45.544123,-73.577049,false,true,,,false,0,7,1321416247759
+377,"7e Avenue / Saint-Joseph",6373,45.547155,-73.569901,false,true,,,false,0,7,1321451764591
+378,"15e Avenue / Laurier",6374,45.553408,-73.569531,false,true,,,false,1,10,1321444713022
+379,"Metro Place St-Henri",6375,45.477287,-73.585419,false,true,,,false,0,3,1321599723636
