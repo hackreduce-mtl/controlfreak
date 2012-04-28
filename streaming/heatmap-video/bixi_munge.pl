@@ -7,6 +7,7 @@ use Text::CSV;
 
 my @file_names = <>;
 my $file_name = $file_names[0];
+chomp($file_name);
 my $base_file_name = `basename $file_name`;
 chomp($base_file_name);
 my $hdh =  $ENV{'HADOOP_HOME'};
