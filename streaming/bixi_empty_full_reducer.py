@@ -26,7 +26,8 @@ def main(argv):
             if (nbEmptyDocks == 0):
                 numFull += 1
             line = sys.stdin.readline();
-    except "end of file":
+    except Exception, msg:
+        print msg
         return None
 
 if __name__ == "__main__":
