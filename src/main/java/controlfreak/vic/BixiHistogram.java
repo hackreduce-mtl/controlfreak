@@ -27,7 +27,7 @@ public class BixiHistogram extends Configured implements Tool
 {
     public enum Count 
     {
-    	HOURS,
+    	STATIONS,
         RECORDS_SKIPPED,
         RECORDS_MAPPED
     }
@@ -43,10 +43,7 @@ public class BixiHistogram extends Configured implements Tool
     public static class BixiHistogramMapper extends Mapper<LongWritable, Text, Text, LongWritable>
     {
         private static final Logger LOG = Logger.getLogger(BixiHistogramMapper.class.getName());
-        
-        // Just to save on object instantiation
-		public static final LongWritable ONE_COUNT = new LongWritable(1);
-        
+                
 		
         public void map(LongWritable key, Text value, Context context)
         {
@@ -60,7 +57,7 @@ public class BixiHistogram extends Configured implements Tool
                 java.util.Date time = new java.util.Date(Long.parseLong(record[12])*1000);
                 cal.setTime(time);
                 
-                context.write(new Text(cal.get(Calendar.HOUR_OF_DAY) + ""), ONE_COUNT);
+                context.write(new Text(record[1] + "-" + cal.get(Calendar.HOUR_OF_DAY) + ""), new LongWritable(Long.parseLong(record[10])));
             } 
             catch (Exception e) 
             {
@@ -87,14 +84,18 @@ public class BixiHistogram extends Configured implements Tool
         @Override
         protected void reduce(Text key, Iterable<LongWritable> values, Context context) throws IOException, InterruptedException 
         {
-            context.getCounter(Count.HOURS).increment(1);
+            context.getCounter(Count.STATIONS).increment(1);
 
+            long avg = 0;
             long count = 0;
-			for (LongWritable value : values) {
-				count += value.get();
+			
+            for (LongWritable value : values) 
+			{
+				avg += value.get();
+				++count;
 			}
 
-			context.write(key, new LongWritable(count));
+			context.write(key, new LongWritable(avg/count));
         }
     }
     
