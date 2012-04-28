@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Map;
+import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -25,11 +27,11 @@ import org.apache.hadoop.util.Tool;
 import org.hackreduce.models.StockExchangeDividend;
 
 
-public class BixiHistogram extends Configured implements Tool
+public class BixiDerivative extends Configured implements Tool
 {
     public enum Count 
     {
-    	STATION_HOURS,
+    	STATION_DAY_HOURS,
         RECORDS_SKIPPED,
         RECORDS_MAPPED
     }
@@ -42,9 +44,9 @@ public class BixiHistogram extends Configured implements Tool
      * K1, V1 is implementation dependent
      * here we are mapping stock symbol to the dividends
      */
-    public static class BixiHistogramMapper extends Mapper<LongWritable, Text, Text, LongWritable>
+    public static class BixiDerivativeMapper extends Mapper<LongWritable, Text, Text, Text>
     {
-        private static final Logger LOG = Logger.getLogger(BixiHistogramMapper.class.getName());
+        private static final Logger LOG = Logger.getLogger(BixiDerivativeMapper.class.getName());
                 
 		
         public void map(LongWritable key, Text value, Context context)
@@ -57,13 +59,12 @@ public class BixiHistogram extends Configured implements Tool
                 Calendar cal = Calendar.getInstance();
                 java.util.Date time = new java.util.Date(Long.parseLong(record[12])*1000);
                 cal.setTime(time);
-                // cal.get(Calendar.HOUR_OF_DAY)
                 
-                DateFormat dateFormat = new SimpleDateFormat("HH");
+                DateFormat hourDateFormat = new SimpleDateFormat("HH");
                 
-                String k = record[3] + "|" + record[4] + "|" + dateFormat.format(time);
+                String k = record[3] + "," + record[4] + "," + cal.get(Calendar.DAY_OF_YEAR) + "," + hourDateFormat.format(time);
                 
-                context.write(new Text(k), new LongWritable(Long.parseLong(record[10])));
+                context.write(new Text(k), new Text(record[12] + "-" + record[10]));
             } 
             catch (Exception e) 
             {
@@ -83,25 +84,49 @@ public class BixiHistogram extends Configured implements Tool
      * K2, V2 is the result of the reduction
      * 
      */    
-    public static class BixiHistogramReducer extends Reducer<Text, LongWritable, Text, LongWritable> 
+    public static class BixiDerivativeReducer extends Reducer<Text, Text, Text, Text> 
     {
         // private static NumberFormat currencyFormat = NumberFormat.getCurrencyInstance(Locale.getDefault());
         
         @Override
-        protected void reduce(Text key, Iterable<LongWritable> values, Context context) throws IOException, InterruptedException 
+        protected void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException 
         {
-            context.getCounter(Count.STATION_HOURS).increment(1);
-
-            long avg = 0;
-            long count = 0;
-			
-            for (LongWritable value : values) 
-			{
-				avg += value.get();
-				++count;
-			}
-
-			context.write(key, new LongWritable(avg/count));
+            context.getCounter(Count.STATION_DAY_HOURS).increment(1);
+            
+            Map<Long, Integer> times = new TreeMap<Long, Integer>();
+            
+            for (Text value : values)
+            {
+            	String split[] = value.toString().split("-");
+            	times.put(Long.parseLong(split[0]), Integer.parseInt(split[1]));
+            }
+            
+            int flux = 0;
+            
+            if (times.size() > 1)
+            {
+            	boolean first = true;
+            	long prev = -1;
+            	
+            	int deltas = 0;
+            	
+            	for (Long timesKey : times.keySet())
+                {
+                	if (first)
+                	{
+                		first = false;
+                		prev = timesKey;
+                	}
+                	else
+                	{
+                		deltas += times.get(timesKey) - times.get(prev);
+                	}
+                }
+            	
+            	flux = deltas / times.size();
+            }
+            
+			context.write(key, new Text(flux + ""));
         }
     }
     
@@ -117,12 +142,12 @@ public class BixiHistogram extends Configured implements Tool
         job.setJobName(getClass().getName());
 
         // Tell the job which Mapper and Reducer to use (classes defined above)
-        job.setMapperClass(BixiHistogramMapper.class);
-        job.setReducerClass(BixiHistogramReducer.class);
+        job.setMapperClass(BixiDerivativeMapper.class);
+        job.setReducerClass(BixiDerivativeReducer.class);
         
         // This is what the Mapper will be outputting to the Reducer
         job.setMapOutputKeyClass(Text.class);
-        job.setMapOutputValueClass(LongWritable.class);
+        job.setMapOutputValueClass(Text.class);
 
         // This is what the Reducer will be outputting
         job.setOutputKeyClass(Text.class);

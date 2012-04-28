@@ -1,0 +1,16 @@
+scp -i ~/.ssh/hackreduce.pem hadoop@cluster-3.hackreduce.org:/mnt/bixidata/montreal/bixi_montreal_trunc_01.csv ./
+scp -i ~/.ssh/hackreduce.pem hadoop@cluster-3.hackreduce.org:/mnt/bixidata/montreal/bixi_montreal_trunc_02.csv ./
+
+java -classpath ".:build/libs/HackReduce-1.0.1.jar:lib/*" controlfreak.vic.Bixi datasets/bixi/bixi_montreal_trunc_01.csv results/bixi_hourly results/bixi_delta
+java -classpath ".:build/libs/HackReduce-1.0.1.jar:lib/*" controlfreak.vic.Bixi datasets/bixi/bixi_montreal_trunc_01.csv results/bixi_derivative
+
+java -classpath ".:./HackReduce-1.0.1.jar:lib/*" controlfreak.vic.Bixi /mnt/bixidata/montreal/2012.csv results/bixi_hourly results/bixi_delta
+
+
+java -classpath ".:./HackReduce-1.0.1.jar:lib/*" controlfreak.vic.Bixi /mnt/bixidata/montreal/2012.csv results/bixi_derivative
+
+
+scp -i ~/.ssh/hackreduce.pem build/libs/HackReduce-1.0.1.jar hadoop@cluster-3.hackreduce.org:~/users/controlfreak
+
+ssh -i ~/.ssh/hackreduce.pem hadoop@cluster-3.hackreduce.org
+

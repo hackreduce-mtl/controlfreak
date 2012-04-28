@@ -1,9 +1,8 @@
 package controlfreak.vic;
 
 import java.io.IOException;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
+import java.util.Map;
+import java.util.TreeMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -11,25 +10,22 @@ import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
-import org.apache.hadoop.io.DoubleWritable;
-import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
-import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
+import org.apache.hadoop.mapreduce.lib.input.KeyValueTextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 import org.apache.hadoop.util.Tool;
-import org.hackreduce.models.StockExchangeDividend;
 
 
-public class BixiHistogram extends Configured implements Tool
+public class BixiHeatMap extends Configured implements Tool
 {
     public enum Count 
     {
-    	STATION_HOURS,
+    	STATIONS,
         RECORDS_SKIPPED,
         RECORDS_MAPPED
     }
@@ -42,28 +38,23 @@ public class BixiHistogram extends Configured implements Tool
      * K1, V1 is implementation dependent
      * here we are mapping stock symbol to the dividends
      */
-    public static class BixiHistogramMapper extends Mapper<LongWritable, Text, Text, LongWritable>
+    public static class BixiHeatMapMapper extends Mapper<Text, Text, Text, Text>
     {
-        private static final Logger LOG = Logger.getLogger(BixiHistogramMapper.class.getName());
+        private static final Logger LOG = Logger.getLogger(BixiHeatMapMapper.class.getName());
                 
 		
-        public void map(LongWritable key, Text value, Context context)
+        public void map(Text key, Text value, Context context)
         {
             try 
             {
-                String line = value.toString();
-                String[] record = line.split(",");
+                String components[] = key.toString().split("\\|");
+            	String averageBikes = value.toString();
                 
-                Calendar cal = Calendar.getInstance();
-                java.util.Date time = new java.util.Date(Long.parseLong(record[12])*1000);
-                cal.setTime(time);
-                // cal.get(Calendar.HOUR_OF_DAY)
+                String k = components[0] + "," + components[1];
+                String v = components[2] + "-" + averageBikes;
+                // LOG.warning(k + " : " + v);
                 
-                DateFormat dateFormat = new SimpleDateFormat("HH");
-                
-                String k = record[3] + "|" + record[4] + "|" + dateFormat.format(time);
-                
-                context.write(new Text(k), new LongWritable(Long.parseLong(record[10])));
+                context.write(new Text(k), new Text(v));
             } 
             catch (Exception e) 
             {
@@ -83,25 +74,51 @@ public class BixiHistogram extends Configured implements Tool
      * K2, V2 is the result of the reduction
      * 
      */    
-    public static class BixiHistogramReducer extends Reducer<Text, LongWritable, Text, LongWritable> 
+    public static class BixiHeatMapReducer extends Reducer<Text, Text, Text, Text> 
     {
+    	private static final Logger LOG = Logger.getLogger(BixiHeatMapReducer.class.getName());
+    	
         // private static NumberFormat currencyFormat = NumberFormat.getCurrencyInstance(Locale.getDefault());
         
         @Override
-        protected void reduce(Text key, Iterable<LongWritable> values, Context context) throws IOException, InterruptedException 
+        protected void reduce(Text key, Iterable<Text> values, Context context) throws IOException, InterruptedException 
         {
-            context.getCounter(Count.STATION_HOURS).increment(1);
+            context.getCounter(Count.STATIONS).increment(1);
 
-            long avg = 0;
-            long count = 0;
-			
-            for (LongWritable value : values) 
-			{
-				avg += value.get();
-				++count;
-			}
-
-			context.write(key, new LongWritable(avg/count));
+            Map<Integer, Integer> times = new TreeMap<Integer, Integer>();
+            
+            int count = 0;
+            
+            for (Text value : values)
+            {
+            	++count;
+            	String split[] = value.toString().split("-");
+            	times.put(Integer.parseInt(split[0]), Integer.parseInt(split[1]));
+            }
+            
+            String deltas = "";
+            
+            for (int i = 0; i < count; ++i)
+            {
+            	int delta = 0;
+            	
+            	if (times.size() > 1)
+            	{
+            		if (i == 0)
+                	{
+                		delta = times.get(i) - times.get(times.size() - 1);
+                	}
+                	else
+                	{
+                		delta = times.get(i) - times.get(i - 1);
+                	}
+            	}
+            	
+            	deltas += delta + ",";
+            }
+            
+            context.write(key, new Text(deltas.substring(0, deltas.length() - 1)));
+            
         }
     }
     
@@ -117,25 +134,25 @@ public class BixiHistogram extends Configured implements Tool
         job.setJobName(getClass().getName());
 
         // Tell the job which Mapper and Reducer to use (classes defined above)
-        job.setMapperClass(BixiHistogramMapper.class);
-        job.setReducerClass(BixiHistogramReducer.class);
+        job.setMapperClass(BixiHeatMapMapper.class);
+        job.setReducerClass(BixiHeatMapReducer.class);
         
         // This is what the Mapper will be outputting to the Reducer
         job.setMapOutputKeyClass(Text.class);
-        job.setMapOutputValueClass(LongWritable.class);
+        job.setMapOutputValueClass(Text.class);
 
         // This is what the Reducer will be outputting
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(Text.class);
 
-        job.setInputFormatClass(TextInputFormat.class);
+        job.setInputFormatClass(KeyValueTextInputFormat.class);
         job.setOutputFormatClass(TextOutputFormat.class);
         
         // Setting the input folder of the job 
-        FileInputFormat.addInputPath(job, new Path(args[0]));
+        FileInputFormat.addInputPath(job, new Path(args[1]));
 
         // Preparing the output folder by first deleting it if it exists
-        Path output = new Path(args[1]);
+        Path output = new Path(args[2]);
         FileSystem.get(conf).delete(output, true);
         FileOutputFormat.setOutputPath(job, output);
 
