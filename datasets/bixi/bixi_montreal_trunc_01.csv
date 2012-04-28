@@ -299,3 +299,4 @@ id, name, terminalName, lat, long, installed, locked, installDate, removalDate, 
 446,"St-Charles / St-Jean",5005,45.5375,-73.5109,true,false,1333661640000,,false,13,6,1335481704331
 447,"Collège Édouard-Montpetit",5006,45.5368,-73.4954,true,false,1333661640000,,false,14,12,1335481714700
 448,"Métro Longueuil - Université de Sherbrooke",5007,45.523167,-73.519888,true,false,1333661700000,,false,12,35,1335490462635
+449,"Métro Longueuil - Université de Sherbrooke",5007,45.523167,-73.519888,true,false,1333661700000,,false,12,35,1335490462635
