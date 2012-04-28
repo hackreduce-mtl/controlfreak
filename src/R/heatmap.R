@@ -30,7 +30,7 @@ response_index<-4    #12
    response<-d[,response_index]
 
    ##Kernal estimation
-   dens<-bkde2D(cbind(lon,lat,response),gridsize=c(300,300),bandwidth=0.0015)
+   dens<-bkde2D(cbind(lon,lat,response),range.x=xrange,gridsize=c(300,300),bandwidth=0.0015)
 
    png(plot_path)
       image(dens$x1,dens$x2,dens$fhat,col=cus_col(30),xlab='Lon',ylab='lat')
