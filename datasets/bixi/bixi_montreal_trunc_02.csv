@@ -1,0 +1,24 @@
+id, name, terminalName, lat, long, installed, locked, installDate, removalDate, temporary, nbBikes, nbEmptyDocks, latestUpdateTime
+1,"Notre Dame / Place Jacques Cartier",6001,45.508183,-73.554094,true,true,1332691320000,,false,15,16,1332945081985
+2,Dézery/Ste-Catherine,6002,45.5392,-73.5414,false,false,,,false,0,3,1331919252617
+3,"Saint-Denis / René-Lévesque",6003,45.51289,-73.5585,false,false,,,false,0,3,1331735489824
+4,"Berri / Saint-Antoine",6004,45.51205360327094,-73.55393081903458,true,true,1332695940000,,false,13,12,1332954997435
+5,"Hotel-de-Ville / Viger",6005,45.50938,-73.557223,false,false,,,false,0,3,1331746404685
+6,"Saint-Antoine / de l'Hôtel-de-Ville",6006,45.50875,-73.55613,true,true,1332691560000,,false,0,15,1332925986608
+7,"de l'Hôtel-de-Ville / Sainte-Catherine",6007,45.51164009357107,-73.5621839761734,false,false,,,false,0,3,1331737746034
+8,"Sanguinet /Ste-Catherine",6008,45.512738,-73.561438,false,true,,,false,0,27,1332975202220
+9,"Berri / Sainte-Catherine",6009,45.51462481358633,-73.55977535247803,false,true,,,false,0,10,1321679172464
+10,"Sainte-Catherine / Saint-Denis",6901,45.51371137074363,-73.56054782867432,false,false,,,false,0,3,1331737768889
+11,"Saint-André / Saint-Antoine",6011,45.514076,-73.552439,false,false,,,false,0,3,1332158901772
+12,"Métro Saint-Laurent",6012,45.51066,-73.56497,false,false,,,false,0,3,1331919162330
+13,"Sanguinet / de Maisonneuve",6013,45.51339,-73.56255,true,true,1332960660000,,false,0,27,1332957848487
+14,"St-Denis / Maisonneuve",6014,45.514649,-73.562152,false,true,,,false,0,23,1321765791067
+15,"Berri / de Maisonneuve",6015,45.515299,-73.561273,true,true,1332960480000,,false,0,31,1332942540472
+16,"Saint-André / de Maisonneuve",6016,45.51699292968662,-73.55965733528137,false,false,,,false,0,14,1320686801761
+17,"Robin / Amherst",6017,45.51905,-73.56091,false,true,,,false,0,11,1321852752756
+18,"Saint-André / Ontario",6018,45.51889,-73.56353,false,true,,,false,0,11,1321852624697
+19,Savoie/Ontario,6019,45.51637,-73.5649812,true,true,,,false,0,23,1332944735475
+20,"Hotel de Ville / Ontario",6020,45.513481,-73.566262,false,false,,,true,0,3,1331745516960
+21,"Beaudry / Sherbrooke",6902,45.523007,-73.565183,false,true,,,false,1,2,1321690063373
+22,"de la Commune / Berri",6023,45.51086,-73.54983,false,false,,,false,0,3,1332000677788
+
