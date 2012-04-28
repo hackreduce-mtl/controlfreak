@@ -14,7 +14,7 @@ print "$hdh\n";
 my $csv = Text::CSV->new ( { binary => 1 } )  # should set binary attribute.
     or die "Cannot use CSV: ".Text::CSV->error_diag ();
 my $local_file_name = "/tmp/$base_file_name";
-system("$hdh/bin/hadoop dfs -copyToLocal $file_name /tmp/$local_file_name");
+system("$hdh/bin/hadoop dfs -copyToLocal $file_name $local_file_name");
 my $station_xml = ($file_name=~/gz$/) ? `zcat $local_file_name` : `cat $local_file_name`;
 my $ob = new XML::Bare( text => $station_xml) or die "Error creating XML::Bare object for file $file_name";
 my $root = $ob->parse() or die "Error parsing file $file_name";;
