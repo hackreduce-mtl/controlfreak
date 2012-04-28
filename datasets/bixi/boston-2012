@@ -1,0 +1,100 @@
+id, name, terminalName, lat, long, installed, locked, installDate, removalDate, temporary, nbBikes, nbEmptyDocks, latestUpdateTime
+3,"Colleges of the Fenway",B32006,42.340021,-71.100812,true,false,,,false,8,7,1334657808080
+4,"Tremont / Berkeley",C32000,42.345392,-71.069616,true,false,1314590400000,,false,10,5,1334659648593
+5,"Northeastern U / North Parking Lot",B32012,42.341814,-71.090179,true,false,,,false,10,5,1334658770248
+6,"CambridgeSt/Joy St",D32000,42.361285,-71.06514,true,false,,,false,9,6,1334659467035
+7,"Fan Pier",A32000,42.353412,-71.044624,true,false,1316750400000,,false,2,13,1334653511165
+8,"Union Sq / Brighton Ave",A32001,42.353334,-71.137313,true,false,,,false,11,3,1334659974671
+9,"Agganis Arena / 925 Comm Ave.",A32002,42.351313,-71.116174,true,false,1332527040000,,false,17,2,1334656950391
+10,"BU Central / 725 Comm Ave",A32003,42.350075,-71.105884,true,false,,1321851600000,false,13,6,1334660846721
+11,"Longwood Ave / Binney St",A32004,42.338629,-71.1065,true,false,,,false,3,10,1334659393152
+12,"Ruggles Station / Columbus Ave.",B32002,42.335911,-71.088496,true,false,,,false,1,14,1334654354310
+13,"Boston Medical Center",C32002,42.334057,-71.07403,true,false,,,false,4,9,1334659438466
+14,"Louis Pasteur / Longwood Ave",B32003,42.337171,-71.102797,true,false,,,false,0,17,1334653965407
+15,"Harvard Stadium",A32005,42.368511,-71.124906,true,false,,,false,7,8,1334654220259
+16,"Back Bay / South End Station",C32003,42.347433,-71.076163,true,false,,,false,12,7,1334660625381
+17,"Western Ave / Soldiers Fld",A32006,42.365074,-71.119581,true,false,,,false,5,10,1334660200066
+18,"Western Ave at North Harvard",A32007,42.36337,-71.129791,true,false,,,false,14,1,1334660865530
+20,"Aquarium Station",B32004,42.35977,-71.051601,true,false,,,false,17,2,1334656113705
+21,"Prudential Center / Belvidere",C32007,42.345959,-71.082578,true,false,1331751060000,,false,4,21,1334660008815
+22,"South Station",A32010,42.352175,-71.055547,true,false,,,false,14,33,1334660647813
+23,"Government Center Station",B32008,42.359677,-71.059364,true,false,,,false,0,19,1334660319367
+24,"Seaport Blvd / Boston Wharf",B32007,42.351821,-71.045461,true,false,,,false,1,18,1334657487743
+25,"Tremont St / W Newton St",A32009,42.341332,-71.076847,true,false,,,false,5,10,1334660787404
+26,"Washington St / Waltham St",D32002,42.341522,-71.068922,true,false,1332954060000,,false,6,8,1334660448617
+27,"Roxbury Crossing Station",C32001,42.331567,-71.094734,true,false,,,false,8,7,1334653064007
+29,"125 Western Ave / Batten Way",A32011,42.363732,-71.124565,true,false,1314650640000,,false,8,7,1334652335873
+30,"Brigham Cir / Huntington Ave",B32013,42.334073,-71.105221,true,false,,,false,14,1,1334657945482
+31,"Seaport Hotel",B32014,42.348833,-71.041747,true,false,1332954120000,,false,12,2,1334660688218
+32,"Landmark Centre",B32015,42.343912,-71.102221,true,false,,,false,4,5,1334655418752
+33,"Kenmore Sq / Comm Ave",B32010,42.349046,-71.096831,true,false,,,false,7,12,1334659968947
+34,"Overland St / Brookline Ave",B32009,42.346171,-71.099855,true,false,,,false,8,7,1334654247962
+35,"Summer / Arch",D32004,42.354594,-71.05896,true,false,,,false,5,5,1334660147259
+37,"New Balance",D32001,42.357247,-71.146452,true,false,,,false,14,1,1334652104353
+38,"North Station",D32003,42.366231,-71.060868,true,false,,,false,38,8,1334660476135
+39,Washington/Rutland,C32006,42.338623,-71.074182,true,false,,,false,12,7,1334660826343
+40,"Lewis Wharf",D32006,42.363871,-71.050877,true,false,,,false,9,6,1334659838534
+41,"Packard's Corner",A32012,42.352261,-71.123831,true,false,,,false,16,1,1334656317659
+42,Boylston/Arlington,D32007,42.352096,-71.070378,true,false,,,false,3,15,1334660408822
+43,"Rowes Wharf / Atlantic Ave",D32008,42.357143,-71.050699,true,false,,,false,1,14,1334658901903
+44,"Faneuil Hall / Union St",D32009,42.360583,-71.056868,true,false,,,false,13,5,1334658732416
+45,"Yawkey Wy / Boylston St",B32011,42.344763,-71.09788,true,false,,,false,7,12,1334660841794
+46,"Christian Science Plaza",B32005,42.343864,-71.085918,true,false,,,false,9,9,1334658652367
+47,"Cross St / Hanover St",D32010,42.362811,-71.056067,true,false,,,false,2,9,1334659473136
+48,"Post Office Square",D32012,42.356755,-71.055407,true,false,,,false,9,5,1334659970875
+49,"Stuart St / Charles St",D32011,42.351146,-71.066289,true,false,1331751720000,,false,7,7,1334660541869
+51,"Washington St/Lenox St",C32005,42.3348756,-71.0790969,true,false,,,false,13,2,1334651155954
+52,"Newbury St / Hereford St",B32000,42.348717,-71.085954,true,false,,,false,6,9,1334659748904
+53,"Beacon St / Mass Ave",B32016,42.350851,-71.089886,true,false,,,false,9,6,1334658247387
+54,"Tremont St / West St",D32014,42.354979,-71.063348,true,false,1332958920000,,false,11,4,1334660353524
+55,"Boylston / Mass Ave",B32018,42.347265,-71.088088,true,false,1313726400000,,false,4,11,1334660798279
+57,"Columbus / Mass",C32004,42.340799,-71.081572,true,false,1313726400000,,false,1,10,1334660845170
+58,"Beacon St / Esplanade",D32017,42.355596,-71.07278,true,false,1314650940000,,false,9,10,1334659760192
+59,Chinatown,D32015,42.351356,-71.059367,true,false,1314763200000,,false,1,14,1334654024369
+60,"Charles Circle",D32016,42.360877,-71.07131,true,false,1316750400000,,false,4,10,1334660448840
+62,"Longwood Ave/Riverway",B32019,42.340299,-71.109927,true,false,1318564800000,,false,7,8,1334651122036
+63,"Procter &amp; Gamble",C32009,42.344023,-71.057054,true,false,1318996800000,,false,8,7,1334657060896
+64,"Congress / Sleeper",C32010,42.3511,-71.0496,true,false,,,false,2,13,1334660886650
+65,BCEC,D32018,42.3475,-71.0441,true,false,1331311920000,,false,10,8,1334652656475
+3,"Colleges of the Fenway",B32006,42.340021,-71.100812,true,false,,,false,3,11,1333747174388
+4,"Tremont / Berkeley",C32000,42.345392,-71.069616,true,false,1314590400000,,false,9,6,1333746269250
+5,"Northeastern U / North Parking Lot",B32012,42.341814,-71.090179,true,false,,,false,1,14,1333746352369
+6,"CambridgeSt/Joy St",D32000,42.361285,-71.06514,true,false,,,false,12,3,1333748388768
+7,"Fan Pier",A32000,42.353412,-71.044624,true,false,1316750400000,,false,5,10,1333745748576
+8,"Union Sq / Brighton Ave",A32001,42.353334,-71.137313,true,false,,,false,4,10,1333748250719
+9,"Agganis Arena / 925 Comm Ave.",A32002,42.351313,-71.116174,true,false,1332527040000,,false,3,16,1333748665547
+10,"BU Central / 725 Comm Ave",A32003,42.350075,-71.105884,true,false,,1321851600000,false,9,9,1333747885463
+11,"Longwood Ave / Binney St",A32004,42.338629,-71.1065,true,false,,,false,0,14,1333748456715
+12,"Ruggles Station / Columbus Ave.",B32002,42.335911,-71.088496,true,false,,,false,9,6,1333748435419
+13,"Boston Medical Center",C32002,42.334057,-71.07403,true,false,,,false,2,13,1333746916417
+14,"Louis Pasteur / Longwood Ave",B32003,42.337171,-71.102797,true,false,,,false,2,15,1333747018287
+15,"Harvard Stadium",A32005,42.368511,-71.124906,true,false,,,false,4,10,1333742993368
+16,"Back Bay / South End Station",C32003,42.347433,-71.076163,true,false,,,false,9,10,1333748508326
+17,"Western Ave / Soldiers Fld",A32006,42.365074,-71.119581,true,false,,,false,9,6,1333739355294
+18,"Western Ave at North Harvard",A32007,42.36337,-71.129791,true,false,,,false,10,5,1333740823632
+20,"Aquarium Station",B32004,42.35977,-71.051601,true,false,,,false,14,5,1333747849439
+21,"Prudential Center / Belvidere",C32007,42.345959,-71.082578,true,false,1331751060000,,false,0,24,1333748229902
+22,"South Station",A32010,42.352175,-71.055547,true,false,,,false,45,1,1333748364693
+23,"Government Center Station",B32008,42.359677,-71.059364,true,false,,,false,3,14,1333748671354
+24,"Seaport Blvd / Boston Wharf",B32007,42.351821,-71.045461,true,false,,,false,8,11,1333744483263
+25,"Tremont St / W Newton St",A32009,42.341332,-71.076847,true,false,,,false,2,13,1333748560642
+26,"Washington St / Waltham St",D32002,42.341522,-71.068922,true,false,1332954060000,,false,9,6,1333746912717
+27,"Roxbury Crossing Station",C32001,42.331567,-71.094734,true,false,,,false,5,10,1333748526893
+29,"125 Western Ave / Batten Way",A32011,42.363732,-71.124565,true,false,1314650640000,,false,12,3,1333746635984
+30,"Brigham Cir / Huntington Ave",B32013,42.334073,-71.105221,true,false,,,false,11,4,1333748360611
+31,"Seaport Hotel",B32014,42.348833,-71.041747,true,false,1332954120000,,false,6,9,1333746192082
+32,"Landmark Centre",B32015,42.343912,-71.102221,true,false,,,false,10,1,1333747236524
+33,"Kenmore Sq / Comm Ave",B32010,42.349046,-71.096831,true,false,,,false,8,11,1333748701796
+34,"Overland St / Brookline Ave",B32009,42.346171,-71.099855,true,false,,,false,6,6,1333745684108
+35,"Summer / Arch",D32004,42.354594,-71.05896,true,false,,,false,5,6,1333748506019
+36,"Boston Public  Library",D32005,42.349673,-71.077303,true,false,,,false,15,7,1333748722010
+37,"New Balance",D32001,42.357247,-71.146452,true,false,,,false,8,7,1333733917789
+38,"North Station",D32003,42.366231,-71.060868,true,false,,,false,25,21,1333748488411
+39,Washington/Rutland,C32006,42.338623,-71.074182,true,false,,,false,5,14,1333748715882
+40,"Lewis Wharf",D32006,42.363871,-71.050877,true,false,,,false,2,13,1333748169605
+41,"Packard's Corner",A32012,42.352261,-71.123831,true,false,,,false,5,14,1333747446357
+42,Boylston/Arlington,D32007,42.352096,-71.070378,true,false,,,false,1,16,1333746813468
+43,"Rowes Wharf / Atlantic Ave",D32008,42.357143,-71.050699,true,false,,,false,11,4,1333748189392
+44,"Faneuil Hall / Union St",D32009,42.360583,-71.056868,true,false,,,false,10,8,1333748683070
+45,"Yawkey Wy / Boylston St",B32011,42.344763,-71.09788,true,false,,,false,11,8,1333748532179
+46,"Christian Science Plaza",B32005,42.343864,-71.085918,true,false,,,false,5,14,1333748484337
