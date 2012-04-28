@@ -1,3 +1,4 @@
+id, name, terminalName, lat, long, installed, locked, installDate, removalDate, temporary, nbBikes, nbEmptyDocks, latestUpdateTime
 117,"Hogan / de Rouen",6128,45.536274,-73.554043,true,false,1334069580000,,false,13,6,1335481710846
 118,"Sherbrooke / Frontenac",6130,45.5367,-73.56081,true,false,1333746780000,,false,8,11,1335494494856
 119,"Sherbrooke / Fullum",6131,45.53375,-73.56196,true,false,1332959700000,,false,15,0,1335493331929
