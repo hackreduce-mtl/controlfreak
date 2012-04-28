@@ -21,7 +21,7 @@ chomp $timestamp;
 open my $fh , '>',  "/tmp/$timestamp.csv";
 
 #my @keys = ('id', 'name', 'terminalName', 'lat', 'long', 'installed', 'locked', 'installDate', 'removalDate', 'temporary', 'nbBikes', 'nbEmptyDocks', 'latestUpdateTime');
-my @keys = ('lat', 'long', 'nbBikes', 'nbEmptyDocks');
+my @keys = ('lat', 'long', 'nbBikes');
 foreach my $station (@{$parsed_stations}) {
         my @values;
         push(@values, $timestamp);
@@ -32,4 +32,4 @@ foreach my $station (@{$parsed_stations}) {
        $csv->combine(@values);
        print $fh $csv->string(), "\n";
 }
-print $timestamp, "\n";
+print "/tmp/$timestamp.csv", "\n";
