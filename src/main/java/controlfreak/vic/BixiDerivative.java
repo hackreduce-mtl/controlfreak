@@ -2,6 +2,8 @@ package controlfreak.vic;
 
 import java.io.IOException;
 import java.text.DateFormat;
+import java.text.DecimalFormat;
+import java.text.NumberFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Map;
@@ -48,6 +50,7 @@ public class BixiDerivative extends Configured implements Tool
     {
         private static final Logger LOG = Logger.getLogger(BixiDerivativeMapper.class.getName());
                 
+        private static final NumberFormat formatter = new DecimalFormat("000");
 		
         public void map(LongWritable key, Text value, Context context)
         {
@@ -57,12 +60,13 @@ public class BixiDerivative extends Configured implements Tool
                 String[] record = line.split(",");
                 
                 Calendar cal = Calendar.getInstance();
-                java.util.Date time = new java.util.Date(Long.parseLong(record[12])*1000);
+                java.util.Date time = new java.util.Date(Long.parseLong(record[12]));
                 cal.setTime(time);
+                cal.add(Calendar.HOUR, -4);
                 
                 DateFormat hourDateFormat = new SimpleDateFormat("HH");
                 
-                String k = record[3] + "," + record[4] + "," + cal.get(Calendar.DAY_OF_YEAR) + "," + hourDateFormat.format(time);
+                String k = record[3] + "," + record[4] + "," + formatter.format(cal.get(Calendar.DAY_OF_YEAR)) + "," + hourDateFormat.format(time);
                 
                 context.write(new Text(k), new Text(record[12] + "-" + record[10]));
             } 
@@ -84,7 +88,7 @@ public class BixiDerivative extends Configured implements Tool
      * K2, V2 is the result of the reduction
      * 
      */    
-    public static class BixiDerivativeReducer extends Reducer<Text, Text, Text, Text> 
+    public static class BixiDerivativeReducer extends Reducer<Text, Text, Text, DoubleWritable> 
     {
         // private static NumberFormat currencyFormat = NumberFormat.getCurrencyInstance(Locale.getDefault());
         
@@ -101,7 +105,7 @@ public class BixiDerivative extends Configured implements Tool
             	times.put(Long.parseLong(split[0]), Integer.parseInt(split[1]));
             }
             
-            int flux = 0;
+            double flux = 0.0;
             
             if (times.size() > 1)
             {
@@ -119,14 +123,14 @@ public class BixiDerivative extends Configured implements Tool
                 	}
                 	else
                 	{
-                		deltas += times.get(timesKey) - times.get(prev);
+                		deltas += Math.abs(times.get(timesKey) - times.get(prev));
                 	}
                 }
             	
-            	flux = deltas / times.size();
+            	flux = (double) deltas / times.size();
             }
             
-			context.write(key, new Text(flux + ""));
+			context.write(key, new DoubleWritable(flux));
         }
     }
     
@@ -151,7 +155,7 @@ public class BixiDerivative extends Configured implements Tool
 
         // This is what the Reducer will be outputting
         job.setOutputKeyClass(Text.class);
-        job.setOutputValueClass(Text.class);
+        job.setOutputValueClass(DoubleWritable.class);
 
         job.setInputFormatClass(TextInputFormat.class);
         job.setOutputFormatClass(TextOutputFormat.class);

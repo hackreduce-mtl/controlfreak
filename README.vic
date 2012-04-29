@@ -14,3 +14,10 @@ scp -i ~/.ssh/hackreduce.pem build/libs/HackReduce-1.0.1.jar hadoop@cluster-3.ha
 
 ssh -i ~/.ssh/hackreduce.pem hadoop@cluster-3.hackreduce.org
 
+
+hadoop/bin/hadoop jar ~/users/controlfreak/HackReduce-1.0.1.jar controlfreak.vic.Bixi /datasets/bixidata/montreal/2012.csv /users/controlfreak/job/
+hadoop/bin/hadoop dfs -copyToLocal /users/controlfreak/job /mnt/users/controlfreak/results/
+
+name <- function(day)
+	
+
