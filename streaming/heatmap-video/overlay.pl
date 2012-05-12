@@ -37,7 +37,7 @@ my ($out_w, $out_h) = (800, 600);
 my ($out_off_x, $out_off_y) = (173 ,235);
 my $out_crop_geometry = geometry($out_w, $out_h, $out_off_x, $out_off_y);
 
-my ($label_x, $label_y) = (450, 550);
+my ($label_x, $label_y) = (445, 550);
 my $label_geometry = geometry(undef, undef, $label_x, $label_y);
 my $label_size = 18;
 
@@ -75,7 +75,7 @@ sub process_image {
 
   my $dt_label = Image::Magick->new();
   $dt_label->SetAttribute(fill => 'red', background => '#0000000000000000'
-    , pointsize => $label_size);
+    , font => '/Library/Fonts/Andale Mono.ttf', pointsize => $label_size);
   my $label = 'label:' . dt_str($time_stamp);
   $dt_label->Read($label);
 
