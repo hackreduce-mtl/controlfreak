@@ -1,5 +1,6 @@
 #!/usr/bin/env perl
 
+use DateTime;
 use File::Basename;
 use Image::Magick;
 use Log::Message::Simple;
@@ -28,9 +29,17 @@ my $overlay_width = 512;
 my $ratio = 438/495; # found by stretching it over google maps in image editor
 my $overlay_geometry = geometry($overlay_width,  $ratio * $overlay_width);
 
-my $out_trans_x = 255;
-my $out_trans_y = 315;
-my $out_trans_geometry = geometry(undef, undef, $out_trans_x, $out_trans_y);
+my $overlay_trans_x = 255;
+my $overlay_trans_y = 315;
+my $overlay_trans_geometry = geometry(undef, undef, $overlay_trans_x, $overlay_trans_y);
+
+my ($out_w, $out_h) = (800, 600);
+my ($out_off_x, $out_off_y) = (173 ,235);
+my $out_crop_geometry = geometry($out_w, $out_h, $out_off_x, $out_off_y);
+
+my ($label_x, $label_y) = (450, 550);
+my $label_geometry = geometry(undef, undef, $label_x, $label_y);
+my $label_size = 18;
 
 my $background;
 $background = Image::Magick->new;
@@ -62,6 +71,14 @@ sub process_image {
   my $filename = basename($in_path);
   my $out_path = "$out_dir/$filename";
 
+  my $time_stamp = basename($in_path, '.png');
+
+  my $dt_label = Image::Magick->new();
+  $dt_label->SetAttribute(fill => 'red', background => '#0000000000000000'
+    , pointsize => $label_size);
+  my $label = 'label:' . dt_str($time_stamp);
+  $dt_label->Read($label);
+
   my $err;
 
   # read in the bixi bike data
@@ -91,8 +108,14 @@ sub process_image {
   # resize and overlay data onto map image
   $err = $overlay->Resize(geometry => $overlay_geometry);
   die $err if $err;
-  $err = $bg->Composite(image => $overlay, geometry => $out_trans_geometry);
+  $err = $bg->Composite(image => $overlay, geometry => $overlay_trans_geometry);
   die $err if $err;
+
+  # crop to output dimensions
+  $bg->Crop(geometry => $out_crop_geometry);
+
+  # add label
+  $bg->Composite(image => $dt_label, geometry => $label_geometry);
 
   $err = $bg->Write($out_path);
   die $err if $err;
@@ -113,4 +136,17 @@ sub geometry {
   my $offsets = sprintf "%+d%+d", $x_off, $y_off if defined $x_off && defined $y_off;
 
   return $dims . $offsets;
+}
+
+sub dt_from_unix {
+  my $unix_time = shift;
+  $unix_time /= 1000 if $unix_time > 2_000_000_000; # dates are circa 2012 in s or ms from epoch
+  my $dt = DateTime->from_epoch( epoch => $unix_time );
+  $dt->set_time_zone( 'America/Montreal' );
+}
+
+sub dt_str { 
+  my $unix_time = shift;
+  my $dt = dt_from_unix($unix_time);
+  return sprintf "%s\n%02d:%02d", $dt->ymd(), $dt->hour, $dt->minute;
 }
