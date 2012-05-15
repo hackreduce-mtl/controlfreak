@@ -45,11 +45,15 @@ my $background;
 $background = Image::Magick->new;
 $background->Read($bg_filename);
 
-
-if (-f $in_name) {
+if($in_name =~ m/-/) {
+  msg("Processing file names listed on stdin", $debug);
+  while(<STDIN>) {
+    chomp;
+    process_image($_);
+  }
+} elsif (-f $in_name) {
   process_image($in_name);
- }
-if (-d $in_name) {
+} elsif (-d $in_name) {
   $in_name =~ s|/$||;
   msg("Processing all .png files in $in_name", $debug);
   my $dir;
